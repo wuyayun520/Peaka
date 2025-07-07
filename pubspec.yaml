@@ -1,0 +1,189 @@
+name: peaka
+description: "Peaka - Extreme Sports Community App"
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.8
+  # 状态管理
+  provider: ^6.1.1
+  # 图片加载和缓存
+  cached_network_image: ^3.3.0
+  # 本地存储
+  shared_preferences: ^2.2.2
+  # 图片选择器
+  image_picker: ^1.0.4
+  # 视频播放器
+  video_player: ^2.8.1
+  # 滑动组件 - Updated to newer version to avoid naming conflict
+  carousel_slider: ^5.0.0
+  # 图标库
+  font_awesome_flutter: ^10.6.0
+  # 动画
+  animations: ^2.0.8
+  # 日期时间处理
+  intl: ^0.18.1
+  # 图片查看器
+  photo_view: ^0.14.0
+  record: ^6.0.0
+  just_audio: ^0.10.4
+  path_provider: ^2.1.1
+  # 瀑布流布局
+  flutter_staggered_grid_view: ^0.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^5.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/peaka_nor_bg.png
+    - assets/peaka_ai_assistant.png
+    - assets/peaka_me_topnor.png
+    - assets/peaka_aboutus_logo.png
+
+    - assets/peake_login_shadow.png
+    - assets/images/picket/1/user_1.jpg
+    - assets/images/picket/1/user_2.jpg
+    - assets/images/picket/1/user_3.jpg
+    - assets/images/picket/1/Moments/
+    - assets/images/picket/2/user_1.jpg
+    - assets/images/picket/2/user_2.jpg
+    - assets/images/picket/2/user_3.jpg
+    - assets/images/picket/2/Moments/
+    - assets/images/picket/3/user_1.jpg
+    - assets/images/picket/3/user_2.jpg
+    - assets/images/picket/3/user_3.jpg
+    - assets/images/picket/3/Moments/
+    - assets/images/picket/4/user_1.jpg
+    - assets/images/picket/4/user_2.jpg
+    - assets/images/picket/4/user_3.jpg
+    - assets/images/picket/4/Moments/
+    - assets/images/picket/5/user_1.jpg
+    - assets/images/picket/5/user_2.jpg
+    - assets/images/picket/5/user_3.jpg
+    - assets/images/picket/5/Moments/
+    - assets/images/picket/6/user_1.jpg
+    - assets/images/picket/6/user_2.jpg
+    - assets/images/picket/6/user_3.jpg
+    - assets/images/picket/6/Moments/
+    - assets/images/picket/7/user_1.jpg
+    - assets/images/picket/7/user_2.jpg
+    - assets/images/picket/7/user_3.jpg
+    - assets/images/picket/7/Moments/
+    - assets/images/picket/8/user_1.jpg
+    - assets/images/picket/8/user_2.jpg
+    - assets/images/picket/8/user_3.jpg
+    - assets/images/picket/8/Moments/
+    - assets/images/picket/9/user_1.jpg
+    - assets/images/picket/9/user_2.jpg
+    - assets/images/picket/9/user_3.jpg
+    - assets/images/picket/9/Moments/
+    - assets/images/picket/10/user_1.jpg
+    - assets/images/picket/10/user_2.jpg
+    - assets/images/picket/10/user_3.jpg
+    - assets/images/picket/10/Moments/
+    - assets/images/picket/11/user_1.jpg
+    - assets/images/picket/11/user_2.jpg
+    - assets/images/picket/11/user_3.jpg
+    - assets/images/picket/11/Moments/
+    - assets/images/picket/12/user_1.jpg
+    - assets/images/picket/12/user_2.jpg
+    - assets/images/picket/12/user_3.jpg
+    - assets/images/picket/12/Moments/
+    - assets/images/picket/13/user_1.jpg
+    - assets/images/picket/13/user_2.jpg
+    - assets/images/picket/13/user_3.jpg
+    - assets/images/picket/13/Moments/
+    - assets/images/picket/14/user_1.jpg
+    - assets/images/picket/14/user_2.jpg
+    - assets/images/picket/14/user_3.jpg
+    - assets/images/picket/14/Moments/
+    - assets/images/picket/15/user_1.jpg
+    - assets/images/picket/15/user_2.jpg
+    - assets/images/picket/15/user_3.jpg
+    - assets/images/picket/15/Moments/
+    - assets/data/
+    - assets/tab_1/
+    - assets/tab_2/
+    - assets/category/
+    - assets/videos/
+    - assets/type/
+    - assets/category/Climbing/
+    - assets/category/Diving/
+    - assets/category/skydiving/
+    - assets/category/Surfing/
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/to/resolution-aware-images
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/to/asset-from-package
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/to/font-from-package

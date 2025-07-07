@@ -1,0 +1,225 @@
+{
+  "skydiving_activities": [
+    {
+      "id": "SK001",
+      "title": "Interlaken Tandem Skydiving Experience",
+      "location": "Interlaken, Switzerland",
+      "description": "Experience the thrill of skydiving over the stunning Swiss Alps with breathtaking views of Lake Thun and Lake Brienz. This tandem jump offers the perfect introduction to skydiving with professional instructors and state-of-the-art equipment.",
+      "difficulty": "Beginner",
+      "duration": "1 day",
+      "price": 399,
+      "currency": "CHF",
+      "max_participants": 20,
+      "min_age": 16,
+      "images": "assets/category/skydiving/skydiving1.jpg",
+       
+      "included": [
+        "Professional tandem instructor",
+        "Complete safety equipment",
+        "Pre-jump training session",
+        "Freefall from 13,000 feet",
+        "Professional video and photos",
+        "Certificate of completion",
+        "Transportation from Interlaken",
+        "Safety briefing and equipment fitting"
+      ],
+      "requirements": [
+        "Minimum age 16 (parental consent required under 18)",
+        "Maximum weight 220 lbs (100 kg)",
+        "Good physical health",
+        "No heart conditions",
+        "Comfortable with heights"
+      ],
+      "dates": [
+        {
+          "start_date": "2025-07-05",
+          "end_date": "2025-07-10",
+          "available_spots": 15
+        },
+        {
+          "start_date": "2025-07-15",
+          "end_date": "2025-07-20",
+          "available_spots": 12
+        },
+        {
+          "start_date": "2025-08-10",
+          "end_date": "2025-08-10",
+          "available_spots": 18
+        }
+      ],
+      "highlights": [
+        "Alpine mountain views",
+        "Lake Thun and Brienz",
+        "Professional photography",
+        "Swiss hospitality",
+        "Adventure sports capital",
+        "Post-jump celebration"
+      ]
+    },
+    {
+      "id": "SK002",
+      "title": "Dubai Desert Skydiving Adventure",
+      "location": "Dubai, United Arab Emirates",
+      "description": "Jump over the iconic Palm Jumeirah and Dubai skyline for an unforgettable skydiving experience. This tandem jump offers spectacular views of the city's architectural wonders and the vast Arabian Desert.",
+      "difficulty": "Beginner",
+      "duration": "1 day",
+      "price": 599,
+      "currency": "USD",
+      "max_participants": 15,
+      "min_age": 18,
+      "images": "assets/category/skydiving/skydiving2.jpg",
+      "included": [
+        "Experienced tandem master",
+        "Premium safety equipment",
+        "Comprehensive training",
+        "Freefall from 13,000 feet",
+        "4K video and professional photos",
+        "Personalized certificate",
+        "Hotel pickup and drop-off",
+        "Refreshments and snacks"
+      ],
+      "requirements": [
+        "Minimum age 18",
+        "Maximum weight 200 lbs (90 kg)",
+        "Valid passport or ID",
+        "Good physical condition",
+        "No medical restrictions"
+      ],
+      "dates": [
+        {
+          "start_date": "2025-07-10",
+          "end_date": "2025-07-20",
+          "available_spots": 10
+        },
+        {
+          "start_date": "2025-08-15",
+          "end_date": "2025-08-25",
+          "available_spots": 8
+        },
+        {
+          "start_date": "2025-10-20",
+          "end_date": "2025-10-30",
+          "available_spots": 12
+        }
+      ],
+      "highlights": [
+        "Palm Jumeirah views",
+        "Dubai skyline panorama",
+        "Arabian Desert landscape",
+        "Luxury experience",
+        "Professional media package",
+        "VIP treatment"
+      ]
+    },
+    {
+      "id": "SK003",
+      "title": "Queenstown AFF Skydiving Course",
+      "location": "Queenstown, New Zealand",
+      "description": "Learn to skydive independently with our Accelerated Freefall (AFF) course in the adventure capital of the world. This comprehensive program includes ground training, multiple jumps, and certification to become a licensed skydiver.",
+      "difficulty": "Beginner to Intermediate",
+      "duration": "7 days",
+      "price": 2499,
+      "currency": "NZD",
+      "max_participants": 8,
+      "min_age": 18,
+      "images": "assets/category/skydiving/skydiving3.jpg",
+      "included": [
+        "Complete AFF course",
+        "Ground school training",
+        "8 supervised jumps",
+        "All equipment rental",
+        "Professional instructors",
+        "Accommodation in Queenstown",
+        "Transportation to dropzone",
+        "USPA certification upon completion"
+      ],
+      "requirements": [
+        "Minimum age 18",
+        "Good physical fitness",
+        "No medical conditions",
+        "Commitment to complete course",
+        "Comfortable with heights"
+      ],
+      "dates": [
+        {
+          "start_date": "2025-07-01",
+          "end_date": "2025-07-07",
+          "available_spots": 6
+        },
+        {
+          "start_date": "2025-07-15",
+          "end_date": "2025-07-21",
+          "available_spots": 4
+        },
+        {
+          "start_date": "2025-08-10",
+          "end_date": "2025-08-16",
+          "available_spots": 8
+        }
+      ],
+      "highlights": [
+        "Southern Alps views",
+        "Lake Wakatipu",
+        "Professional instruction",
+        "Independent skydiving skills",
+        "Adventure sports community",
+        "Queenstown activities"
+      ]
+    },
+    {
+      "id": "SK004",
+      "title": "Hawaii Sunset Skydiving Experience",
+      "location": "North Shore, Oahu, Hawaii, USA",
+      "description": "Experience the magic of skydiving during golden hour over the beautiful North Shore of Oahu. This sunset tandem jump offers spectacular views of the Pacific Ocean, mountains, and the famous Hawaiian coastline.",
+      "difficulty": "Beginner",
+      "duration": "1 day",
+      "price": 449,
+      "currency": "USD",
+      "max_participants": 12,
+      "min_age": 18,
+      "images": "assets/category/skydiving/skydiving4.jpg",
+      "included": [
+        "Sunset tandem jump",
+        "Professional instructor",
+        "Safety equipment",
+        "Training session",
+        "Freefall from 14,000 feet",
+        "Video and photo package",
+        "Certificate of achievement",
+        "Hawaiian refreshments"
+      ],
+      "requirements": [
+        "Minimum age 18",
+        "Maximum weight 230 lbs (104 kg)",
+        "Good health condition",
+        "No medical restrictions",
+        "Comfortable with heights"
+      ],
+      "dates": [
+        {
+          "start_date": "2025-07-07",
+          "end_date": "2025-07-10",
+          "available_spots": 8
+        },
+        {
+          "start_date": "2025-07-15",
+          "end_date": "2025-07-15",
+          "available_spots": 10
+        },
+        {
+          "start_date": "2025-08-20",
+          "end_date": "2025-08-20",
+          "available_spots": 6
+        }
+      ],
+      "highlights": [
+        "Sunset over Pacific Ocean",
+        "North Shore coastline",
+        "Mountain views",
+        "Hawaiian aloha spirit",
+        "Professional photography",
+        "Tropical paradise experience"
+      ]
+    }
+  ]
+} 

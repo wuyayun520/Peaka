@@ -1,0 +1,211 @@
+{
+  "climbing_activities": [
+    {
+      "id": "CL001",
+      "title": "Yosemite Valley Rock Climbing Adventure",
+      "location": "Yosemite National Park, California, USA",
+      "description": "Experience world-class rock climbing in the iconic Yosemite Valley. This multi-day adventure includes guided climbs on famous routes like El Capitan and Half Dome. Perfect for intermediate to advanced climbers seeking the ultimate climbing challenge.",
+      "difficulty": "Intermediate to Advanced",
+      "duration": "5 days",
+      "price": 1299,
+      "currency": "USD",
+      "max_participants": 8,
+      "min_age": 18,
+      "images": "assets/category/Climbing/Climbing1.jpg",
+      "included": [
+        "Professional climbing guide",
+        "All climbing equipment",
+        "Safety gear and helmets",
+        "Accommodation in mountain lodge",
+        "All meals during the trip",
+        "Transportation within the park",
+        "Climbing permits and park fees"
+      ],
+      "requirements": [
+        "Previous climbing experience",
+        "Good physical fitness",
+        "Valid passport",
+        "Travel insurance"
+      ],
+      "dates": [
+        {
+          "start_date": "2025-07-15",
+          "end_date": "2025-07-19",
+          "available_spots": 6
+        },
+        {
+          "start_date": "2025-07-20",
+          "end_date": "2025-07-24",
+          "available_spots": 4
+        },
+        {
+          "start_date": "2025-08-10",
+          "end_date": "2025-08-14",
+          "available_spots": 8
+        }
+      ],
+      "highlights": [
+        "Climb iconic El Capitan routes",
+        "Spectacular valley views",
+        "Professional photography included",
+        "Evening campfire sessions",
+        "Wildlife spotting opportunities"
+      ]
+    },
+    {
+      "id": "CL002",
+      "title": "Swiss Alps Via Ferrata Experience",
+      "location": "Zermatt, Switzerland",
+      "description": "Discover the thrill of via ferrata climbing in the stunning Swiss Alps. This guided experience takes you through secured climbing routes with breathtaking views of the Matterhorn. Suitable for beginners with good fitness levels.",
+      "difficulty": "Beginner to Intermediate",
+      "duration": "3 days",
+      "price": 899,
+      "currency": "EUR",
+      "max_participants": 12,
+      "min_age": 16,
+      "images": "assets/category/Climbing/Climbing2.jpg",
+      "included": [
+        "Certified via ferrata guide",
+        "Complete safety equipment",
+        "Mountain hut accommodation",
+        "Breakfast and dinner",
+        "Cable car tickets",
+        "Safety briefing and training"
+      ],
+      "requirements": [
+        "Good physical condition",
+        "No fear of heights",
+        "Comfortable hiking shoes",
+        "Weather-appropriate clothing"
+      ],
+      "dates": [
+        {
+          "start_date": "2025-07-08",
+          "end_date": "2025-07-12",
+          "available_spots": 10
+        },
+        {
+          "start_date": "2025-07-15",
+          "end_date": "2025-07-17",
+          "available_spots": 8
+        },
+        {
+          "start_date": "2025-08-05",
+          "end_date": "2025-08-07",
+          "available_spots": 12
+        }
+      ],
+      "highlights": [
+        "Matterhorn views",
+        "Alpine meadows",
+        "Traditional Swiss mountain huts",
+        "Photography opportunities",
+        "Local cheese tasting"
+      ]
+    },
+    {
+      "id": "CL003",
+      "title": "Red Rock Canyon Bouldering Camp",
+      "location": "Las Vegas, Nevada, USA",
+      "description": "Join our intensive bouldering camp in the world-famous Red Rock Canyon. Learn advanced bouldering techniques from professional climbers while enjoying the unique desert landscape just outside Las Vegas.",
+      "difficulty": "All Levels",
+      "duration": "4 days",
+      "price": 749,
+      "currency": "USD",
+      "max_participants": 10,
+      "min_age": 14,
+      "images": "assets/category/Climbing/Climbing3.jpg",
+      "included": [
+        "Professional bouldering coaches",
+        "Crash pads and safety equipment",
+        "Hotel accommodation",
+        "Daily breakfast",
+        "Transportation to climbing areas",
+        "Technique workshops",
+        "Video analysis sessions"
+      ],
+      "requirements": [
+        "Basic climbing knowledge",
+        "Comfortable with heights",
+        "Good physical fitness",
+        "Climbing shoes (can be rented)"
+      ],
+      "dates": [
+        {
+          "start_date": "2025-07-20",
+          "end_date": "2025-07-23",
+          "available_spots": 7
+        },
+        {
+          "start_date": "2025-08-10",
+          "end_date": "2025-08-13",
+          "available_spots": 5
+        },
+        {
+          "start_date": "2025-09-15",
+          "end_date": "2025-09-18",
+          "available_spots": 10
+        }
+      ],
+      "highlights": [
+        "World-class bouldering problems",
+        "Desert sunset views",
+        "Professional coaching",
+        "Evening Las Vegas entertainment",
+        "Climbing community networking"
+      ]
+    },
+    {
+      "id": "CL004",
+      "title": "Dolomites Multi-Pitch Climbing",
+      "location": "Cortina d'Ampezzo, Italy",
+      "description": "Experience the dramatic limestone peaks of the Italian Dolomites with our expert guides. This adventure includes multi-pitch climbing on classic routes with stunning alpine scenery and traditional Italian hospitality.",
+      "difficulty": "Advanced",
+      "duration": "6 days",
+      "price": 1499,
+      "currency": "EUR",
+      "max_participants": 6,
+      "min_age": 18,
+      "images": "assets/category/Climbing/Climbing4.jpg",
+      "included": [
+        "UIAGM certified mountain guides",
+        "All technical climbing equipment",
+        "Mountain refuges accommodation",
+        "Full board meals",
+        "Transportation between climbing areas",
+        "Emergency equipment and first aid",
+        "Route planning and weather monitoring"
+      ],
+      "requirements": [
+        "Advanced climbing experience",
+        "Multi-pitch climbing skills",
+        "Excellent physical condition",
+        "Previous alpine experience preferred"
+      ],
+      "dates": [
+        {
+          "start_date": "2025-07-07",
+          "end_date": "2025-07-10",
+          "available_spots": 4
+        },
+        {
+          "start_date": "2025-08-12",
+          "end_date": "2025-08-17",
+          "available_spots": 6
+        },
+        {
+          "start_date": "2025-09-02",
+          "end_date": "2025-09-07",
+          "available_spots": 3
+        }
+      ],
+      "highlights": [
+        "Classic Dolomite routes",
+        "Alpine refuges experience",
+        "Italian cuisine",
+        "Panoramic mountain views",
+        "Cultural heritage sites"
+      ]
+    }
+  ]
+} 

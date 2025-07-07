@@ -1,0 +1,226 @@
+{
+  "surfing_activities": [
+    {
+      "id": "SF001",
+      "title": "Pipeline Surf Camp Hawaii",
+      "location": "North Shore, Oahu, Hawaii, USA",
+      "description": "Learn to surf at the world-famous Pipeline on the North Shore of Oahu. This intensive surf camp is designed for intermediate to advanced surfers who want to experience some of the most challenging and rewarding waves in the world.",
+      "difficulty": "Intermediate to Advanced",
+      "duration": "7 days",
+      "price": 1899,
+      "currency": "USD",
+      "max_participants": 8,
+      "min_age": 18,
+      "images": "assets/category/Surfing/Surfing1.jpg",
+       
+      "included": [
+        "Professional surf instructors",
+        "Surfboard rental (various sizes)",
+        "Beachfront accommodation",
+        "All meals and snacks",
+        "Daily surf sessions",
+        "Video analysis sessions",
+        "Surf theory and ocean safety",
+        "Transportation to surf spots"
+      ],
+      "requirements": [
+        "Intermediate surfing ability",
+        "Good physical fitness",
+        "Comfortable in big waves",
+        "Previous surf experience",
+        "Ocean safety knowledge"
+      ],
+      "dates": [
+        {
+          "start_date": "2025-09-15",
+          "end_date": "2025-09-21",
+          "available_spots": 6
+        },
+        {
+          "start_date": "2025-10-10",
+          "end_date": "2025-10-16",
+          "available_spots": 4
+        },
+        {
+          "start_date": "2025-11-05",
+          "end_date": "2025-11-11",
+          "available_spots": 8
+        }
+      ],
+      "highlights": [
+        "Pipeline wave experience",
+        "Professional coaching",
+        "Video analysis",
+        "Hawaiian surf culture",
+        "Sunset beach sessions",
+        "Local surf community"
+      ]
+    },
+    {
+      "id": "SF002",
+      "title": "Gold Coast Surf Academy Australia",
+      "location": "Gold Coast, Queensland, Australia",
+      "description": "Join our comprehensive surf academy on the famous Gold Coast, home to some of Australia's best waves. This program combines surf instruction with ocean education and beach lifestyle for a complete surfing experience.",
+      "difficulty": "All Levels",
+      "duration": "10 days",
+      "price": 2499,
+      "currency": "AUD",
+      "max_participants": 12,
+      "min_age": 16,
+      "images": "assets/category/Surfing/Surfing2.jpg",
+      "included": [
+        "Certified surf instructors",
+        "Quality surfboards for all levels",
+        "Beachfront hostel accommodation",
+        "Breakfast and lunch daily",
+        "Multiple surf sessions per day",
+        "Ocean safety training",
+        "Surf photography package",
+        "Equipment maintenance"
+      ],
+      "requirements": [
+        "Swimming ability",
+        "Good physical condition",
+        "Comfortable in ocean",
+        "No previous surf experience needed",
+        "Positive attitude"
+      ],
+      "dates": [
+        {
+          "start_date": "2025-07-01",
+          "end_date": "2025-07-10",
+          "available_spots": 10
+        },
+        {
+          "start_date": "2025-07-15",
+          "end_date": "2025-07-24",
+          "available_spots": 8
+        },
+        {
+          "start_date": "2025-08-20",
+          "end_date": "2025-08-29",
+          "available_spots": 12
+        }
+      ],
+      "highlights": [
+        "Gold Coast point breaks",
+        "Professional instruction",
+        "Surf photography",
+        "Australian beach culture",
+        "Wildlife encounters",
+        "Sunset surf sessions"
+      ]
+    },
+    {
+      "id": "SF003",
+      "title": "Bali Surf Retreat Indonesia",
+      "location": "Uluwatu, Bali, Indonesia",
+      "description": "Experience the perfect waves of Bali at our exclusive surf retreat in Uluwatu. This luxury surf experience combines world-class waves with traditional Balinese hospitality and modern amenities.",
+      "difficulty": "Intermediate to Advanced",
+      "duration": "8 days",
+      "price": 1699,
+      "currency": "USD",
+      "max_participants": 10,
+      "min_age": 18,
+      "images": "assets/category/Surfing/Surfing3.jpg",
+      "included": [
+        "Expert local surf guides",
+        "Premium surfboard selection",
+        "Luxury villa accommodation",
+        "All meals and beverages",
+        "Daily surf sessions",
+        "Surf spot transportation",
+        "Massage and wellness sessions",
+        "Cultural activities"
+      ],
+      "requirements": [
+        "Intermediate surfing skills",
+        "Experience with reef breaks",
+        "Good physical fitness",
+        "Travel insurance",
+        "Respect for local culture"
+      ],
+      "dates": [
+        {
+          "start_date": "2025-07-01",
+          "end_date": "2025-07-08",
+          "available_spots": 8
+        },
+        {
+          "start_date": "2025-08-10",
+          "end_date": "2025-08-17",
+          "available_spots": 6
+        },
+        {
+          "start_date": "2025-09-20",
+          "end_date": "2025-09-27",
+          "available_spots": 10
+        }
+      ],
+      "highlights": [
+        "Uluwatu reef breaks",
+        "Balinese culture",
+        "Luxury accommodation",
+        "Wellness treatments",
+        "Temple visits",
+        "Traditional cuisine"
+      ]
+    },
+    {
+      "id": "SF004",
+      "title": "Portugal Big Wave Surfing",
+      "location": "Nazaré, Portugal",
+      "description": "Challenge yourself with the biggest waves in the world at Nazaré, Portugal. This advanced surf program is designed for experienced surfers who want to push their limits and surf legendary big waves.",
+      "difficulty": "Expert",
+      "duration": "5 days",
+      "price": 2999,
+      "currency": "EUR",
+      "max_participants": 6,
+      "min_age": 21,
+      "images": "assets/category/Surfing/Surfing4.jpg",
+      "included": [
+        "Big wave specialists",
+        "Specialized big wave boards",
+        "Safety equipment and jet ski support",
+        "Luxury hotel accommodation",
+        "All meals",
+        "Weather and wave forecasting",
+        "Safety training and protocols",
+        "Professional photography"
+      ],
+      "requirements": [
+        "Expert surfing ability",
+        "Big wave experience",
+        "Excellent physical condition",
+        "Mental preparation",
+        "Previous big wave surfing",
+        "Safety training certification"
+      ],
+      "dates": [
+        {
+          "start_date": "2025-10-15",
+          "end_date": "2025-10-19",
+          "available_spots": 4
+        },
+        {
+          "start_date": "2025-11-10",
+          "end_date": "2025-11-14",
+          "available_spots": 3
+        },
+        {
+          "start_date": "2025-12-05",
+          "end_date": "2025-12-09",
+          "available_spots": 6
+        }
+      ],
+      "highlights": [
+        "Nazaré big waves",
+        "Professional safety support",
+        "Expert coaching",
+        "Portuguese culture",
+        "Historic fishing village",
+        "World record waves"
+      ]
+    }
+  ]
+} 

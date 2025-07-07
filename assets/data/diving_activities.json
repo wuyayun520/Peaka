@@ -1,0 +1,222 @@
+{
+  "diving_activities": [
+    {
+      "id": "DV001",
+      "title": "Great Barrier Reef Liveaboard Adventure",
+      "location": "Cairns, Queensland, Australia",
+      "description": "Embark on a 7-day liveaboard journey to explore the world's largest coral reef system. Dive with sharks, turtles, and colorful marine life while staying on a luxury dive boat. Experience multiple dives per day including night dives.",
+      "difficulty": "Intermediate to Advanced",
+      "duration": "7 days",
+      "price": 2499,
+      "currency": "AUD",
+      "max_participants": 16,
+      "min_age": 18,
+      "images": "assets/category/Diving/Diving1.jpg",
+       
+      "included": [
+        "PADI certified dive master",
+        "All diving equipment",
+        "Luxury liveaboard accommodation",
+        "All meals and snacks",
+        "Up to 4 dives per day",
+        "Night diving sessions",
+        "Marine biology lectures",
+        "Underwater photography guidance"
+      ],
+      "requirements": [
+        "PADI Open Water certification",
+        "Minimum 20 logged dives",
+        "Good physical health",
+        "Travel insurance with diving coverage"
+      ],
+      "dates": [
+        {
+          "start_date": "2024-06-10",
+          "end_date": "2024-06-16",
+          "available_spots": 12
+        },
+        {
+          "start_date": "2024-07-15",
+          "end_date": "2024-07-21",
+          "available_spots": 8
+        },
+        {
+          "start_date": "2024-08-20",
+          "end_date": "2024-08-26",
+          "available_spots": 14
+        }
+      ],
+      "highlights": [
+        "Coral reef exploration",
+        "Shark encounters",
+        "Turtle nesting sites",
+        "Colorful tropical fish",
+        "Sunset deck parties",
+        "Marine conservation education"
+      ]
+    },
+    {
+      "id": "DV002",
+      "title": "Galapagos Islands Scuba Expedition",
+      "location": "Galapagos Islands, Ecuador",
+      "description": "Discover the unique marine life of the Galapagos Islands, including hammerhead sharks, sea lions, and marine iguanas. This expedition combines land and sea adventures with world-class diving in one of the most biodiverse marine environments.",
+      "difficulty": "Advanced",
+      "duration": "10 days",
+      "price": 3899,
+      "currency": "USD",
+      "max_participants": 12,
+      "min_age": 18,
+      "images": "assets/category/Diving/Diving2.jpg",
+      "included": [
+        "Expert marine biologist guide",
+        "Professional dive equipment",
+        "Luxury yacht accommodation",
+        "All meals and beverages",
+        "Multiple dive sites daily",
+        "Land excursions",
+        "Wildlife photography workshops",
+        "Conservation project participation"
+      ],
+      "requirements": [
+        "PADI Advanced Open Water",
+        "Minimum 50 logged dives",
+        "Experience with strong currents",
+        "Excellent physical condition"
+      ],
+      "dates": [
+        {
+          "start_date": "2025-07-01",
+          "end_date": "2025-07-10",
+          "available_spots": 8
+        },
+        {
+          "start_date": "2025-08-05",
+          "end_date": "2025-08-14",
+          "available_spots": 6
+        },
+        {
+          "start_date": "2025-09-10",
+          "end_date": "2025-09-19",
+          "available_spots": 10
+        }
+      ],
+      "highlights": [
+        "Hammerhead shark encounters",
+        "Sea lion interactions",
+        "Marine iguana sightings",
+        "Giant tortoise visits",
+        "Unique island ecosystems",
+        "Conservation research participation"
+      ]
+    },
+    {
+      "id": "DV003",
+      "title": "Red Sea Wreck Diving Special",
+      "location": "Sharm El Sheikh, Egypt",
+      "description": "Explore the famous shipwrecks of the Red Sea including the SS Thistlegorm and the Dunraven. This specialized wreck diving course combines historical exploration with technical diving skills in crystal clear waters.",
+      "difficulty": "Intermediate",
+      "duration": "6 days",
+      "price": 1299,
+      "currency": "EUR",
+      "max_participants": 8,
+      "min_age": 16,
+      "images": "assets/category/Diving/Diving3.jpg",
+      "included": [
+        "PADI Wreck Diver certification",
+        "Complete technical diving gear",
+        "Resort accommodation",
+        "Half board meals",
+        "Daily boat trips",
+        "Wreck diving theory",
+        "Underwater navigation training",
+        "Historical briefing sessions"
+      ],
+      "requirements": [
+        "PADI Open Water certification",
+        "Minimum 25 logged dives",
+        "Basic navigation skills",
+        "Comfortable with confined spaces"
+      ],
+      "dates": [
+        {
+          "start_date": "2025-07-15",
+          "end_date": "2025-07-20",
+          "available_spots": 6
+        },
+        {
+          "start_date": "2025-08-20",
+          "end_date": "2025-08-25",
+          "available_spots": 4
+        },
+        {
+          "start_date": "2025-09-05",
+          "end_date": "2025-09-10",
+          "available_spots": 8
+        }
+      ],
+      "highlights": [
+        "SS Thistlegorm wreck",
+        "Dunraven shipwreck",
+        "Coral reef exploration",
+        "Historical artifacts",
+        "Desert excursions",
+        "Bedouin cultural experience"
+      ]
+    },
+    {
+      "id": "DV004",
+      "title": "Cenotes Cave Diving Mexico",
+      "location": "Tulum, Quintana Roo, Mexico",
+      "description": "Experience the mystical underwater caves of the Yucatan Peninsula. Dive through ancient Mayan cenotes with crystal clear fresh water, stunning rock formations, and unique light effects. Perfect for adventurous divers seeking something extraordinary.",
+      "difficulty": "Advanced",
+      "duration": "5 days",
+      "price": 1699,
+      "currency": "USD",
+      "max_participants": 6,
+      "min_age": 18,
+      "images": "assets/category/Diving/Diving4.jpg",
+      "included": [
+        "Cave diving specialist guide",
+        "Full cave diving equipment",
+        "Eco-resort accommodation",
+        "All meals",
+        "Multiple cenote dives",
+        "Cave diving theory",
+        "Safety equipment and protocols",
+        "Mayan cultural tours"
+      ],
+      "requirements": [
+        "PADI Advanced Open Water",
+        "Cave diving certification",
+        "Minimum 100 logged dives",
+        "Excellent buoyancy control",
+        "Cave diving experience"
+      ],
+      "dates": [
+        {
+          "start_date": "2025-07-01",
+          "end_date": "2025-07-05",
+          "available_spots": 4
+        },
+        {
+          "start_date": "2025-07-10",
+          "end_date": "2025-07-14",
+          "available_spots": 6
+        },
+        {
+          "start_date": "2025-08-15",
+          "end_date": "2025-08-19",
+          "available_spots": 3
+        }
+      ],
+      "highlights": [
+        "Ancient cave systems",
+        "Stalactite formations",
+        "Light beam effects",
+        "Mayan archaeological sites",
+        "Jungle adventures",
+        "Traditional Mexican cuisine"
+      ]
+    }
+  ]
+} 
