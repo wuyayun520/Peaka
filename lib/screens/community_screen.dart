@@ -2,12 +2,14 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:video_player/video_player.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../main.dart';
 import '../models/user.dart';
 import '../services/comment_service.dart';
 import '../utils/theme.dart';
 import 'post_detail_screen.dart';
 import 'video_player_screen.dart';
+import 'subscriptions_page.dart';
 
 class CommunityScreen extends StatefulWidget {
   const CommunityScreen({super.key});
@@ -16,25 +18,49 @@ class CommunityScreen extends StatefulWidget {
   State<CommunityScreen> createState() => _CommunityScreenState();
 }
 
-class _CommunityScreenState extends State<CommunityScreen> {
+class _CommunityScreenState extends State<CommunityScreen> with WidgetsBindingObserver {
   List<PostWithUser> _allPosts = [];
   bool _isLoading = true;
   final Map<String, VideoPlayerController> _videoControllers = {};
   Map<String, int> _commentCounts = {};
+  bool _isVip = false;
 
   @override
   void initState() {
     super.initState();
+    WidgetsBinding.instance.addObserver(this);
     _loadPosts();
+    _loadVipStatus();
   }
 
   @override
   void dispose() {
+    WidgetsBinding.instance.removeObserver(this);
     // Dispose all video controllers
     for (var controller in _videoControllers.values) {
       controller.dispose();
     }
     super.dispose();
+  }
+
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    if (state == AppLifecycleState.resumed) {
+      // 当应用恢复时刷新VIP状态
+      _refreshVipStatus();
+    }
+  }
+
+  Future<void> _loadVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _isVip = prefs.getBool('isVip') ?? false;
+    });
+  }
+
+  // 刷新VIP状态（从订阅页面返回时调用）
+  Future<void> _refreshVipStatus() async {
+    await _loadVipStatus();
   }
 
   void _loadPosts() async {
@@ -85,6 +111,161 @@ class _CommunityScreenState extends State<CommunityScreen> {
     setState(() {
       _commentCounts = commentCounts;
     });
+  }
+
+  // VIP检查并处理帖子点击
+  void _handlePostTap(PostWithUser postWithUser) async {
+    if (!_isVip) {
+      _showVipRequiredDialog();
+    } else {
+      await _navigateToPostDetail(postWithUser);
+    }
+  }
+
+  // 显示VIP要求对话框
+  void _showVipRequiredDialog() {
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(16),
+        ),
+        title: Row(
+          children: [
+            Container(
+              padding: const EdgeInsets.all(8),
+              decoration: BoxDecoration(
+                gradient: const LinearGradient(
+                  colors: [Color(0xFF1976D2), Color(0xFF42A5F5)],
+                  begin: Alignment.topLeft,
+                  end: Alignment.bottomRight,
+                ),
+                borderRadius: BorderRadius.circular(8),
+              ),
+              child: const Icon(
+                Icons.terrain,
+                color: Colors.white,
+                size: 24,
+              ),
+            ),
+            const SizedBox(width: 12),
+            const Text(
+              'Premium Required',
+              style: TextStyle(
+                color: Color(0xFF1976D2),
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+          ],
+        ),
+        content: Column(
+          mainAxisSize: MainAxisSize.min,
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const Text(
+              'To view post details and interact with the community, you need Extreme Premium.',
+              style: TextStyle(
+                fontSize: 16,
+                height: 1.4,
+              ),
+            ),
+            const SizedBox(height: 16),
+            Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: const Color(0xFF1976D2).withValues(alpha: 0.1),
+                borderRadius: BorderRadius.circular(8),
+                border: Border.all(
+                  color: const Color(0xFF1976D2).withValues(alpha: 0.3),
+                ),
+              ),
+              child: const Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    'Premium Plans:',
+                    style: TextStyle(
+                      fontWeight: FontWeight.bold,
+                      color: Color(0xFF1976D2),
+                    ),
+                  ),
+                  SizedBox(height: 8),
+                  Row(
+                    children: [
+                      Icon(Icons.schedule, color: Color(0xFF1976D2), size: 16),
+                      SizedBox(width: 8),
+                      Text('Weekly: \$12.99'),
+                    ],
+                  ),
+                  SizedBox(height: 4),
+                  Row(
+                    children: [
+                      Icon(Icons.calendar_month, color: Color(0xFF1976D2), size: 16),
+                      SizedBox(width: 8),
+                      Text('Monthly: \$49.99'),
+                    ],
+                  ),
+                ],
+              ),
+            ),
+          ],
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(context),
+            child: Text(
+              'Cancel',
+              style: TextStyle(
+                color: Colors.grey[600],
+                fontSize: 16,
+              ),
+            ),
+          ),
+          ElevatedButton(
+            onPressed: () async {
+              Navigator.pop(context);
+              await Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => const SubscriptionsPage(),
+                ),
+              );
+              // 返回时刷新VIP状态
+              _refreshVipStatus();
+            },
+            style: ElevatedButton.styleFrom(
+              backgroundColor: const Color(0xFF1976D2),
+              foregroundColor: Colors.white,
+              shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(8),
+              ),
+            ),
+            child: const Text(
+              'Get Premium',
+              style: TextStyle(
+                fontSize: 16,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  // 导航到帖子详情页面
+  Future<void> _navigateToPostDetail(PostWithUser postWithUser) async {
+    await Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => PostDetailScreen(
+          post: postWithUser.post,
+          user: postWithUser.user,
+        ),
+      ),
+    );
+    // 返回时刷新评论数量
+    _refreshCommentCounts();
   }
 
   @override
@@ -162,20 +343,7 @@ class _CommunityScreenState extends State<CommunityScreen> {
     final commentCount = _commentCounts[post.postId] ?? 0;
     
     return GestureDetector(
-      onTap: () async {
-        // 所有帖子都跳转到帖子详情页面
-        await Navigator.push(
-          context,
-          MaterialPageRoute(
-            builder: (context) => PostDetailScreen(
-              post: post,
-              user: user,
-            ),
-          ),
-        );
-        // 返回时刷新评论数量
-        _refreshCommentCounts();
-      },
+      onTap: () => _handlePostTap(postWithUser),
       child: Card(
         elevation: 4,
         shape: RoundedRectangleBorder(

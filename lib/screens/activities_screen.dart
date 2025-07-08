@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../services/ai_service.dart';
+import 'subscriptions_page.dart';
 
 class Message {
   final String text;
@@ -16,12 +18,14 @@ class ActivitiesScreen extends StatefulWidget {
   State<ActivitiesScreen> createState() => _ActivitiesScreenState();
 }
 
-class _ActivitiesScreenState extends State<ActivitiesScreen> {
+class _ActivitiesScreenState extends State<ActivitiesScreen> with WidgetsBindingObserver {
   final TextEditingController _textController = TextEditingController();
   final AIService _aiService = AIService();
   final List<Message> _messages = [];
   final FocusNode _focusNode = FocusNode();
   bool _isLoading = false;
+  bool _isVip = false;
+  DateTime? _vipExpiry;
 
   final List<String> _quickReplies = [
     'Best places for skydiving?',
@@ -34,6 +38,8 @@ class _ActivitiesScreenState extends State<ActivitiesScreen> {
   @override
   void initState() {
     super.initState();
+    WidgetsBinding.instance.addObserver(this);
+    _loadVipStatus();
     _messages.add(Message(
       'Hey there!\nYour AI sports helper - feel free to ask me anything!',
       false,
@@ -42,13 +48,51 @@ class _ActivitiesScreenState extends State<ActivitiesScreen> {
 
   @override
   void dispose() {
+    WidgetsBinding.instance.removeObserver(this);
     _textController.dispose();
     _focusNode.dispose();
     super.dispose();
   }
 
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    if (state == AppLifecycleState.resumed) {
+      // 当应用恢复时刷新VIP状态
+      _refreshVipStatus();
+    }
+  }
+
+  Future<void> _loadVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _isVip = prefs.getBool('isVip') ?? false;
+      final expiryStr = prefs.getString('vipExpiry');
+      _vipExpiry = expiryStr != null ? DateTime.tryParse(expiryStr) : null;
+    });
+  }
+
+  // 检查是否为月订阅用户
+  bool _isMonthlyVip() {
+    if (!_isVip || _vipExpiry == null) return false;
+    
+    // 检查是否还有至少10天的有效期（月订阅通常30天，给一些缓冲时间）
+    final daysRemaining = _vipExpiry!.difference(DateTime.now()).inDays;
+    return daysRemaining >= 10;
+  }
+
+  // 刷新VIP状态（从订阅页面返回时调用）
+  Future<void> _refreshVipStatus() async {
+    await _loadVipStatus();
+  }
+
   Future<void> _handleSubmitted(String text, {bool isQuickReply = false}) async {
     if (text.isEmpty) return;
+
+    // 检查VIP状态
+    if (!_isMonthlyVip()) {
+      _showVipRequiredDialog();
+      return;
+    }
 
     setState(() {
       _messages.add(Message(text, true, isQuickReply: isQuickReply));
@@ -77,6 +121,139 @@ class _ActivitiesScreenState extends State<ActivitiesScreen> {
         });
       }
     }
+  }
+
+  // 显示VIP要求对话框
+  void _showVipRequiredDialog() {
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(16),
+        ),
+        title: Row(
+          children: [
+            Container(
+              padding: const EdgeInsets.all(8),
+              decoration: BoxDecoration(
+                gradient: const LinearGradient(
+                  colors: [Color(0xFF1976D2), Color(0xFF42A5F5)],
+                  begin: Alignment.topLeft,
+                  end: Alignment.bottomRight,
+                ),
+                borderRadius: BorderRadius.circular(8),
+              ),
+              child: const Icon(
+                Icons.support_agent,
+                color: Colors.white,
+                size: 24,
+              ),
+            ),
+            const SizedBox(width: 12),
+            Expanded(
+              child: const Text(
+                'Monthly Premium Required',
+                style: TextStyle(
+                  color: Color(0xFF1976D2),
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+          ],
+        ),
+        content: Column(
+          mainAxisSize: MainAxisSize.min,
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const Text(
+              'To chat with AI advisors and get personalized sports advice, you need Monthly Premium.',
+              style: TextStyle(
+                fontSize: 16,
+                height: 1.4,
+              ),
+            ),
+            const SizedBox(height: 16),
+            Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: const Color(0xFF1976D2).withValues(alpha: 0.1),
+                borderRadius: BorderRadius.circular(8),
+                border: Border.all(
+                  color: const Color(0xFF1976D2).withValues(alpha: 0.3),
+                ),
+              ),
+              child: const Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    'Monthly Premium:',
+                    style: TextStyle(
+                      fontWeight: FontWeight.bold,
+                      color: Color(0xFF1976D2),
+                    ),
+                  ),
+                  SizedBox(height: 8),
+                  Row(
+                    children: [
+                      Icon(Icons.calendar_month, color: Color(0xFF1976D2), size: 16),
+                      SizedBox(width: 8),
+                      Text('\$49.99 per month'),
+                    ],
+                  ),
+                  SizedBox(height: 4),
+                  Row(
+                    children: [
+                      Icon(Icons.check_circle, color: Color(0xFF1976D2), size: 16),
+                      SizedBox(width: 8),
+                      Text('Unlimited AI consultation'),
+                    ],
+                  ),
+                ],
+              ),
+            ),
+          ],
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(context),
+            child: Text(
+              'Cancel',
+              style: TextStyle(
+                color: Colors.grey[600],
+                fontSize: 16,
+              ),
+            ),
+          ),
+          ElevatedButton(
+            onPressed: () async {
+              Navigator.pop(context);
+              await Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => const SubscriptionsPage(initialIndex: 1), // 默认选择月订阅
+                ),
+              );
+              // 返回时刷新VIP状态
+              _refreshVipStatus();
+            },
+            style: ElevatedButton.styleFrom(
+              backgroundColor: const Color(0xFF1976D2),
+              foregroundColor: Colors.white,
+              shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(8),
+              ),
+            ),
+            child: const Text(
+              'Get Monthly Premium',
+              style: TextStyle(
+                fontSize: 16,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
   }
 
   @override
