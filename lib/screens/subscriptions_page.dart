@@ -626,7 +626,7 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
                             TextButton(
-                              onPressed: () => _launchURL('https://sites.google.com/view/kreamyprivacy/home'),
+                              onPressed: () => _launchURL('https://sites.google.com/view/peakahome/privacypolicy'),
                               child: Text(
                                 'Privacy Policy',
                                 style: TextStyle(
