@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentVisitorBound</key>
+	<string>routerChainIndex</string>
+	<key>buttonOperationSkewy</key>
+	<string>navigationObserverAcceleration</string>
+	<key>isolateUntilMethod</key>
+	<string>navigatorFrameworkDuration</string>
+	<key>methodPatternPressure</key>
+	<string>timerExceptProxy</string>
+	<key>resizableMobxStyle</key>
+	<string>symmetricViewPressure</string>
+	<key>symmetricDelegateLeft</key>
+	<string>capacitiesLayerTag</string>
+	<key>webDurationOffset</key>
+	<string>ephemeralDimensionLocation</string>
+</dict>
+</plist>

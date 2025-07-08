@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderLikeValue</key>
+	<string>controllerNumberValidation</string>
+	<key>durationKindType</key>
+	<string>fixedCupertinoDepth</string>
+	<key>globalRouteState</key>
+	<string>popupExceptAction</string>
+	<key>persistentChannelsInteraction</key>
+	<string>rowPerParam</string>
+	<key>positionOfOperation</key>
+	<string>liteHandlerSpacing</string>
+	<key>reusableMetadataScale</key>
+	<string>lazyConstraintLocation</string>
+	<key>sliderTypeEdge</key>
+	<string>gridStructureCoord</string>
+	<key>spriteAboutBuffer</key>
+	<string>sharedCubitBrightness</string>
+	<key>uniqueUsecaseMargin</key>
+	<string>staticSignatureVelocity</string>
+</dict>
+</plist>

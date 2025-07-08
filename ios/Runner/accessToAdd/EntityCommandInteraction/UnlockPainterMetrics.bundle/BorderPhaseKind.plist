@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularSliderType</key>
+	<string>resourceCycleDelay</string>
+	<key>graphNearType</key>
+	<string>rowVersusScope</string>
+	<key>nativeSessionVelocity</key>
+	<string>multiplicationAtType</string>
+	<key>opaqueLossTransparency</key>
+	<string>utilUntilCycle</string>
+	<key>optimizerStageRate</key>
+	<string>cubitSystemAcceleration</string>
+</dict>
+</plist>

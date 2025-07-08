@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasShapeCount</key>
+	<string>characterShapeStatus</string>
+	<key>completionPerKind</key>
+	<string>mainTransitionAppearance</string>
+	<key>nativeApertureLocation</key>
+	<string>transitionLevelDistance</string>
+	<key>reducerMementoTail</key>
+	<string>crucialNibVisible</string>
+</dict>
+</plist>

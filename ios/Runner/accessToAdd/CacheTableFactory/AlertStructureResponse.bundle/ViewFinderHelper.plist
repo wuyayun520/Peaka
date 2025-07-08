@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAdapterContrast</key>
+	<string>associatedSubpixelPressure</string>
+	<key>menuOrParam</key>
+	<string>tableCompositeOpacity</string>
+	<key>petAndTask</key>
+	<string>descriptionPerNumber</string>
+	<key>sampleThroughChain</key>
+	<string>statelessMediaqueryPressure</string>
+	<key>subpixelTemplePadding</key>
+	<string>specifierOfStructure</string>
+	<key>textureAsObserver</key>
+	<string>sharedTransitionDuration</string>
+</dict>
+</plist>

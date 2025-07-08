@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchAsParam</key>
+	<string>popupExceptScope</string>
+	<key>chapterInterpreterMode</key>
+	<string>gateFromActivity</string>
+	<key>cursorOfVar</key>
+	<string>robustPlaybackTheme</string>
+	<key>effectAboutStage</key>
+	<string>resourceUntilNumber</string>
+	<key>stateAwayMethod</key>
+	<string>deferredBaseRate</string>
+</dict>
+</plist>

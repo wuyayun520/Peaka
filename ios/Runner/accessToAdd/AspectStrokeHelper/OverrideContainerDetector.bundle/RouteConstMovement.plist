@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonOrStage</key>
+	<string>previewJobFeedback</string>
+	<key>columnBeyondSystem</key>
+	<string>scrollOfCycle</string>
+	<key>popupFunctionCenter</key>
+	<string>elasticPageviewResponse</string>
+	<key>remainderVersusMemento</key>
+	<string>statePrototypeDelay</string>
+</dict>
+</plist>

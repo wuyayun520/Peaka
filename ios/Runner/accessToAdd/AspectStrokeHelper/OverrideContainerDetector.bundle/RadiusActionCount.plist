@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainVectorRate</key>
+	<string>particlePerStage</string>
+	<key>mediaViaMediator</key>
+	<string>switchFacadeCenter</string>
+	<key>navigatorAlongLevel</key>
+	<string>exceptionActivityPadding</string>
+	<key>requestThanCycle</key>
+	<string>viewWithoutSingleton</string>
+	<key>responseModeCenter</key>
+	<string>ephemeralBaseOrigin</string>
+	<key>resultForMode</key>
+	<string>clipperOutsideValue</string>
+	<key>reusableCycleAcceleration</key>
+	<string>statefulFeatureAcceleration</string>
+</dict>
+</plist>

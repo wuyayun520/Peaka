@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentOutsideTask</key>
+	<string>factoryMementoBehavior</string>
+	<key>missionOutsideShape</key>
+	<string>factoryKindHead</string>
+	<key>nextHashVelocity</key>
+	<string>ephemeralTangentAcceleration</string>
+	<key>petWithWork</key>
+	<string>singlePromiseDensity</string>
+	<key>prevLayoutTop</key>
+	<string>actionStageResponse</string>
+	<key>usedTouchMode</key>
+	<string>smartBaseOffset</string>
+</dict>
+</plist>

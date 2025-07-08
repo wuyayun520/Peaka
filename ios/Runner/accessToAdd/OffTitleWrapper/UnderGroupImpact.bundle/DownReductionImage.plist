@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAnimationOrigin</key>
+	<string>asynchronousContainerSpacing</string>
+	<key>callbackOfInterpreter</key>
+	<string>playbackInsideInterpreter</string>
+	<key>channelStateBorder</key>
+	<string>invisibleViewOrigin</string>
+	<key>constraintViaParam</key>
+	<string>staticNavigationPressure</string>
+	<key>diffableCoordinatorVelocity</key>
+	<string>statefulInProcess</string>
+	<key>groupPerOperation</key>
+	<string>diversifiedCubeVisible</string>
+	<key>slashVariableResponse</key>
+	<string>streamContainMemento</string>
+	<key>sortedListenerCoord</key>
+	<string>resultIncludeAdapter</string>
+</dict>
+</plist>

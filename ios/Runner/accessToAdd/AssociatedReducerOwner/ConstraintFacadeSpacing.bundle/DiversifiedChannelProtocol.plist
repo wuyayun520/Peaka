@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveUntilFlyweight</key>
+	<string>graphPhaseSkewy</string>
+	<key>durationSystemForce</key>
+	<string>roleSystemVelocity</string>
+	<key>labelChainSkewy</key>
+	<string>discardedCurveOrigin</string>
+	<key>layerBufferTint</key>
+	<string>shaderWithBuffer</string>
+	<key>optionWithParam</key>
+	<string>layoutParameterForce</string>
+	<key>relationalCurveContrast</key>
+	<string>aspectLevelIndex</string>
+	<key>screenFormMargin</key>
+	<string>previewOrComposite</string>
+	<key>smallDropdownbuttonEdge</key>
+	<string>commonDelegateEdge</string>
+	<key>uniformSessionOrientation</key>
+	<string>radiusLikeMediator</string>
+</dict>
+</plist>

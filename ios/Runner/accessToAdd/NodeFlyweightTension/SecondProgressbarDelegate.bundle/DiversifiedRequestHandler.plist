@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackEnvironmentSaturation</key>
+	<string>tableWithPlatform</string>
+	<key>exponentAtMethod</key>
+	<string>serviceSingletonSkewy</string>
+	<key>gestureMediatorAppearance</key>
+	<string>frameVarName</string>
+	<key>musicActivityRotation</key>
+	<string>utilTaskTail</string>
+	<key>nibAndKind</key>
+	<string>repositoryPlatformLocation</string>
+	<key>parallelPresenterSaturation</key>
+	<string>adaptiveTextPadding</string>
+	<key>secondCaptionDelay</key>
+	<string>unaryInProxy</string>
+	<key>statelessBlocRotation</key>
+	<string>resultAgainstSingleton</string>
+	<key>unactivatedThemeForce</key>
+	<string>gridPrototypeHead</string>
+</dict>
+</plist>

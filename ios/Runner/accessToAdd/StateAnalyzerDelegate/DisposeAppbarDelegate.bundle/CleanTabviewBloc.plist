@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionByStage</key>
+	<string>autoNotifierHue</string>
+	<key>alphaFacadeFrequency</key>
+	<string>titleAwayCycle</string>
+	<key>appbarStageSkewy</key>
+	<string>utilFormState</string>
+	<key>aspectratioPerState</key>
+	<string>overlayStyleCount</string>
+	<key>finalDocumentMomentum</key>
+	<string>apertureSingletonOrigin</string>
+	<key>methodJobForce</key>
+	<string>typicalScreenAcceleration</string>
+	<key>pinchableMapStyle</key>
+	<string>tableActivityState</string>
+</dict>
+</plist>

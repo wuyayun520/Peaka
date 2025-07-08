@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellMementoRate</key>
+	<string>temporaryCommandDirection</string>
+	<key>layoutAtLayer</key>
+	<string>unactivatedCardBottom</string>
+	<key>mutableScaleRate</key>
+	<string>bufferProxyBrightness</string>
+	<key>normalSkirtState</key>
+	<string>exceptionStrategyShape</string>
+	<key>pinchableEventDuration</key>
+	<string>multiCoordinatorForce</string>
+	<key>progressbarFlyweightDelay</key>
+	<string>opaqueNibTint</string>
+	<key>smartAssetAlignment</key>
+	<string>crudeCallbackRate</string>
+	<key>storeAsState</key>
+	<string>numericalCapacitiesShape</string>
+</dict>
+</plist>

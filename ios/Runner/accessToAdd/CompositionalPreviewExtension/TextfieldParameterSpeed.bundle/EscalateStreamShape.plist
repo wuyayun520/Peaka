@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureFrameworkCenter</key>
+	<string>cubitModeTension</string>
+	<key>controllerUntilPhase</key>
+	<string>checklistAndVisitor</string>
+	<key>observerPerProxy</key>
+	<string>streamIncludeLevel</string>
+</dict>
+</plist>

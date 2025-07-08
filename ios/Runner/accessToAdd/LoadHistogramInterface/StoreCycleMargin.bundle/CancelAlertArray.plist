@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRadiusVisibility</key>
+	<string>entropySingletonInset</string>
+	<key>controllerDuringPhase</key>
+	<string>globalMenuEdge</string>
+	<key>decorationUntilChain</key>
+	<string>chapterOutsideProxy</string>
+	<key>touchTaskAppearance</key>
+	<string>globalGesturedetectorSize</string>
+</dict>
+</plist>

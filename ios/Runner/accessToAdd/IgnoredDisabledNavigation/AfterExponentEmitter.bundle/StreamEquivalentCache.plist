@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSwiftSpacing</key>
+	<string>gestureAwayCycle</string>
+	<key>buttonDespiteCycle</key>
+	<string>labelAtMediator</string>
+	<key>cellAsBridge</key>
+	<string>singleRowSaturation</string>
+	<key>featureBeyondFramework</key>
+	<string>requiredSizedboxIndex</string>
+	<key>modelAroundStage</key>
+	<string>mobileAtType</string>
+	<key>opaqueAlphaMode</key>
+	<string>visibleSessionLocation</string>
+	<key>subscriptionBufferState</key>
+	<string>declarativeDecorationAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveChallengeDelay</key>
+	<string>normalSegmentBottom</string>
+	<key>gridFunctionShape</key>
+	<string>futureThroughBridge</string>
+	<key>seamlessGrainTail</key>
+	<string>alignmentForActivity</string>
+	<key>skinAgainstProxy</key>
+	<string>chapterLikeStrategy</string>
+	<key>titleForOperation</key>
+	<string>effectLikeFramework</string>
+</dict>
+</plist>

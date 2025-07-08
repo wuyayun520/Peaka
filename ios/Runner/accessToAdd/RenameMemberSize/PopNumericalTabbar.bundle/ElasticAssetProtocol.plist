@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryAtType</key>
+	<string>reducerAtPlatform</string>
+	<key>enabledParticleRight</key>
+	<string>ignoredGestureBound</string>
+	<key>granularModelContrast</key>
+	<string>utilAdapterAcceleration</string>
+	<key>greatCupertinoShade</key>
+	<string>fixedRowFlags</string>
+	<key>mobxOutsideType</key>
+	<string>queryFlyweightContrast</string>
+	<key>observerOutsidePrototype</key>
+	<string>offsetPerMethod</string>
+	<key>plateChainColor</key>
+	<string>uniqueExtensionContrast</string>
+	<key>storageShapeEdge</key>
+	<string>gesturedetectorOperationPosition</string>
+	<key>timerTaskDepth</key>
+	<string>providerInterpreterFormat</string>
+</dict>
+</plist>

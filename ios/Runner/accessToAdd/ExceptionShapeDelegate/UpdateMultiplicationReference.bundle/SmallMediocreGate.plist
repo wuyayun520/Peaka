@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticOverlayState</key>
+	<string>opaqueBufferFormat</string>
+	<key>beginnerPositionBehavior</key>
+	<string>normalActivityForce</string>
+	<key>exceptionSinceCommand</key>
+	<string>uniqueSpineKind</string>
+	<key>featurePatternPressure</key>
+	<string>primaryPrecisionDuration</string>
+	<key>momentumAwayObserver</key>
+	<string>visibleSliderOpacity</string>
+	<key>queueStrategyAcceleration</key>
+	<string>modelInPattern</string>
+	<key>timerVarOpacity</key>
+	<string>assetKindDuration</string>
+</dict>
+</plist>

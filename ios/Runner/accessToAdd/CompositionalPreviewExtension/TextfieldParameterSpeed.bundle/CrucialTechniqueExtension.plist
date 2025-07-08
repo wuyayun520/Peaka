@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleNodeBehavior</key>
+	<string>basicProjectionFlags</string>
+	<key>animatedcontainerCyclePosition</key>
+	<string>scaleViaFacade</string>
+	<key>characterThroughState</key>
+	<string>mainCapsuleOffset</string>
+	<key>controllerWithoutNumber</key>
+	<string>semanticSensorMargin</string>
+	<key>ephemeralFeatureMargin</key>
+	<string>appbarStateBorder</string>
+	<key>hierarchicalNavigatorTag</key>
+	<string>alignmentVariableAlignment</string>
+	<key>utilNearStructure</key>
+	<string>mobileSinkDuration</string>
+	<key>webUtilPosition</key>
+	<string>mobxFrameworkOrientation</string>
+</dict>
+</plist>

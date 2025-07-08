@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBeyondTemple</key>
+	<string>chartViaSystem</string>
+	<key>completerContainActivity</key>
+	<string>exceptionWithoutPrototype</string>
+	<key>controllerDuringStage</key>
+	<string>resourceSystemLeft</string>
+	<key>entityWithOperation</key>
+	<string>controllerVersusAction</string>
+</dict>
+</plist>

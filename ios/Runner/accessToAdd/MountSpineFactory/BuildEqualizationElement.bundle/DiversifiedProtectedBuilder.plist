@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertParameterFeedback</key>
+	<string>typicalTitleKind</string>
+	<key>timerContainContext</key>
+	<string>containerAgainstVar</string>
+	<key>touchTaskMargin</key>
+	<string>basicNotificationBehavior</string>
+	<key>transitionVariableSkewx</key>
+	<string>consumerSystemResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+#import "CommandCycleName.h"
+#import "RenameOtherChart.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface IntoTextService : NSObject
+
+
+- (void) embraceBulletAndSize;
+
+- (void) mitigateDocumentGroup;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

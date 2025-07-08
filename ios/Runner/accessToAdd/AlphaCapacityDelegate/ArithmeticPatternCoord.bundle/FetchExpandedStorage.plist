@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionStyleBorder</key>
+	<string>eventAroundVisitor</string>
+	<key>decorationVariableDelay</key>
+	<string>singletonContextSpeed</string>
+	<key>labelContextPadding</key>
+	<string>easySizedboxTop</string>
+	<key>masterAwayOperation</key>
+	<string>requestThroughTask</string>
+	<key>masterCommandMargin</key>
+	<string>explicitAnimationAlignment</string>
+	<key>sizedboxAsLayer</key>
+	<string>exceptionMementoShade</string>
+	<key>sliderFunctionInterval</key>
+	<string>interactiveFrameVelocity</string>
+	<key>spriteObserverCenter</key>
+	<string>momentumInterpreterLocation</string>
+	<key>textureForStructure</key>
+	<string>directPrecisionInterval</string>
+</dict>
+</plist>

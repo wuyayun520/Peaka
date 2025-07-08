@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedProjectRate</key>
+	<string>staticFeatureAcceleration</string>
+	<key>permissiveGridAcceleration</key>
+	<string>canvasVariableSpacing</string>
+	<key>responseStyleCoord</key>
+	<string>movementAdapterCoord</string>
+	<key>resultStateAlignment</key>
+	<string>cacheFromPattern</string>
+	<key>synchronousAnimationOffset</key>
+	<string>customizedDelegateMargin</string>
+</dict>
+</plist>

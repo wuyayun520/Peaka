@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintAdapterBrightness</key>
+	<string>cacheInsideParam</string>
+	<key>movementForObserver</key>
+	<string>taskInterpreterShade</string>
+	<key>queryProxyOpacity</key>
+	<string>mutableBlocHue</string>
+	<key>relationalLayoutName</key>
+	<string>buttonFacadeCoord</string>
+	<key>scrollableRadiusVisible</key>
+	<string>nodeAsChain</string>
+	<key>smallTaskInteraction</key>
+	<string>currentCardLocation</string>
+	<key>symmetricStatefulMomentum</key>
+	<string>euclideanMomentumTag</string>
+	<key>textureOutsideSingleton</key>
+	<string>consultativeWidgetMode</string>
+</dict>
+</plist>

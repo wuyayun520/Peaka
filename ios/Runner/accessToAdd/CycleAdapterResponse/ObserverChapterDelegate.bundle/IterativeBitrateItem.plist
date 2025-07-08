@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeBulletTransparency</key>
+	<string>curveActionDensity</string>
+	<key>navigatorPatternStyle</key>
+	<string>sensorProxyCenter</string>
+	<key>newestResourceInteraction</key>
+	<string>cellByShape</string>
+	<key>nibAdapterLeft</key>
+	<string>easyMovementVisibility</string>
+	<key>resilientKernelKind</key>
+	<string>grainFrameworkBorder</string>
+</dict>
+</plist>

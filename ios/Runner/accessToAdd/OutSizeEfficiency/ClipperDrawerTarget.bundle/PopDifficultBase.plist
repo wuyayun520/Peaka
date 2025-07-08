@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateOfComposite</key>
+	<string>instructionAboutLevel</string>
+	<key>layoutExceptState</key>
+	<string>overlayShapeLeft</string>
+	<key>methodBridgeBottom</key>
+	<string>accessibleChannelsOrientation</string>
+	<key>monsterBeyondActivity</key>
+	<string>aspectratioTaskCoord</string>
+	<key>queueMementoVelocity</key>
+	<string>fragmentAwayKind</string>
+	<key>reactiveTextStatus</key>
+	<string>eagerTickerOffset</string>
+	<key>transitionDecoratorMomentum</key>
+	<string>configurationPrototypeFeedback</string>
+</dict>
+</plist>

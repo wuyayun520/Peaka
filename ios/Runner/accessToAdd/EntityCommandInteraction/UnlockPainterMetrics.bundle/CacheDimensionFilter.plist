@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeControllerForce</key>
+	<string>nodeIncludeParam</string>
+	<key>animationStrategyCenter</key>
+	<string>toolAboutComposite</string>
+	<key>checkboxExceptShape</key>
+	<string>delicateAlignmentShade</string>
+	<key>descriptionStrategyInteraction</key>
+	<string>descriptionThanValue</string>
+</dict>
+</plist>

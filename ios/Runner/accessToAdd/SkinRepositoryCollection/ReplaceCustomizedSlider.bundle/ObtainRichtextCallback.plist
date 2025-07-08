@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetContextFlags</key>
+	<string>configurationTierTop</string>
+	<key>asyncGesturedetectorBottom</key>
+	<string>concurrentIntensityBottom</string>
+	<key>capsuleFlyweightAlignment</key>
+	<string>providerOrDecorator</string>
+	<key>futurePerLayer</key>
+	<string>decorationFormMomentum</string>
+	<key>sustainableStoreVisibility</key>
+	<string>stepPrototypeInterval</string>
+	<key>textFrameworkBottom</key>
+	<string>gradientTierBorder</string>
+	<key>uniformZoneShade</key>
+	<string>usedStorageTension</string>
+	<key>visibleBrushDistance</key>
+	<string>commandBufferTop</string>
+</dict>
+</plist>

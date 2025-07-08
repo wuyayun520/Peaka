@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedChapterShape</key>
+	<string>dependencySinceSystem</string>
+	<key>keyMobileForce</key>
+	<string>lazyDependencyTop</string>
+	<key>staticMetadataOffset</key>
+	<string>storyboardSystemLeft</string>
+	<key>titleOfShape</key>
+	<string>awaitThroughNumber</string>
+</dict>
+</plist>

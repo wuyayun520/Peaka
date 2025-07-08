@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianRouterDepth</key>
+	<string>agileQueueFeedback</string>
+	<key>normalExceptionDelay</key>
+	<string>finalBatchSaturation</string>
+	<key>previewAroundCycle</key>
+	<string>synchronousContainerInterval</string>
+	<key>robustSpecifierResponse</key>
+	<string>boxAlongStructure</string>
+</dict>
+</plist>

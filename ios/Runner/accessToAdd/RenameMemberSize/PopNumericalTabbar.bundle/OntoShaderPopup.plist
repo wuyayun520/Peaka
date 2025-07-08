@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDuringOperation</key>
+	<string>resourceAlongScope</string>
+	<key>constDecorationOrientation</key>
+	<string>storyboardWithDecorator</string>
+	<key>getxSystemType</key>
+	<string>resultMementoDistance</string>
+	<key>invisibleButtonSkewx</key>
+	<string>screenAgainstStyle</string>
+	<key>nodeDespiteForm</key>
+	<string>sizeIncludeFramework</string>
+	<key>painterAtNumber</key>
+	<string>actionUntilStage</string>
+	<key>tableFrameworkInteraction</key>
+	<string>parallelLayoutSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBinaryVisibility</key>
+	<string>singletonMementoBottom</string>
+	<key>cartesianPointInteraction</key>
+	<string>usageInsideAdapter</string>
+	<key>completionTierBrightness</key>
+	<string>primarySwiftTail</string>
+	<key>cubeContainStrategy</key>
+	<string>flexShapeOffset</string>
+	<key>granularSpineMargin</key>
+	<string>graphCommandCoord</string>
+	<key>positionFacadeShade</key>
+	<string>containerExceptNumber</string>
+	<key>swiftOutsideForm</key>
+	<string>callbackAgainstChain</string>
+</dict>
+</plist>

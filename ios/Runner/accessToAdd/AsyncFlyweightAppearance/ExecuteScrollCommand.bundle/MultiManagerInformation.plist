@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerGesturedetectorEdge</key>
+	<string>cycleMediatorEdge</string>
+	<key>columnVersusFramework</key>
+	<string>resourceCommandColor</string>
+	<key>mediaqueryAgainstBuffer</key>
+	<string>equalizationContainPhase</string>
+	<key>mediocreStorageBorder</key>
+	<string>presenterViaStage</string>
+	<key>priorSingletonBehavior</key>
+	<string>memberMementoInteraction</string>
+	<key>seamlessGrayscaleAlignment</key>
+	<string>observerFacadeVisibility</string>
+</dict>
+</plist>

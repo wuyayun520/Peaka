@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasModeShape</key>
+	<string>behaviorVarSaturation</string>
+	<key>ephemeralScaffoldSpeed</key>
+	<string>viewChainSpeed</string>
+	<key>factoryProcessContrast</key>
+	<string>channelUntilContext</string>
+	<key>hierarchicalTabbarFeedback</key>
+	<string>topicTypeOpacity</string>
+</dict>
+</plist>

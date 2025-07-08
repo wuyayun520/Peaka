@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerDecoratorRate</key>
+	<string>interactorPatternPosition</string>
+	<key>enabledRowFeedback</key>
+	<string>modelExceptFlyweight</string>
+	<key>listenerCycleBorder</key>
+	<string>inheritedCapsuleResponse</string>
+	<key>localizationContainStrategy</key>
+	<string>sceneBeyondFramework</string>
+	<key>optionAmongProcess</key>
+	<string>multiAxisCount</string>
+	<key>previewStrategyLeft</key>
+	<string>effectOutsidePattern</string>
+	<key>responsiveResolverValidation</key>
+	<string>disparateIconState</string>
+</dict>
+</plist>

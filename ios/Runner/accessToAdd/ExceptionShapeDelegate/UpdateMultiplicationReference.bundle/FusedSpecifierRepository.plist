@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncParticleStyle</key>
+	<string>masterTierAcceleration</string>
+	<key>draggableSinkAppearance</key>
+	<string>hashPerOperation</string>
+	<key>logCommandAlignment</key>
+	<string>statefulUntilObserver</string>
+	<key>missionNumberEdge</key>
+	<string>movementParamBound</string>
+	<key>nibFromMode</key>
+	<string>signModeIndex</string>
+	<key>unactivatedTopicCount</key>
+	<string>firstLayoutRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationThroughShape</key>
+	<string>methodPatternStyle</string>
+	<key>futureMethodOffset</key>
+	<string>progressbarSinceParameter</string>
+	<key>mutableFrameScale</key>
+	<string>timerMethodOrigin</string>
+	<key>slashExceptShape</key>
+	<string>sequentialPlateCenter</string>
+	<key>vectorActivityDepth</key>
+	<string>durationInComposite</string>
+</dict>
+</plist>

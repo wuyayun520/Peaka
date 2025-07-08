@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeProtocolOpacity</key>
+	<string>lossContextBound</string>
+	<key>displayableDelegateHue</key>
+	<string>radiusPerBuffer</string>
+	<key>eventAsVisitor</key>
+	<string>usecaseThanObserver</string>
+	<key>hierarchicalGridInteraction</key>
+	<string>desktopDimensionEdge</string>
+	<key>queuePatternSpeed</key>
+	<string>spriteFrameworkVelocity</string>
+	<key>resourceAtFlyweight</key>
+	<string>topicInsideBridge</string>
+	<key>sustainableTabbarScale</key>
+	<string>specifyControllerSkewx</string>
+</dict>
+</plist>

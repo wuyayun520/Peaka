@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineContainFacade</key>
+	<string>constraintActionFeedback</string>
+	<key>easyGridRight</key>
+	<string>matrixStateDelay</string>
+	<key>lazyGridTransparency</key>
+	<string>repositoryEnvironmentBorder</string>
+	<key>otherTweenSpeed</key>
+	<string>responsiveScaleTransparency</string>
+	<key>progressbarTierSize</key>
+	<string>operationAgainstPattern</string>
+	<key>sequentialCompositionDensity</key>
+	<string>delegateInsideCycle</string>
+	<key>toolIncludeEnvironment</key>
+	<string>mutableUtilInset</string>
+</dict>
+</plist>

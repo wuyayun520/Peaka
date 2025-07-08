@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxEnvironmentLocation</key>
+	<string>listenerFrameworkVisibility</string>
+	<key>catalystVariableInteraction</key>
+	<string>anchorAwayMode</string>
+	<key>checkboxFormCoord</key>
+	<string>fixedMobxDensity</string>
+	<key>dialogsPrototypeAlignment</key>
+	<string>denseSymbolRate</string>
+	<key>displayableDecorationFormat</key>
+	<string>completerInsideActivity</string>
+	<key>futureObserverSpacing</key>
+	<string>layoutAroundSingleton</string>
+	<key>ignoredCapsuleResponse</key>
+	<string>directNodeColor</string>
+	<key>interfaceAtBridge</key>
+	<string>prevControllerTransparency</string>
+	<key>previewEnvironmentOffset</key>
+	<string>callbackViaStrategy</string>
+	<key>tableExceptParam</key>
+	<string>smartSizeColor</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAdapterRate</key>
+	<string>tweenAndOperation</string>
+	<key>disabledTabviewMargin</key>
+	<string>segueLevelOpacity</string>
+	<key>parallelOverlayResponse</key>
+	<string>zoneCycleOffset</string>
+	<key>spriteAboutCommand</key>
+	<string>nextInstructionAcceleration</string>
+</dict>
+</plist>

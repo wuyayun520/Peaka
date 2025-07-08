@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonThroughFunction</key>
+	<string>modalByMediator</string>
+	<key>layoutCompositeFeedback</key>
+	<string>graphicNearSingleton</string>
+	<key>requestStrategyVisible</key>
+	<string>tabviewWorkOrientation</string>
+	<key>significantAnimationBottom</key>
+	<string>fusedBaselineOpacity</string>
+	<key>topicLayerDirection</key>
+	<string>commandActivityTheme</string>
+	<key>tweenChainName</key>
+	<string>liteRichtextRate</string>
+</dict>
+</plist>

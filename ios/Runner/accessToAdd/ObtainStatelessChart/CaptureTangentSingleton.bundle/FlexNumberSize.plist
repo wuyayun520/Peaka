@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousQueryInset</key>
+	<string>visibleCubitIndex</string>
+	<key>dedicatedStoryboardSpacing</key>
+	<string>subscriptionFlyweightBrightness</string>
+	<key>geometricAnimationState</key>
+	<string>eagerContainerInteraction</string>
+	<key>heroPerDecorator</key>
+	<string>transitionCycleResponse</string>
+	<key>rowPrototypeSpacing</key>
+	<string>memberAmongActivity</string>
+	<key>sampleNearComposite</key>
+	<string>interfaceSingletonKind</string>
+</dict>
+</plist>

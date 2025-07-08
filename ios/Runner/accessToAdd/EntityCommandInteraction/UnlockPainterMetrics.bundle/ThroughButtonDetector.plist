@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSymbolTint</key>
+	<string>prismaticAppbarBehavior</string>
+	<key>clipperAsStrategy</key>
+	<string>retainedTextHead</string>
+	<key>declarativeManagerScale</key>
+	<string>painterThroughDecorator</string>
+	<key>granularStoreColor</key>
+	<string>projectionDecoratorTransparency</string>
+	<key>staticOverlayIndex</key>
+	<string>visibleStorageCenter</string>
+	<key>ternaryNearScope</key>
+	<string>anchorStyleDuration</string>
+	<key>transitionAndTier</key>
+	<string>viewAdapterBottom</string>
+</dict>
+</plist>

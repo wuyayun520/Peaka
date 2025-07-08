@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBufferSkewy</key>
+	<string>advancedSizeMode</string>
+	<key>gridShapeTransparency</key>
+	<string>configurationFromKind</string>
+	<key>inkwellPerChain</key>
+	<string>timerFacadeSaturation</string>
+	<key>listviewStrategyTail</key>
+	<string>exceptionActionName</string>
+	<key>publicServicePressure</key>
+	<string>logarithmContextValidation</string>
+	<key>radiusOrState</key>
+	<string>routeOperationOffset</string>
+	<key>reactivePresenterBorder</key>
+	<string>requestMethodTail</string>
+	<key>responseLikeEnvironment</key>
+	<string>statelessContainPattern</string>
+	<key>textureExceptVisitor</key>
+	<string>lastRouteFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGiftCenter</key>
+	<string>previewByAdapter</string>
+	<key>animationForStage</key>
+	<string>chartStageFrequency</string>
+	<key>assetMediatorRotation</key>
+	<string>asyncExceptionDepth</string>
+	<key>asyncProjectionSpeed</key>
+	<string>lostAsyncValidation</string>
+	<key>presenterThroughPattern</key>
+	<string>statefulTaskPosition</string>
+	<key>retainedDropdownbuttonHue</key>
+	<string>basicSkinVisible</string>
+</dict>
+</plist>

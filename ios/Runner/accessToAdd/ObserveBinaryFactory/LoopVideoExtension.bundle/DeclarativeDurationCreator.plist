@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicReducerBrightness</key>
+	<string>commandContextOpacity</string>
+	<key>checklistOutsidePhase</key>
+	<string>completionValueSize</string>
+	<key>cosineStrategyAcceleration</key>
+	<string>skinAtState</string>
+	<key>denseDimensionKind</key>
+	<string>grayscaleValueDistance</string>
+	<key>paddingWithoutVariable</key>
+	<string>positionUntilNumber</string>
+	<key>reusableCapsuleStatus</key>
+	<string>largeLogMomentum</string>
+</dict>
+</plist>

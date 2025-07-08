@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoActionFrequency</key>
+	<string>integerVarBound</string>
+	<key>difficultDescriptionEdge</key>
+	<string>sampleAndForm</string>
+	<key>featureOrLevel</key>
+	<string>interfaceIncludeActivity</string>
+	<key>methodInsidePlatform</key>
+	<string>progressbarStateOrigin</string>
+	<key>responseStateInteraction</key>
+	<string>symmetricScreenDistance</string>
+	<key>sizedboxFacadeBrightness</key>
+	<string>blocByPrototype</string>
+</dict>
+</plist>

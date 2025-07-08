@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarParamTail</key>
+	<string>desktopDrawerInteraction</string>
+	<key>associatedAppbarShade</key>
+	<string>rowModeColor</string>
+	<key>fixedCosineDensity</key>
+	<string>accordionReferenceInteraction</string>
+	<key>interactorInState</key>
+	<string>entityObserverAcceleration</string>
+	<key>relationalEventVisible</key>
+	<string>rapidDimensionName</string>
+	<key>routerShapeContrast</key>
+	<string>allocatorFunctionShape</string>
+	<key>synchronousFutureTop</key>
+	<string>resourceAtStrategy</string>
+</dict>
+</plist>

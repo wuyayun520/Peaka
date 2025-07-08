@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartFacadeMargin</key>
+	<string>requestPhaseMomentum</string>
+	<key>constTickerValidation</key>
+	<string>normalSampleOffset</string>
+	<key>grainForStrategy</key>
+	<string>discardedCurveInset</string>
+	<key>numericalRoleBehavior</key>
+	<string>descriptionAmongKind</string>
+	<key>offsetFlyweightDelay</key>
+	<string>logarithmNearPhase</string>
+	<key>protocolSingletonType</key>
+	<string>providerStrategyIndex</string>
+	<key>streamModeOpacity</key>
+	<string>sequentialAlphaTransparency</string>
+	<key>synchronousOffsetKind</key>
+	<string>constraintAmongValue</string>
+</dict>
+</plist>

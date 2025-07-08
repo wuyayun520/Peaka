@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorKindType</key>
+	<string>usecaseLevelInteraction</string>
+	<key>effectFacadeColor</key>
+	<string>mediaProcessHue</string>
+	<key>independentControllerBound</key>
+	<string>baselineOrActivity</string>
+	<key>isolateFormSaturation</key>
+	<string>unactivatedVectorAlignment</string>
+	<key>reactiveSpriteFormat</key>
+	<string>gesturedetectorAroundScope</string>
+	<key>specifierOrOperation</key>
+	<string>signatureContainFacade</string>
+	<key>ternaryForJob</key>
+	<string>resultShapeSize</string>
+	<key>timerAsShape</key>
+	<string>workflowForState</string>
+	<key>tweenFormSpacing</key>
+	<string>localMissionTail</string>
+</dict>
+</plist>

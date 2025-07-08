@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentTweenVisible</key>
+	<string>customizedChannelBottom</string>
+	<key>cupertinoStateMode</key>
+	<string>ignoredCallbackOrigin</string>
+	<key>flexChainBound</key>
+	<string>mobileActivityPadding</string>
+	<key>grainAgainstPrototype</key>
+	<string>chartFromPattern</string>
+	<key>routeFlyweightFlags</key>
+	<string>largeCommandSpacing</string>
+	<key>taskInterpreterRate</key>
+	<string>positionBesideTier</string>
+</dict>
+</plist>

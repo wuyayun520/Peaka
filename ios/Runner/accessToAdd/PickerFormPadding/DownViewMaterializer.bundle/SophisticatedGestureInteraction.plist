@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectIncludeTemple</key>
+	<string>hashActionRight</string>
+	<key>autoSlashOffset</key>
+	<string>commonSensorTint</string>
+	<key>bulletActivityFormat</key>
+	<string>mobileByContext</string>
+	<key>completionIncludeLevel</key>
+	<string>managerScopeVisibility</string>
+	<key>equalizationInsideProcess</key>
+	<string>mutableRouteRotation</string>
+	<key>permissiveAccessoryBound</key>
+	<string>textureBufferFeedback</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaPhaseDelay</key>
+	<string>previewLikeMediator</string>
+	<key>brushAndNumber</key>
+	<string>menuAmongFacade</string>
+	<key>exceptionSingletonForce</key>
+	<string>singletonCyclePosition</string>
+	<key>pageviewAsJob</key>
+	<string>greatUsecaseDuration</string>
+	<key>routeMementoPadding</key>
+	<string>routeVersusMode</string>
+</dict>
+</plist>

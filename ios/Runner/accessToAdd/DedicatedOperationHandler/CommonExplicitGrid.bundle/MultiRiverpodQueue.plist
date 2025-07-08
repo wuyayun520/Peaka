@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelThanCommand</key>
+	<string>publicVectorName</string>
+	<key>chartAdapterAlignment</key>
+	<string>entityLevelAlignment</string>
+	<key>equalizationWithoutPrototype</key>
+	<string>remainderOutsidePattern</string>
+	<key>fixedStepCount</key>
+	<string>timerParamRate</string>
+	<key>precisionWithoutBuffer</key>
+	<string>nextLabelDelay</string>
+	<key>swiftDuringProcess</key>
+	<string>observerStateVisible</string>
+	<key>taskScopeSpeed</key>
+	<string>displayableTransformerFlags</string>
+</dict>
+</plist>

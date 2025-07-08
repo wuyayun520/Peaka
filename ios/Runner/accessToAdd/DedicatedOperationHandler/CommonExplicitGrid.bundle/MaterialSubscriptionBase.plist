@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentProxyInterval</key>
+	<string>comprehensiveTransitionSkewx</string>
+	<key>brushInParam</key>
+	<string>effectWorkPressure</string>
+	<key>coordinatorPerPattern</key>
+	<string>progressbarValueDirection</string>
+	<key>denseColumnFrequency</key>
+	<string>draggableMissionAlignment</string>
+	<key>gradientBufferStyle</key>
+	<string>pageviewAsScope</string>
+	<key>spriteStateBehavior</key>
+	<string>aspectAwaySingleton</string>
+	<key>tweenThanObserver</key>
+	<string>accessoryAroundAdapter</string>
+</dict>
+</plist>

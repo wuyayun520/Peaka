@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentBridgeCoord</key>
+	<string>gesturedetectorActivityLocation</string>
+	<key>isolateOrFlyweight</key>
+	<string>labelChainName</string>
+	<key>mobxParameterBound</key>
+	<string>accordionInteractorFormat</string>
+	<key>movementKindOrientation</key>
+	<string>ternaryAsStrategy</string>
+	<key>navigationPerLevel</key>
+	<string>canvasContainInterpreter</string>
+	<key>offsetFunctionOrigin</key>
+	<string>sophisticatedDecorationRight</string>
+	<key>primaryRouteBorder</key>
+	<string>tickerAndObserver</string>
+	<key>resolverIncludeMediator</key>
+	<string>roleAndBuffer</string>
+	<key>sophisticatedProtocolRight</key>
+	<string>completionAtCommand</string>
+</dict>
+</plist>

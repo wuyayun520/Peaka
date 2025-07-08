@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticEntityValidation</key>
+	<string>intensityOutsideParameter</string>
+	<key>backwardStorePressure</key>
+	<string>alertMementoCount</string>
+	<key>intensityActivityBrightness</key>
+	<string>labelPhaseForce</string>
+	<key>lostGridviewTail</key>
+	<string>actionVariableFrequency</string>
+	<key>originalFeatureStyle</key>
+	<string>immediateCharacterDensity</string>
+	<key>resourceObserverForce</key>
+	<string>roleEnvironmentBrightness</string>
+	<key>storyboardModeTheme</key>
+	<string>expandedMediatorTop</string>
+</dict>
+</plist>

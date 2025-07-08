@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryVersusFramework</key>
+	<string>activatedViewAppearance</string>
+	<key>decorationBridgeRight</key>
+	<string>stateValueBound</string>
+	<key>durationDecoratorScale</key>
+	<string>grayscaleVariableLocation</string>
+	<key>pinchableCardCoord</key>
+	<string>layoutAgainstProcess</string>
+	<key>responseVariableCenter</key>
+	<string>otherBehaviorOrigin</string>
+	<key>sharedCurveState</key>
+	<string>customizedTextVisible</string>
+</dict>
+</plist>

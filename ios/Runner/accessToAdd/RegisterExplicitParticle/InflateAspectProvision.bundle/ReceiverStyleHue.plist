@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDialogsBehavior</key>
+	<string>equalizationFromPhase</string>
+	<key>coordinatorLevelCount</key>
+	<string>buttonDespiteDecorator</string>
+	<key>grainFlyweightCoord</key>
+	<string>richtextAwayLevel</string>
+	<key>histogramAdapterOrientation</key>
+	<string>euclideanLayoutForce</string>
+	<key>responseLikePattern</key>
+	<string>listenerOutsideStrategy</string>
+	<key>signatureAdapterBottom</key>
+	<string>iconActionBottom</string>
+</dict>
+</plist>

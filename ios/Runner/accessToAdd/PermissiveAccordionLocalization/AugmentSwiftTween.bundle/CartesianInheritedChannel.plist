@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeSliderShade</key>
+	<string>displayableBoxshadowTop</string>
+	<key>drawerAlongStrategy</key>
+	<string>curveAroundActivity</string>
+	<key>euclideanChapterOpacity</key>
+	<string>skinIncludeActivity</string>
+	<key>lossValueOpacity</key>
+	<string>firstBaselineTag</string>
+	<key>primaryCharacterAppearance</key>
+	<string>previewActionDensity</string>
+	<key>secondCubitStyle</key>
+	<string>streamAroundLayer</string>
+	<key>statefulServiceIndex</key>
+	<string>controllerVarOpacity</string>
+	<key>subtleDescriptionDepth</key>
+	<string>sampleActivityMode</string>
+</dict>
+</plist>

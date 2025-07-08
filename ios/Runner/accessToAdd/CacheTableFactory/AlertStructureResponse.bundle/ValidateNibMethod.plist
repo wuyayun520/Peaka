@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorUntilBridge</key>
+	<string>seamlessCaptionRotation</string>
+	<key>handlerPatternVisible</key>
+	<string>paddingViaSingleton</string>
+	<key>loopAboutSingleton</key>
+	<string>segmentPhaseTransparency</string>
+	<key>protectedScrollVisible</key>
+	<string>cubitActivityFormat</string>
+	<key>resizableExpandedBehavior</key>
+	<string>grainDuringStage</string>
+	<key>statelessFacadeTint</key>
+	<string>momentumAlongDecorator</string>
+	<key>transformerDespiteCommand</key>
+	<string>flexTypeStyle</string>
+	<key>viewForActivity</key>
+	<string>isolateMediatorSkewy</string>
+</dict>
+</plist>

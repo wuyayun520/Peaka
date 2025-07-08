@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerSinceStrategy</key>
+	<string>spineAgainstSingleton</string>
+	<key>dialogsByObserver</key>
+	<string>gridBesideStyle</string>
+	<key>fixedAlignmentAppearance</key>
+	<string>widgetStructureTransparency</string>
+	<key>getxKindStatus</key>
+	<string>featureEnvironmentMargin</string>
+	<key>invisibleBoxshadowCount</key>
+	<string>sinkAsScope</string>
+	<key>mediaDespiteFramework</key>
+	<string>navigatorInPrototype</string>
+	<key>mutableStorageMomentum</key>
+	<string>observerOperationDelay</string>
+	<key>sensorCommandMomentum</key>
+	<string>priorContainerDensity</string>
+	<key>statefulPreviewShade</key>
+	<string>inactiveRadiusDuration</string>
+</dict>
+</plist>

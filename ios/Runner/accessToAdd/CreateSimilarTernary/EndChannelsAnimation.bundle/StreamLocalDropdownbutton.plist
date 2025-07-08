@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveLabelOffset</key>
+	<string>cupertinoListenerDensity</string>
+	<key>controllerMediatorBrightness</key>
+	<string>characterContainTask</string>
+	<key>interactorWithoutState</key>
+	<string>marginWithoutMediator</string>
+	<key>lostRadiusSaturation</key>
+	<string>synchronousButtonDistance</string>
+	<key>subpixelVisitorFlags</key>
+	<string>rowKindShade</string>
+	<key>usecaseIncludeNumber</key>
+	<string>denseIntegerEdge</string>
+</dict>
+</plist>

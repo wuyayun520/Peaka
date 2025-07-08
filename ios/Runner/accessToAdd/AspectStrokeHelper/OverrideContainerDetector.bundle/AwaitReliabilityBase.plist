@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityVarBehavior</key>
+	<string>reducerAndStrategy</string>
+	<key>gridVisitorCenter</key>
+	<string>cartesianTransformerTop</string>
+	<key>observerAndDecorator</key>
+	<string>roleMementoType</string>
+	<key>paddingVarFormat</key>
+	<string>tweenContextDistance</string>
+	<key>resolverAboutFunction</key>
+	<string>fixedDescriptionRate</string>
+	<key>responsiveFactoryStyle</key>
+	<string>methodScopeFeedback</string>
+	<key>unaryAboutPattern</key>
+	<string>modelAroundAction</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDescriptionDistance</key>
+	<string>dropdownbuttonByAdapter</string>
+	<key>customizedGridOpacity</key>
+	<string>instructionCycleVisibility</string>
+	<key>descriptionStateVisible</key>
+	<string>persistentExpandedType</string>
+	<key>functionalAccessoryVelocity</key>
+	<string>axisStageAlignment</string>
+	<key>lastSpriteInteraction</key>
+	<string>layoutParameterDirection</string>
+	<key>toolDuringDecorator</key>
+	<string>routerLikeStage</string>
+	<key>usageAtScope</key>
+	<string>parallelResponseRotation</string>
+</dict>
+</plist>

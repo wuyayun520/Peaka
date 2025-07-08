@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerMethodType</key>
+	<string>webUnaryAcceleration</string>
+	<key>gridVersusStyle</key>
+	<string>sliderByPattern</string>
+	<key>hardSizeFeedback</key>
+	<string>particleAsDecorator</string>
+	<key>listviewContextSkewx</key>
+	<string>retainedStatefulBehavior</string>
+</dict>
+</plist>

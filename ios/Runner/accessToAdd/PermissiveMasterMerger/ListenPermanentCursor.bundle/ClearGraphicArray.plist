@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentMediatorInteraction</key>
+	<string>pageviewFacadeAlignment</string>
+	<key>animatedcontainerWithoutPhase</key>
+	<string>granularFrameAlignment</string>
+	<key>durationKindOrigin</key>
+	<string>textThroughCycle</string>
+	<key>dynamicWidgetStyle</key>
+	<string>actionEnvironmentRight</string>
+	<key>injectionJobStatus</key>
+	<string>bulletVisitorShade</string>
+	<key>stampVarSpacing</key>
+	<string>providerTypeRate</string>
+</dict>
+</plist>

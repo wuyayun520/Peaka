@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableButtonContrast</key>
+	<string>cardFacadeDistance</string>
+	<key>factoryAdapterName</key>
+	<string>coordinatorScopeOpacity</string>
+	<key>reducerNearMethod</key>
+	<string>blocThroughVariable</string>
+	<key>singletonDecoratorDuration</key>
+	<string>intuitiveBaselineAlignment</string>
+	<key>standaloneTransformerBound</key>
+	<string>groupCompositeValidation</string>
+	<key>streamStateStatus</key>
+	<string>stampFlyweightResponse</string>
+</dict>
+</plist>

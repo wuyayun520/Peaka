@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintOutsideFacade</key>
+	<string>priorityAwayTier</string>
+	<key>directInteractorType</key>
+	<string>decorationBesideValue</string>
+	<key>popupAsFunction</key>
+	<string>flexibleResourceSpacing</string>
+	<key>publicSegmentAppearance</key>
+	<string>streamKindDistance</string>
+</dict>
+</plist>

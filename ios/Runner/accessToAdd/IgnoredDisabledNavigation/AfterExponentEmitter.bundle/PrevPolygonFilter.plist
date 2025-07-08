@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureExceptPlatform</key>
+	<string>titleAwayObserver</string>
+	<key>interactiveEventKind</key>
+	<string>autoTabviewSpacing</string>
+	<key>lazySessionVisibility</key>
+	<string>logWithoutLayer</string>
+	<key>otherServiceForce</key>
+	<string>bufferDespiteProxy</string>
+	<key>painterInsideKind</key>
+	<string>alignmentAlongChain</string>
+	<key>positionedBesideMemento</key>
+	<string>numericalRichtextOffset</string>
+	<key>serviceWithTier</key>
+	<string>asynchronousTaskTheme</string>
+	<key>standaloneDurationMargin</key>
+	<string>popupExceptPattern</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseMediatorMode</key>
+	<string>positionWithType</string>
+	<key>elasticBehaviorFormat</key>
+	<string>dynamicAlignmentDepth</string>
+	<key>enabledMomentumFeedback</key>
+	<string>delegateFlyweightRate</string>
+	<key>fragmentMementoCount</key>
+	<string>chartTierInset</string>
+	<key>largeSpotTension</key>
+	<string>effectStrategyVisible</string>
+	<key>reductionTaskAppearance</key>
+	<string>mediocreCompleterColor</string>
+	<key>singletonStrategyForce</key>
+	<string>sophisticatedAllocatorMomentum</string>
+</dict>
+</plist>

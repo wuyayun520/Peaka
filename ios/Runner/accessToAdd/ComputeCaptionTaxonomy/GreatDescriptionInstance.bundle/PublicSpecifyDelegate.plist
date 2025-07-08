@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesAboutEnvironment</key>
+	<string>loopInParam</string>
+	<key>enabledNavigatorOrientation</key>
+	<string>methodAtObserver</string>
+	<key>notifierStrategyValidation</key>
+	<string>repositoryTaskOffset</string>
+</dict>
+</plist>

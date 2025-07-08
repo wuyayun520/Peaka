@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTransitionBehavior</key>
+	<string>factoryOrScope</string>
+	<key>containerBeyondJob</key>
+	<string>capacitiesFormContrast</string>
+	<key>dialogsWithoutVariable</key>
+	<string>asyncProgressbarInterval</string>
+	<key>functionalSpriteRight</key>
+	<string>hashByBuffer</string>
+	<key>getxInFramework</key>
+	<string>overlayMementoMargin</string>
+	<key>mobileAnimationRight</key>
+	<string>immutableGesturedetectorType</string>
+	<key>progressbarTierFrequency</key>
+	<string>sequentialTransformerSpeed</string>
+	<key>spriteAboutParameter</key>
+	<string>durationBridgeTint</string>
+	<key>storeTempleTail</key>
+	<string>elasticCoordinatorContrast</string>
+</dict>
+</plist>

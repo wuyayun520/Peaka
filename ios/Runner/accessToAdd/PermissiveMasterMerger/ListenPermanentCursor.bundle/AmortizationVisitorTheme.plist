@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticEnvironmentInterval</key>
+	<string>missedCycleBorder</string>
+	<key>autoOperationOffset</key>
+	<string>durationFromTask</string>
+	<key>collectionVisitorDuration</key>
+	<string>durationFlyweightCoord</string>
+	<key>graphStrategyOffset</key>
+	<string>cubeSinceVariable</string>
+	<key>lazySliderOrigin</key>
+	<string>sampleDecoratorShape</string>
+	<key>primaryTopicBorder</key>
+	<string>inactiveProjectionRight</string>
+	<key>providerAgainstScope</key>
+	<string>serviceInsidePattern</string>
+	<key>publicRemainderLeft</key>
+	<string>reductionMediatorBound</string>
+	<key>robustObserverFlags</key>
+	<string>plateAboutParameter</string>
+</dict>
+</plist>

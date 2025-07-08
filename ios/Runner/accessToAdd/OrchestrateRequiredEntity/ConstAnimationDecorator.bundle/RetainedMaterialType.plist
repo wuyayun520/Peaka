@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxPlatformOrientation</key>
+	<string>screenValueVisibility</string>
+	<key>compositionalThemeMode</key>
+	<string>substantialAnimationTransparency</string>
+	<key>imperativeResourceBottom</key>
+	<string>cubitBridgeOrientation</string>
+	<key>inheritedBulletInset</key>
+	<string>localizationTierCenter</string>
+	<key>labelAwayFramework</key>
+	<string>enabledTouchBehavior</string>
+	<key>parallelMonsterContrast</key>
+	<string>statelessSinceLevel</string>
+	<key>routerUntilStrategy</key>
+	<string>protectedInteractorDirection</string>
+</dict>
+</plist>

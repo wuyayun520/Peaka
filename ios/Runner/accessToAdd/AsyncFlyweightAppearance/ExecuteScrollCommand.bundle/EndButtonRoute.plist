@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorPerPlatform</key>
+	<string>providerByPlatform</string>
+	<key>coordinatorVariableOrientation</key>
+	<string>descriptorTierRotation</string>
+	<key>frameForPhase</key>
+	<string>significantUsecaseStyle</string>
+	<key>imageInsideBridge</key>
+	<string>statelessAsPattern</string>
+	<key>transformerInTier</key>
+	<string>clipperAsTier</string>
+	<key>tweenNearJob</key>
+	<string>skirtFlyweightLeft</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellViaMethod</key>
+	<string>errorVariableBound</string>
+	<key>imagePerTier</key>
+	<string>skirtProxyVisibility</string>
+	<key>layoutAdapterEdge</key>
+	<string>seamlessPlaybackCount</string>
+	<key>methodChainStyle</key>
+	<string>gradientAdapterMode</string>
+	<key>monsterMementoValidation</key>
+	<string>sceneFromLevel</string>
+	<key>previewLikeFacade</key>
+	<string>queryPlatformForce</string>
+	<key>sliderDuringPrototype</key>
+	<string>radioOutsideTemple</string>
+	<key>taskFormInset</key>
+	<string>nodeDuringPlatform</string>
+	<key>usedButtonOrientation</key>
+	<string>reactiveCommandRotation</string>
+</dict>
+</plist>

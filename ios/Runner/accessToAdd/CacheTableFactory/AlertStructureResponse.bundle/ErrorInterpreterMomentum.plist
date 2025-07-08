@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalTabviewOffset</key>
+	<string>flexibleConstraintInset</string>
+	<key>gramOrNumber</key>
+	<string>chartCompositeOffset</string>
+	<key>largeSensorOpacity</key>
+	<string>rectProcessPressure</string>
+	<key>radioByEnvironment</key>
+	<string>inheritedGesturedetectorForce</string>
+</dict>
+</plist>

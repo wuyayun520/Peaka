@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationUntilAction</key>
+	<string>dependencyWithMethod</string>
+	<key>brushVisitorLocation</key>
+	<string>nextChannelDistance</string>
+	<key>capacitiesVisitorTheme</key>
+	<string>blocStructureDelay</string>
+	<key>completerThroughPrototype</key>
+	<string>completerDuringObserver</string>
+	<key>movementFormVisibility</key>
+	<string>keyFragmentBottom</string>
+</dict>
+</plist>

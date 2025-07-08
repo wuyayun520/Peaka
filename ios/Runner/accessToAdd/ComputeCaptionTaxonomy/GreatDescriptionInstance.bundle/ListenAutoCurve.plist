@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorByState</key>
+	<string>compositionalModulusRight</string>
+	<key>customizedFeatureDuration</key>
+	<string>threadBridgeAcceleration</string>
+	<key>drawerMediatorBound</key>
+	<string>easySpriteMargin</string>
+	<key>pageviewAtSystem</key>
+	<string>permanentDelegateAlignment</string>
+	<key>previewWithoutLayer</key>
+	<string>textAmongTask</string>
+	<key>reductionOutsideOperation</key>
+	<string>grainParameterStyle</string>
+	<key>streamWithoutTask</key>
+	<string>displayableSemanticsIndex</string>
+</dict>
+</plist>

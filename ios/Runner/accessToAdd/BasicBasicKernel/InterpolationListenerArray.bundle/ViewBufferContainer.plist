@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonFunctionAppearance</key>
+	<string>lastEffectSize</string>
+	<key>decorationWithStage</key>
+	<string>displayableUsecaseDistance</string>
+	<key>heapLikeVisitor</key>
+	<string>publicStorageKind</string>
+	<key>labelDecoratorInteraction</key>
+	<string>builderSystemIndex</string>
+	<key>menuBeyondNumber</key>
+	<string>inkwellChainSpacing</string>
+	<key>multiGridviewSpacing</key>
+	<string>sequentialProgressbarVelocity</string>
+	<key>navigationShapeAppearance</key>
+	<string>canvasObserverTail</string>
+	<key>navigatorFlyweightTag</key>
+	<string>intuitiveSkinVisibility</string>
+	<key>requestBridgePadding</key>
+	<string>progressbarAndPrototype</string>
+</dict>
+</plist>

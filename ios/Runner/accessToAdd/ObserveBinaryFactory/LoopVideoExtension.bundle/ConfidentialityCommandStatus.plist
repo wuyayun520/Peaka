@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBeyondStyle</key>
+	<string>canvasKindName</string>
+	<key>customQueryIndex</key>
+	<string>rapidTangentInteraction</string>
+	<key>independentReductionDensity</key>
+	<string>providerWithStage</string>
+	<key>layoutOrCycle</key>
+	<string>normOrComposite</string>
+	<key>providerAlongActivity</key>
+	<string>nextRepositoryPadding</string>
+	<key>scrollWithKind</key>
+	<string>labelDecoratorDelay</string>
+	<key>statefulInterpolationVisible</key>
+	<string>profileOrLayer</string>
+	<key>swiftStageType</key>
+	<string>axisStyleTransparency</string>
+	<key>symmetricStreamRotation</key>
+	<string>intensityTempleMode</string>
+	<key>usedAnimationInterval</key>
+	<string>accordionDurationOpacity</string>
+</dict>
+</plist>

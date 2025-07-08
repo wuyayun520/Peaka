@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarBufferInteraction</key>
+	<string>particleStyleInset</string>
+	<key>behaviorAroundLayer</key>
+	<string>asyncBrushPressure</string>
+	<key>discardedBuilderKind</key>
+	<string>resolverFormLocation</string>
+	<key>localizationLayerSize</key>
+	<string>resourceAlongChain</string>
+	<key>paddingTypeBorder</key>
+	<string>platePhaseInterval</string>
+	<key>progressbarVariableSkewx</key>
+	<string>effectTypePadding</string>
+	<key>resultLevelMomentum</key>
+	<string>textPhaseSpeed</string>
+	<key>specifierDespiteSystem</key>
+	<string>managerMediatorSpacing</string>
+</dict>
+</plist>

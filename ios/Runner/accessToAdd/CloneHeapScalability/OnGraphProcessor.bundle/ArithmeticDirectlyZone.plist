@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCurveIndex</key>
+	<string>cubitCompositeRotation</string>
+	<key>desktopErrorBorder</key>
+	<string>mainAnchorDensity</string>
+	<key>interfaceCompositeSpeed</key>
+	<string>hyperbolicSymbolEdge</string>
+	<key>numericalStateLocation</key>
+	<string>cubitAroundBridge</string>
+	<key>permanentLayoutOffset</key>
+	<string>localProviderBound</string>
+	<key>popupSinceFacade</key>
+	<string>rapidMetadataOffset</string>
+	<key>respectiveFutureMode</key>
+	<string>textureAtType</string>
+</dict>
+</plist>

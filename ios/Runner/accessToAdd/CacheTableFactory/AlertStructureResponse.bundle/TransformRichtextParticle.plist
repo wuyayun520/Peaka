@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorPerMediator</key>
+	<string>tappableSpineScale</string>
+	<key>captionInEnvironment</key>
+	<string>frameVersusInterpreter</string>
+	<key>navigatorBridgeDelay</key>
+	<string>disabledProfileBorder</string>
+	<key>resolverParamCoord</key>
+	<string>textfieldPerParam</string>
+</dict>
+</plist>

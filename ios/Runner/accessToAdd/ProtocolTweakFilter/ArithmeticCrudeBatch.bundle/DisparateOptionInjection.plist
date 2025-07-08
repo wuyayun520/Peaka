@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionSingletonVisibility</key>
+	<string>routerOutsideJob</string>
+	<key>associatedMusicScale</key>
+	<string>fixedFutureScale</string>
+	<key>respectiveFactoryForce</key>
+	<string>staticBatchAlignment</string>
+	<key>retainedPlaybackVelocity</key>
+	<string>dropdownbuttonAroundMediator</string>
+	<key>timerProcessVisibility</key>
+	<string>challengeVersusObserver</string>
+	<key>widgetStateOrientation</key>
+	<string>crudeGemVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAgainstVisitor</key>
+	<string>histogramDespiteDecorator</string>
+	<key>columnVarPosition</key>
+	<string>checkboxByParameter</string>
+	<key>labelAndComposite</key>
+	<string>semanticBuilderState</string>
+	<key>observerCommandAppearance</key>
+	<string>cubitAgainstComposite</string>
+	<key>opaqueTopicTheme</key>
+	<string>hashDuringMode</string>
+	<key>storeBridgeDirection</key>
+	<string>flexibleSpecifierSaturation</string>
+	<key>tableUntilValue</key>
+	<string>storageModeEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateAlongPattern</key>
+	<string>statefulMementoTop</string>
+	<key>disabledScrollMargin</key>
+	<string>stepInsideMediator</string>
+	<key>symmetricModulusSize</key>
+	<string>equalizationAtShape</string>
+	<key>textUntilBuffer</key>
+	<string>missedBaseShade</string>
+</dict>
+</plist>

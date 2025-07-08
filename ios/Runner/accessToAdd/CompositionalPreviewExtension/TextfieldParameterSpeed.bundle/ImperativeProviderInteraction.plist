@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeTimerContrast</key>
+	<string>signPerParam</string>
+	<key>grainLevelPadding</key>
+	<string>callbackAsMethod</string>
+	<key>nibExceptMethod</key>
+	<string>mobxPatternResponse</string>
+	<key>retainedBuilderBrightness</key>
+	<string>greatNormOpacity</string>
+	<key>roleModeTail</key>
+	<string>alphaJobContrast</string>
+	<key>sineBridgeName</key>
+	<string>sceneDuringOperation</string>
+	<key>standaloneAccessoryFeedback</key>
+	<string>uniqueResourceDuration</string>
+	<key>viewAlongChain</key>
+	<string>tweenLayerSaturation</string>
+</dict>
+</plist>

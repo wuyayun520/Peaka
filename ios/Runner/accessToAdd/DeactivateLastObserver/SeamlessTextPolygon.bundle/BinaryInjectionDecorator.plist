@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionEnvironmentStyle</key>
+	<string>inactiveHandlerBehavior</string>
+	<key>arithmeticMetadataCount</key>
+	<string>concreteBatchPadding</string>
+	<key>backwardActionRight</key>
+	<string>usedSegmentRight</string>
+	<key>errorMementoValidation</key>
+	<string>lostDurationEdge</string>
+	<key>heroPrototypeName</key>
+	<string>slashFromCommand</string>
+	<key>iconContextTheme</key>
+	<string>providerInTier</string>
+	<key>lastMobxFeedback</key>
+	<string>observerVisitorInset</string>
+	<key>managerIncludeKind</key>
+	<string>permissiveNavigationEdge</string>
+	<key>mediumLabelOffset</key>
+	<string>resilientUtilBrightness</string>
+</dict>
+</plist>

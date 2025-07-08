@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsAroundFacade</key>
+	<string>playbackForFramework</string>
+	<key>decorationBeyondStrategy</key>
+	<string>durationStructureIndex</string>
+	<key>iconOutsideJob</key>
+	<string>streamFacadeRate</string>
+	<key>marginVisitorOrigin</key>
+	<string>streamOperationMomentum</string>
+	<key>responsiveLabelValidation</key>
+	<string>modalDecoratorTop</string>
+	<key>sortedChapterOrigin</key>
+	<string>challengeWithoutStage</string>
+	<key>staticStepCount</key>
+	<string>taskJobMargin</string>
+</dict>
+</plist>

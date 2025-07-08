@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintContextDirection</key>
+	<string>scaffoldOfFramework</string>
+	<key>labelExceptAdapter</key>
+	<string>respectiveQueueSize</string>
+	<key>paddingWithAction</key>
+	<string>profileOrCommand</string>
+	<key>uniqueCheckboxVisibility</key>
+	<string>storageDespiteVisitor</string>
+</dict>
+</plist>

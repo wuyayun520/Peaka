@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderPerTemple</key>
+	<string>canvasAgainstForm</string>
+	<key>controllerAlongStructure</key>
+	<string>layoutModeHue</string>
+	<key>masterActivityRotation</key>
+	<string>independentRequestBottom</string>
+	<key>originalFactoryForce</key>
+	<string>normalEventBottom</string>
+	<key>routeOrActivity</key>
+	<string>rapidCommandFlags</string>
+	<key>routerValueBottom</key>
+	<string>methodFacadeFlags</string>
+	<key>routerWorkDuration</key>
+	<string>profileShapeDelay</string>
+	<key>sharedFrameSize</key>
+	<string>seamlessProjectPadding</string>
+	<key>spinePrototypeLeft</key>
+	<string>responseOutsideAction</string>
+</dict>
+</plist>

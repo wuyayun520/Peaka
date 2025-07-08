@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileViewMomentum</key>
+	<string>providerValueVisibility</string>
+	<key>entitySystemSize</key>
+	<string>segmentVisitorSpeed</string>
+	<key>independentSegmentBrightness</key>
+	<string>asyncPainterFrequency</string>
+	<key>storageThroughActivity</key>
+	<string>visibleAppbarMargin</string>
+</dict>
+</plist>

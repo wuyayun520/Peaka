@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsFormFormat</key>
+	<string>cartesianCubitAlignment</string>
+	<key>exceptionTypeLeft</key>
+	<string>framePerVisitor</string>
+	<key>sinkJobDensity</key>
+	<string>allocatorAwayMemento</string>
+	<key>symmetricInjectionDirection</key>
+	<string>pointThroughMemento</string>
+</dict>
+</plist>

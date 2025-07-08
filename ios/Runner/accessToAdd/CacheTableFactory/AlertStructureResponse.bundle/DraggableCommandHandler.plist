@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationViaMode</key>
+	<string>sustainableSignatureDuration</string>
+	<key>elasticSensorValidation</key>
+	<string>resourceFrameworkVisibility</string>
+	<key>ephemeralCosineMargin</key>
+	<string>accordionBulletSpeed</string>
+	<key>factoryDecoratorOrigin</key>
+	<string>heroStageSaturation</string>
+	<key>queueUntilCycle</key>
+	<string>callbackStyleFrequency</string>
+</dict>
+</plist>

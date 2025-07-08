@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveContractionBottom</key>
+	<string>popupAroundComposite</string>
+	<key>invisibleSpineVelocity</key>
+	<string>reactiveThreadCount</string>
+	<key>queuePhaseState</key>
+	<string>managerVariableMomentum</string>
+	<key>smartAperturePosition</key>
+	<string>declarativeOperationPosition</string>
+	<key>synchronousCapsulePressure</key>
+	<string>specifierFlyweightSaturation</string>
+</dict>
+</plist>

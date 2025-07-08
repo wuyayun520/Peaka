@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridChainPadding</key>
+	<string>mobileSensorFeedback</string>
+	<key>metadataWithPattern</key>
+	<string>directArithmeticTheme</string>
+	<key>popupAmongFlyweight</key>
+	<string>overlayLevelOrientation</string>
+	<key>semanticCommandShape</key>
+	<string>webStorageOrientation</string>
+</dict>
+</plist>

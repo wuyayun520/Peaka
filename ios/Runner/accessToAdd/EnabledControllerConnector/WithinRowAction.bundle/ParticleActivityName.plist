@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAboutKind</key>
+	<string>graphAroundFlyweight</string>
+	<key>awaitWorkOpacity</key>
+	<string>dependencyTaskCount</string>
+	<key>fixedSensorContrast</key>
+	<string>relationalBlocDirection</string>
+	<key>interpolationAdapterSaturation</key>
+	<string>composableLoopContrast</string>
+	<key>newestCoordinatorDirection</key>
+	<string>threadWithoutVar</string>
+	<key>permissiveScrollTint</key>
+	<string>methodNumberKind</string>
+	<key>responseMethodCenter</key>
+	<string>durationTypeOrientation</string>
+	<key>shaderInComposite</key>
+	<string>hyperbolicMetadataBound</string>
+	<key>standaloneLocalizationResponse</key>
+	<string>mediaPatternForce</string>
+</dict>
+</plist>

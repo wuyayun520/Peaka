@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsChainType</key>
+	<string>precisionViaCommand</string>
+	<key>eagerBlocColor</key>
+	<string>commonOffsetBorder</string>
+	<key>missionFunctionMomentum</key>
+	<string>explicitCapsuleDelay</string>
+	<key>observerKindBrightness</key>
+	<string>streamNumberSize</string>
+	<key>reducerOfLayer</key>
+	<string>inactiveNotifierSpacing</string>
+</dict>
+</plist>

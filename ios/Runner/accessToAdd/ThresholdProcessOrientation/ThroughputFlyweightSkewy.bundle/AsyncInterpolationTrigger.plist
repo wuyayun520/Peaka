@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterShapeSaturation</key>
+	<string>catalystCycleTint</string>
+	<key>hierarchicalIndicatorSaturation</key>
+	<string>providerPhaseState</string>
+	<key>notificationWithAdapter</key>
+	<string>finalScreenInterval</string>
+	<key>queueMediatorRight</key>
+	<string>iterativeUtilColor</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>movementThanCycle</key>
+	<string>singleTaskInterval</string>
+	<key>nextBaselineStyle</key>
+	<string>gateShapePressure</string>
+	<key>toolExceptAdapter</key>
+	<string>positionedStateFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarContainStrategy</key>
+	<string>threadAroundEnvironment</string>
+	<key>comprehensiveExpandedInset</key>
+	<string>dynamicMatrixMargin</string>
+	<key>configurationFrameworkEdge</key>
+	<string>spineVarDensity</string>
+	<key>enabledSliderFeedback</key>
+	<string>missedContainerTail</string>
+	<key>firstConvolutionIndex</key>
+	<string>tabviewForTier</string>
+	<key>histogramExceptTier</key>
+	<string>workflowInterpreterFeedback</string>
+	<key>iterativeStepValidation</key>
+	<string>declarativeUsecaseResponse</string>
+	<key>layoutFunctionInterval</key>
+	<string>stackContainFacade</string>
+	<key>relationalCaptionSize</key>
+	<string>eventFormForce</string>
+</dict>
+</plist>

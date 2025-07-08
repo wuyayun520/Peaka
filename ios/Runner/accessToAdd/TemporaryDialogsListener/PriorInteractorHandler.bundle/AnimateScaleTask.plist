@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineInMethod</key>
+	<string>permissiveRequestTheme</string>
+	<key>inactiveCollectionStatus</key>
+	<string>decorationInsideMethod</string>
+	<key>loopByVariable</key>
+	<string>sceneAsContext</string>
+	<key>modalVersusNumber</key>
+	<string>imperativeCommandCount</string>
+	<key>playbackOutsideLevel</key>
+	<string>directToolTail</string>
+	<key>positionAmongStructure</key>
+	<string>statefulAsBridge</string>
+	<key>segueStrategySkewy</key>
+	<string>titleMediatorDuration</string>
+	<key>themeUntilState</key>
+	<string>intermediateSpriteLeft</string>
+	<key>webSpecifierPadding</key>
+	<string>concurrentMemberBorder</string>
+</dict>
+</plist>

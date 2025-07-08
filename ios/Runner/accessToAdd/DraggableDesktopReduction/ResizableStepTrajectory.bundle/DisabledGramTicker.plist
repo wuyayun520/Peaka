@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonForChain</key>
+	<string>dynamicViewFeedback</string>
+	<key>fusedMovementAppearance</key>
+	<string>resourceByStrategy</string>
+	<key>overlayInterpreterOrientation</key>
+	<string>masterProxyOffset</string>
+	<key>subtleInjectionDistance</key>
+	<string>collectionBeyondCommand</string>
+</dict>
+</plist>

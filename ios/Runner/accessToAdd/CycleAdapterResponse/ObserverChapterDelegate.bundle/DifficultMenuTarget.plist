@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitNumberSkewy</key>
+	<string>awaitActivityFormat</string>
+	<key>boxWithVariable</key>
+	<string>binaryBySystem</string>
+	<key>extensionAgainstSingleton</key>
+	<string>heapOutsideMediator</string>
+	<key>gramThroughParameter</key>
+	<string>firstFeatureMargin</string>
+	<key>precisionStageFeedback</key>
+	<string>responseObserverAlignment</string>
+	<key>protocolBesidePlatform</key>
+	<string>requestMediatorRate</string>
+	<key>radiusInsideStructure</key>
+	<string>symmetricConfigurationOrigin</string>
+</dict>
+</plist>

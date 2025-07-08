@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineValueRotation</key>
+	<string>offsetViaPrototype</string>
+	<key>borderUntilAdapter</key>
+	<string>drawerOrBridge</string>
+	<key>constViewBrightness</key>
+	<string>sortedExpandedDirection</string>
+	<key>entityLevelInteraction</key>
+	<string>mobileReducerFlags</string>
+	<key>entropyBridgeCenter</key>
+	<string>grainDecoratorVisibility</string>
+	<key>nibParamFeedback</key>
+	<string>sustainableActivityHead</string>
+	<key>reducerPerPrototype</key>
+	<string>customizedCompletionSpeed</string>
+</dict>
+</plist>

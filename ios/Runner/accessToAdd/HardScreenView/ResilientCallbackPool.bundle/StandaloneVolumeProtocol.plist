@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitChainDensity</key>
+	<string>dedicatedStateSaturation</string>
+	<key>challengeForTemple</key>
+	<string>directViewTop</string>
+	<key>curveOutsidePhase</key>
+	<string>resolverBufferOffset</string>
+	<key>futureTypeTail</key>
+	<string>singletonInterpreterEdge</string>
+	<key>intuitiveAwaitFrequency</key>
+	<string>sessionOfSingleton</string>
+	<key>isolateIncludeWork</key>
+	<string>normalCommandOrientation</string>
+	<key>protectedContainerSpeed</key>
+	<string>mediocreEffectMode</string>
+	<key>requiredNibEdge</key>
+	<string>dropdownbuttonOutsideMediator</string>
+	<key>significantSpineCount</key>
+	<string>inactiveSineDepth</string>
+	<key>viewAlongTemple</key>
+	<string>stateShapeFeedback</string>
+</dict>
+</plist>

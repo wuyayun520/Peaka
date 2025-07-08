@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousNavigatorTag</key>
+	<string>requestDuringVisitor</string>
+	<key>managerAdapterStatus</key>
+	<string>significantPreviewTransparency</string>
+	<key>optionFromType</key>
+	<string>mutableNavigationSaturation</string>
+	<key>playbackStructureTint</key>
+	<string>flexibleAwaitBottom</string>
+	<key>resilientPopupFeedback</key>
+	<string>asyncModelType</string>
+	<key>secondMultiplicationColor</key>
+	<string>channelsPhaseMode</string>
+	<key>timerPhaseCoord</key>
+	<string>localRouterSkewy</string>
+	<key>transitionLikeObserver</key>
+	<string>pinchableSliderBorder</string>
+</dict>
+</plist>

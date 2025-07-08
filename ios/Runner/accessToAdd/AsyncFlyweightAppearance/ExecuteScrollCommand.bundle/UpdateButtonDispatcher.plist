@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventBesideActivity</key>
+	<string>allocatorAwayCommand</string>
+	<key>observerDuringTask</key>
+	<string>screenAtFramework</string>
+	<key>operationNumberPressure</key>
+	<string>newestMomentumPadding</string>
+	<key>protectedCallbackTransparency</key>
+	<string>constraintOrFlyweight</string>
+	<key>routeLikeObserver</key>
+	<string>providerThroughStage</string>
+	<key>sceneAndValue</key>
+	<string>mobileCompositionKind</string>
+	<key>skinStyleState</key>
+	<string>denseCertificateInset</string>
+	<key>synchronousDimensionLocation</key>
+	<string>commandFormVisible</string>
+</dict>
+</plist>

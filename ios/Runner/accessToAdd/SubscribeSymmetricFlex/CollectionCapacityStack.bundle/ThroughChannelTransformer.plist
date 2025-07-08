@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionMethodStatus</key>
+	<string>priorMapSpacing</string>
+	<key>expandedVersusLayer</key>
+	<string>stackWithoutFunction</string>
+	<key>layoutAsPrototype</key>
+	<string>cacheViaSystem</string>
+	<key>numericalGridDirection</key>
+	<string>temporaryPositionShape</string>
+	<key>richtextPerEnvironment</key>
+	<string>cursorAlongWork</string>
+</dict>
+</plist>

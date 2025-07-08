@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerStatefulShape</key>
+	<string>hierarchicalAppbarMode</string>
+	<key>checkboxOperationMargin</key>
+	<string>unsortedTextfieldBottom</string>
+	<key>enabledHandlerFormat</key>
+	<string>coordinatorDespiteActivity</string>
+	<key>storyboardUntilContext</key>
+	<string>gradientDuringJob</string>
+	<key>textBeyondLevel</key>
+	<string>sizedboxAlongInterpreter</string>
+	<key>textOutsideActivity</key>
+	<string>largeRichtextMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveSwitchShape</key>
+	<string>toolBesideState</string>
+	<key>popupCompositeColor</key>
+	<string>offsetNearComposite</string>
+	<key>requestDespiteJob</key>
+	<string>stampPerActivity</string>
+	<key>statefulValueResponse</key>
+	<string>beginnerSliderBehavior</string>
+</dict>
+</plist>

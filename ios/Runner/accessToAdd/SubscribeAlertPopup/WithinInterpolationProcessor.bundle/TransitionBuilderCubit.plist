@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDespiteBridge</key>
+	<string>marginWithoutAdapter</string>
+	<key>containerStateInteraction</key>
+	<string>inkwellPrototypeSaturation</string>
+	<key>equalizationOutsideStructure</key>
+	<string>usedTimerTheme</string>
+	<key>localizationFacadeResponse</key>
+	<string>responseUntilFacade</string>
+	<key>providerOrLayer</key>
+	<string>semanticsSingletonBrightness</string>
+	<key>reducerStagePressure</key>
+	<string>stateContainEnvironment</string>
+	<key>singleStreamSkewy</key>
+	<string>textureFlyweightPressure</string>
+	<key>storageJobBound</key>
+	<string>subsequentSignScale</string>
+</dict>
+</plist>

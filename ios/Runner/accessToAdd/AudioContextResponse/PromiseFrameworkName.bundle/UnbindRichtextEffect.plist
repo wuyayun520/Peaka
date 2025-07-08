@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loopOfFlyweight</key>
+	<string>basicViewShape</string>
+	<key>projectionOutsideStructure</key>
+	<string>sizedboxAwayComposite</string>
+	<key>queueLikeMemento</key>
+	<string>remainderStateHead</string>
+	<key>sequentialRouteKind</key>
+	<string>sliderAsPlatform</string>
+</dict>
+</plist>

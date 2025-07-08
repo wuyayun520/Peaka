@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetBeyondBuffer</key>
+	<string>euclideanUtilBehavior</string>
+	<key>clipperMementoSpacing</key>
+	<string>finalAllocatorInset</string>
+	<key>directProjectionScale</key>
+	<string>protectedStackStatus</string>
+	<key>menuInterpreterVisible</key>
+	<string>subtleThemeContrast</string>
+	<key>menuModeOffset</key>
+	<string>providerVersusParam</string>
+	<key>presenterContainState</key>
+	<string>timerTypePressure</string>
+</dict>
+</plist>

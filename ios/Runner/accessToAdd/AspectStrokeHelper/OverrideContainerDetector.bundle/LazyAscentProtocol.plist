@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFacadeInteraction</key>
+	<string>denseButtonBottom</string>
+	<key>dialogsParameterScale</key>
+	<string>resultWithPrototype</string>
+	<key>imageInParameter</key>
+	<string>monsterOutsideSingleton</string>
+	<key>indicatorBeyondShape</key>
+	<string>smallRoleBehavior</string>
+	<key>monsterWorkOffset</key>
+	<string>persistentVectorAlignment</string>
+	<key>nextSlashForce</key>
+	<string>descriptionBesideInterpreter</string>
+	<key>rowObserverIndex</key>
+	<string>cosineStageOffset</string>
+	<key>streamFlyweightTag</key>
+	<string>gridForObserver</string>
+</dict>
+</plist>

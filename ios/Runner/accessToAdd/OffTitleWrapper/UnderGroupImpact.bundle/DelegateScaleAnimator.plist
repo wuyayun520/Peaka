@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityAtPhase</key>
+	<string>providerTierPressure</string>
+	<key>geometricEffectAppearance</key>
+	<string>rapidCurveColor</string>
+	<key>listenerAmongStage</key>
+	<string>functionalQueueStyle</string>
+	<key>liteStreamCenter</key>
+	<string>reactiveLocalizationOrigin</string>
+	<key>responsiveManagerName</key>
+	<string>layoutStrategyCenter</string>
+	<key>zoneExceptPrototype</key>
+	<string>accordionChartBorder</string>
+</dict>
+</plist>

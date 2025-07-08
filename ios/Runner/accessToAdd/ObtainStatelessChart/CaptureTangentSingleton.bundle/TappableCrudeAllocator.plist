@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsWithBuffer</key>
+	<string>resourceAgainstVariable</string>
+	<key>constraintNumberFeedback</key>
+	<string>animatedStreamType</string>
+	<key>hierarchicalMetadataMode</key>
+	<string>hardPreviewEdge</string>
+	<key>opaqueMasterType</key>
+	<string>nativeChartDirection</string>
+	<key>operationMementoCenter</key>
+	<string>cycleFlyweightKind</string>
+	<key>sizeForDecorator</key>
+	<string>disabledControllerDepth</string>
+</dict>
+</plist>

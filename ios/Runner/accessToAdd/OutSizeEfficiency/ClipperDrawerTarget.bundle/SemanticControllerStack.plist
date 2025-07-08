@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionScreenOrientation</key>
+	<string>spriteCycleAcceleration</string>
+	<key>appbarActivityHue</key>
+	<string>materialCompositeTail</string>
+	<key>asyncObserverPosition</key>
+	<string>globalObserverTop</string>
+	<key>asynchronousEqualizationEdge</key>
+	<string>stackBeyondFacade</string>
+	<key>cardFormTop</key>
+	<string>assetAgainstVariable</string>
+	<key>mapMementoStyle</key>
+	<string>sharedCapacitiesScale</string>
+	<key>observerInterpreterAcceleration</key>
+	<string>asyncStrategyInterval</string>
+	<key>sceneShapeValidation</key>
+	<string>labelSystemIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonShapeSkewx</key>
+	<string>particleAndProxy</string>
+	<key>rapidGradientType</key>
+	<string>pinchableBehaviorStatus</string>
+	<key>semanticButtonTransparency</key>
+	<string>seamlessMetadataRight</string>
+	<key>variantWithoutState</key>
+	<string>concreteKernelDelay</string>
+</dict>
+</plist>

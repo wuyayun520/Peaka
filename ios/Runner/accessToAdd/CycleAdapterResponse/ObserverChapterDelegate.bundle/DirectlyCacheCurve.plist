@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitContainKind</key>
+	<string>criticalIntensitySpacing</string>
+	<key>managerActionEdge</key>
+	<string>animationBufferRotation</string>
+	<key>smallControllerDensity</key>
+	<string>cardStyleDensity</string>
+	<key>specifierOfTier</key>
+	<string>actionDuringPlatform</string>
+	<key>uniqueIconSize</key>
+	<string>keyBinaryAppearance</string>
+</dict>
+</plist>

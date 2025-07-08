@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchLevelBottom</key>
+	<string>movementCommandName</string>
+	<key>decorationFlyweightBottom</key>
+	<string>agileRadioBrightness</string>
+	<key>difficultCompleterIndex</key>
+	<string>sizeMementoDelay</string>
+	<key>easyGroupTheme</key>
+	<string>heapEnvironmentSaturation</string>
+	<key>inheritedQueueDistance</key>
+	<string>nativeChartContrast</string>
+	<key>opaqueStateOrientation</key>
+	<string>routeFunctionRate</string>
+	<key>unaryFlyweightSkewy</key>
+	<string>logarithmInFramework</string>
+	<key>visibleBatchSpeed</key>
+	<string>greatListenerRight</string>
+</dict>
+</plist>

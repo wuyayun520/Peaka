@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeCaptionContrast</key>
+	<string>mediumBorderInset</string>
+	<key>intermediateCommandStatus</key>
+	<string>topicContainCycle</string>
+	<key>kernelProcessDepth</key>
+	<string>normalAspectBorder</string>
+	<key>materialSingletonMargin</key>
+	<string>protectedTabbarFrequency</string>
+	<key>spineWithMemento</key>
+	<string>alertOfShape</string>
+	<key>widgetPerFacade</key>
+	<string>dialogsWithMethod</string>
+</dict>
+</plist>

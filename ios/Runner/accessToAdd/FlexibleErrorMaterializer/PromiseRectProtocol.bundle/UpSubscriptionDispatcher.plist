@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryShapeDistance</key>
+	<string>isolateThanChain</string>
+	<key>basicHeroScale</key>
+	<string>channelsBesideDecorator</string>
+	<key>cupertinoLikeBuffer</key>
+	<string>storeLevelFeedback</string>
+	<key>dependencyAdapterTint</key>
+	<string>allocatorChainTransparency</string>
+	<key>effectPlatformShade</key>
+	<string>builderFromBuffer</string>
+	<key>precisionForValue</key>
+	<string>gesturedetectorViaFlyweight</string>
+	<key>seamlessDependencyShape</key>
+	<string>slashFormMargin</string>
+	<key>variantPlatformBottom</key>
+	<string>advancedStorageVisible</string>
+</dict>
+</plist>

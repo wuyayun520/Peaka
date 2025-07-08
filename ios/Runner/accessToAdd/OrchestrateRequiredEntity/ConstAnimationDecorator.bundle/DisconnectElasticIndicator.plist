@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderChainDelay</key>
+	<string>compositionalStoreInterval</string>
+	<key>consumerOrLayer</key>
+	<string>progressbarWorkCenter</string>
+	<key>cursorContainVariable</key>
+	<string>scrollableRectResponse</string>
+	<key>hierarchicalObserverOpacity</key>
+	<string>documentDecoratorPressure</string>
+	<key>indicatorStructureContrast</key>
+	<string>awaitOutsideBuffer</string>
+	<key>listenerAlongTier</key>
+	<string>sequentialSpriteSkewy</string>
+	<key>previewVariableDuration</key>
+	<string>protectedTweenStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionInjectionMode</key>
+	<string>localExpandedScale</string>
+	<key>basicPreviewContrast</key>
+	<string>contractionDespiteActivity</string>
+	<key>configurationByFacade</key>
+	<string>fragmentFlyweightAcceleration</string>
+	<key>documentDecoratorHue</key>
+	<string>expandedDespiteJob</string>
+	<key>localContractionSize</key>
+	<string>sizeKindCenter</string>
+	<key>menuLayerContrast</key>
+	<string>prismaticNavigatorForce</string>
+	<key>missionShapeFlags</key>
+	<string>granularSingletonRight</string>
+	<key>nibFormInset</key>
+	<string>projectCycleTop</string>
+	<key>statePhaseInteraction</key>
+	<string>intensityInterpreterTop</string>
+</dict>
+</plist>

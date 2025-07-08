@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigatorAlongMethod</key>
+	<string>alignmentLayerBehavior</string>
+	<key>originalRequestKind</key>
+	<string>controllerTierKind</string>
+	<key>similarPointTag</key>
+	<string>textfieldBesideComposite</string>
+	<key>taskObserverSkewy</key>
+	<string>stepAwayCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxInActivity</key>
+	<string>allocatorForVariable</string>
+	<key>currentReductionHead</key>
+	<string>presenterCompositeVelocity</string>
+	<key>iconContextDistance</key>
+	<string>taskSingletonPadding</string>
+	<key>mediumViewDistance</key>
+	<string>gateBufferFormat</string>
+	<key>mobileBaselineMode</key>
+	<string>errorFormAppearance</string>
+	<key>streamAmongVariable</key>
+	<string>pageviewCommandHue</string>
+</dict>
+</plist>

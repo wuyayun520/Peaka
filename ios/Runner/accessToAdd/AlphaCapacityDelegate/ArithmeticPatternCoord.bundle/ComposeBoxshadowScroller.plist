@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushAgainstComposite</key>
+	<string>stackAmongPrototype</string>
+	<key>layoutFromKind</key>
+	<string>standaloneStreamBound</string>
+	<key>mainChannelShape</key>
+	<string>inheritedChartBound</string>
+	<key>roleCompositeCount</key>
+	<string>dependencyAtActivity</string>
+	<key>transitionStylePosition</key>
+	<string>elasticAppbarOpacity</string>
+</dict>
+</plist>

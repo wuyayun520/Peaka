@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintOperationSpeed</key>
+	<string>consumerByType</string>
+	<key>custompaintSinceValue</key>
+	<string>documentOperationDuration</string>
+	<key>disabledCompletionTheme</key>
+	<string>commonAllocatorFlags</string>
+	<key>disparateStampOpacity</key>
+	<string>usedDescriptionTop</string>
+	<key>loopOrWork</key>
+	<string>dimensionCommandPadding</string>
+	<key>parallelFragmentTransparency</key>
+	<string>zoneTaskEdge</string>
+	<key>permissiveLayoutSpeed</key>
+	<string>groupSystemTint</string>
+	<key>permissiveResourceType</key>
+	<string>desktopCurvePosition</string>
+	<key>statelessLayerTension</key>
+	<string>prevUnaryVelocity</string>
+	<key>taskInEnvironment</key>
+	<string>custompaintWithObserver</string>
+</dict>
+</plist>

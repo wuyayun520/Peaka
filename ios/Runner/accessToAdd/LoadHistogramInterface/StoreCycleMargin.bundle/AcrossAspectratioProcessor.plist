@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarDespiteFacade</key>
+	<string>permissiveSessionHue</string>
+	<key>crucialProviderTension</key>
+	<string>providerScopeInset</string>
+	<key>drawerMethodEdge</key>
+	<string>visibleProviderBound</string>
+	<key>gesturePatternBound</key>
+	<string>completerWithoutPattern</string>
+	<key>reducerAroundFacade</key>
+	<string>synchronousSubpixelBorder</string>
+	<key>reusableBlocDepth</key>
+	<string>hierarchicalServiceDistance</string>
+	<key>widgetDespitePattern</key>
+	<string>managerPlatformSize</string>
+</dict>
+</plist>

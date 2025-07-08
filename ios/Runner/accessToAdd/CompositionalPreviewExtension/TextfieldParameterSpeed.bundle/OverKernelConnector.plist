@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorProcessMomentum</key>
+	<string>stepPhaseMargin</string>
+	<key>buttonAsPattern</key>
+	<string>declarativeContainerVisibility</string>
+	<key>dialogsOfTask</key>
+	<string>hashAndMemento</string>
+	<key>indicatorAroundCommand</key>
+	<string>effectModeAppearance</string>
+	<key>interactorModeVisible</key>
+	<string>matrixCommandStyle</string>
+	<key>plateOfPhase</key>
+	<string>futureTypeBorder</string>
+	<key>resizableProgressbarRate</key>
+	<string>multiGrayscaleBorder</string>
+	<key>standaloneStatefulPadding</key>
+	<string>desktopRiverpodScale</string>
+	<key>stateScopeDepth</key>
+	<string>statefulRouteSize</string>
+	<key>tweenOperationLeft</key>
+	<string>coordinatorBesideBridge</string>
+</dict>
+</plist>

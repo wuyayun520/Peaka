@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncByProxy</key>
+	<string>appbarAroundFlyweight</string>
+	<key>channelsAgainstAdapter</key>
+	<string>isolateObserverScale</string>
+	<key>crudeClipperAlignment</key>
+	<string>optionProcessStyle</string>
+	<key>labelBeyondStyle</key>
+	<string>adaptiveChannelHue</string>
+	<key>popupContextFrequency</key>
+	<string>baseLayerFeedback</string>
+	<key>storeExceptCycle</key>
+	<string>equipmentObserverAlignment</string>
+	<key>streamInNumber</key>
+	<string>responseNearSingleton</string>
+	<key>visibleCustompaintPressure</key>
+	<string>draggableEntropyCount</string>
+</dict>
+</plist>

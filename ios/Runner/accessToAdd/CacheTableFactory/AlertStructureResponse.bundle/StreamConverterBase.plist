@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaActivityAppearance</key>
+	<string>coordinatorScopeTop</string>
+	<key>inheritedDocumentRate</key>
+	<string>heapSystemName</string>
+	<key>resourceViaSystem</key>
+	<string>roleAroundActivity</string>
+	<key>semanticsParamInteraction</key>
+	<string>offsetAndCommand</string>
+	<key>switchVersusForm</key>
+	<string>rowExceptFunction</string>
+</dict>
+</plist>

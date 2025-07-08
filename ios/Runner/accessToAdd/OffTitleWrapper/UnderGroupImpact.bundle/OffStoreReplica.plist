@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableRequestKind</key>
+	<string>stepLayerBehavior</string>
+	<key>fixedServiceRotation</key>
+	<string>tweenOrVariable</string>
+	<key>functionalStateVisible</key>
+	<string>mediumSwitchTail</string>
+	<key>ignoredBitrateStyle</key>
+	<string>statelessSlashMargin</string>
+	<key>layoutOutsideShape</key>
+	<string>containerStrategySkewx</string>
+	<key>notificationWithoutContext</key>
+	<string>shaderOrAdapter</string>
+	<key>visibleCoordinatorInset</key>
+	<string>mapEnvironmentShade</string>
+	<key>widgetBeyondActivity</key>
+	<string>fusedResolverTail</string>
+</dict>
+</plist>

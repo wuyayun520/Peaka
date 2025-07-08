@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoResponseFrequency</key>
+	<string>bitrateFromEnvironment</string>
+	<key>basicDescriptionSaturation</key>
+	<string>tweenStageAppearance</string>
+	<key>constraintProxyPadding</key>
+	<string>referenceNearState</string>
+	<key>equipmentThroughForm</key>
+	<string>statefulPhaseMargin</string>
+	<key>injectionWorkFlags</key>
+	<string>lostNavigatorIndex</string>
+	<key>riverpodForProxy</key>
+	<string>tickerStructureFormat</string>
+	<key>viewAlongLayer</key>
+	<string>sharedDescriptionIndex</string>
+</dict>
+</plist>

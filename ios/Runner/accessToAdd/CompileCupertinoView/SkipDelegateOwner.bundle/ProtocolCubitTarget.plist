@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAgainstFacade</key>
+	<string>segueInsideMemento</string>
+	<key>animationJobLocation</key>
+	<string>navigatorWithoutChain</string>
+	<key>optimizerAgainstAdapter</key>
+	<string>priorExceptionScale</string>
+	<key>rowFlyweightContrast</key>
+	<string>marginSingletonPosition</string>
+	<key>sinkStrategyIndex</key>
+	<string>dropdownbuttonThroughMemento</string>
+	<key>switchAndSingleton</key>
+	<string>scenePlatformTransparency</string>
+	<key>taskFrameworkCoord</key>
+	<string>visibleObserverInterval</string>
+	<key>threadDuringState</key>
+	<string>alertExceptVisitor</string>
+</dict>
+</plist>

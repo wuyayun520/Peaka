@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationContextBottom</key>
+	<string>titleIncludeCommand</string>
+	<key>coordinatorInAdapter</key>
+	<string>sustainableGradientShade</string>
+	<key>gemInsideForm</key>
+	<string>unactivatedCycleTint</string>
+	<key>mutableSessionBorder</key>
+	<string>documentBeyondComposite</string>
+	<key>textfieldPerDecorator</key>
+	<string>heapWithTask</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorBufferVisible</key>
+	<string>diffableUsecaseBehavior</string>
+	<key>labelTempleName</key>
+	<string>streamProxyFeedback</string>
+	<key>listenerPatternFlags</key>
+	<string>alignmentInsideEnvironment</string>
+	<key>loopIncludeParameter</key>
+	<string>custompaintBesideCycle</string>
+	<key>usecaseCommandColor</key>
+	<string>bulletOrLayer</string>
+</dict>
+</plist>

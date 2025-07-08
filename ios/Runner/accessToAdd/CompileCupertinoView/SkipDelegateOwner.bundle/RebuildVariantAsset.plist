@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyVisitorName</key>
+	<string>modulusWithoutActivity</string>
+	<key>observerWithoutTier</key>
+	<string>liteTransitionBrightness</string>
+	<key>oldSpriteVisibility</key>
+	<string>previewTaskInterval</string>
+	<key>optimizerOperationDirection</key>
+	<string>subscriptionExceptActivity</string>
+	<key>persistentKernelSkewx</key>
+	<string>apertureThroughFlyweight</string>
+	<key>pinchableMovementOrientation</key>
+	<string>segueAwayLayer</string>
+	<key>signDuringProcess</key>
+	<string>numericalTextureInteraction</string>
+	<key>tensorResponseContrast</key>
+	<string>managerOutsideState</string>
+</dict>
+</plist>

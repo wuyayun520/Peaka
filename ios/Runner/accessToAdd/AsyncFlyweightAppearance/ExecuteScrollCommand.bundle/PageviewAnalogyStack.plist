@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianPopupLocation</key>
+	<string>denseLoopFormat</string>
+	<key>commandStyleAppearance</key>
+	<string>ignoredCurveTheme</string>
+	<key>durationVariableRate</key>
+	<string>groupNearStrategy</string>
+	<key>equipmentVariableBound</key>
+	<string>modalInsideFramework</string>
+</dict>
+</plist>

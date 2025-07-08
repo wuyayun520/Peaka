@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushProxyValidation</key>
+	<string>kernelDuringOperation</string>
+	<key>sliderProcessEdge</key>
+	<string>opaqueTableDepth</string>
+	<key>specifyAnimatedcontainerKind</key>
+	<string>rapidColumnSpacing</string>
+	<key>storageOrComposite</key>
+	<string>cupertinoEntropyVelocity</string>
+	<key>tickerDecoratorSpeed</key>
+	<string>requestProxyCount</string>
+	<key>typicalStepInset</key>
+	<string>sizeDecoratorVelocity</string>
+</dict>
+</plist>

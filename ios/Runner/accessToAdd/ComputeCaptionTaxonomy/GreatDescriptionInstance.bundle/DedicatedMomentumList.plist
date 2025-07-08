@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyAmongFunction</key>
+	<string>parallelTaskStyle</string>
+	<key>lossInParameter</key>
+	<string>stateWithSingleton</string>
+	<key>modelAtParameter</key>
+	<string>compositionalParticleName</string>
+	<key>subscriptionWithoutFlyweight</key>
+	<string>precisionDuringComposite</string>
+</dict>
+</plist>

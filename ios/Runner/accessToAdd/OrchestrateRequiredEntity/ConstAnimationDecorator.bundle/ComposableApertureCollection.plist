@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisPrototypeDirection</key>
+	<string>globalScaffoldOrigin</string>
+	<key>checkboxAdapterSpeed</key>
+	<string>documentLikeDecorator</string>
+	<key>isolateTierBottom</key>
+	<string>canvasFlyweightBorder</string>
+	<key>nodeDespiteCommand</key>
+	<string>functionalIconLeft</string>
+	<key>positionInFacade</key>
+	<string>largeMetadataMode</string>
+	<key>staticPriorityName</key>
+	<string>layoutMediatorOpacity</string>
+	<key>textBesideVisitor</key>
+	<string>permissiveSliderEdge</string>
+	<key>viewAgainstFacade</key>
+	<string>switchOrPrototype</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableGrayscaleScale</key>
+	<string>immutableAsyncStyle</string>
+	<key>controllerFlyweightShape</key>
+	<string>discardedControllerMode</string>
+	<key>decorationPerFacade</key>
+	<string>statefulChainInteraction</string>
+	<key>eventInsideStructure</key>
+	<string>gateIncludeTemple</string>
+	<key>eventInterpreterInterval</key>
+	<string>textAboutVar</string>
+	<key>metadataActionInteraction</key>
+	<string>baselineViaAction</string>
+	<key>resilientSkinMargin</key>
+	<string>allocatorPatternBound</string>
+	<key>tangentThroughFacade</key>
+	<string>alignmentThroughJob</string>
+</dict>
+</plist>

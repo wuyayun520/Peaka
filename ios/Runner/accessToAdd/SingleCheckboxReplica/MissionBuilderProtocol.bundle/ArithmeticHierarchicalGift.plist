@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanCosineOpacity</key>
+	<string>priorAnimationTop</string>
+	<key>frameNumberLocation</key>
+	<string>multiTouchTag</string>
+	<key>titleAlongStage</key>
+	<string>observerCompositeVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatRowBorder</key>
+	<string>rectPerMode</string>
+	<key>mutableSingletonTransparency</key>
+	<string>intuitiveMomentumColor</string>
+	<key>touchPlatformVisibility</key>
+	<string>streamActivityVisibility</string>
+	<key>uniqueScreenRotation</key>
+	<string>spriteWorkAlignment</string>
+</dict>
+</plist>

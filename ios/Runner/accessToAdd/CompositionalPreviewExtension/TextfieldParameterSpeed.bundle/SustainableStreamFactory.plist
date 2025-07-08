@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSegmentSkewx</key>
+	<string>lossAtLayer</string>
+	<key>allocatorAndPlatform</key>
+	<string>usecaseCyclePressure</string>
+	<key>convolutionAmongType</key>
+	<string>profileParamMode</string>
+	<key>futureStageSpacing</key>
+	<string>aspectDecoratorLeft</string>
+	<key>layoutInStrategy</key>
+	<string>alertStageDuration</string>
+	<key>observerContextStatus</key>
+	<string>eventDuringVar</string>
+	<key>requestShapeDensity</key>
+	<string>sizedboxJobPressure</string>
+	<key>resilientGraphDuration</key>
+	<string>missedHistogramAcceleration</string>
+	<key>swiftOperationFeedback</key>
+	<string>observerOrLayer</string>
+	<key>threadThanMethod</key>
+	<string>keyEntityValidation</string>
+</dict>
+</plist>

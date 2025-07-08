@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>protectedSlashHead</key>
+	<string>robustRectSaturation</string>
+	<key>spriteIncludeBuffer</key>
+	<string>alignmentFrameworkVisible</string>
+	<key>statelessFromLevel</key>
+	<string>resilientActionTop</string>
+	<key>visibleVectorKind</key>
+	<string>customParticleVisible</string>
+</dict>
+</plist>

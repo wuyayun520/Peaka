@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDespiteForm</key>
+	<string>basicDialogsRate</string>
+	<key>bitrateFormPosition</key>
+	<string>timerPerInterpreter</string>
+	<key>criticalBitrateVisible</key>
+	<string>autoMatrixShade</string>
+	<key>flexibleIndicatorType</key>
+	<string>layoutContainOperation</string>
+	<key>mediumSceneTop</key>
+	<string>prevMenuTransparency</string>
+	<key>semanticGridviewDepth</key>
+	<string>viewVersusMode</string>
+	<key>sinkActivityName</key>
+	<string>respectiveIsolateTheme</string>
+</dict>
+</plist>

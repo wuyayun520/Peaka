@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardCharacterPadding</key>
+	<string>sessionFromStyle</string>
+	<key>enabledDecorationType</key>
+	<string>cubitDecoratorValidation</string>
+	<key>flexAgainstInterpreter</key>
+	<string>associatedGridviewShade</string>
+	<key>iconStateTop</key>
+	<string>missedRowDelay</string>
+	<key>layoutShapeInset</key>
+	<string>exceptionInterpreterPressure</string>
+	<key>managerInsideTask</key>
+	<string>logChainDistance</string>
+	<key>retainedAwaitState</key>
+	<string>notificationPerStructure</string>
+	<key>tabviewAndBuffer</key>
+	<string>mobileLayoutVisible</string>
+</dict>
+</plist>

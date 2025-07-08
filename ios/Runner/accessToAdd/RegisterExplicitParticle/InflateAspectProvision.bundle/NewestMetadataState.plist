@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocVarStyle</key>
+	<string>interpolationAndInterpreter</string>
+	<key>enabledNodeRate</key>
+	<string>previewPrototypeFeedback</string>
+	<key>mutableVectorType</key>
+	<string>lostSwitchColor</string>
+	<key>oldServiceShape</key>
+	<string>storyboardActionHue</string>
+	<key>responsiveSemanticsSkewy</key>
+	<string>sizeByMethod</string>
+	<key>unsortedCycleIndex</key>
+	<string>otherViewIndex</string>
+</dict>
+</plist>

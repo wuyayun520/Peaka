@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>priorityPerNumber</key>
+	<string>gestureVarDelay</string>
+	<key>repositoryBesideStrategy</key>
+	<string>independentButtonScale</string>
+	<key>sizePrototypeOrigin</key>
+	<string>histogramViaSystem</string>
+	<key>streamNumberFeedback</key>
+	<string>finalGetxInteraction</string>
+	<key>unactivatedBatchValidation</key>
+	<string>channelValueTag</string>
+	<key>utilAmongShape</key>
+	<string>custompaintInterpreterTheme</string>
+</dict>
+</plist>

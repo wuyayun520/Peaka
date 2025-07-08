@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerScopeVisibility</key>
+	<string>cachePerComposite</string>
+	<key>cubitWithValue</key>
+	<string>statefulAroundProxy</string>
+	<key>managerMementoDistance</key>
+	<string>dialogsActivityOpacity</string>
+	<key>menuAdapterForce</key>
+	<string>tweenTempleColor</string>
+	<key>musicLikeLayer</key>
+	<string>permanentBulletFormat</string>
+	<key>permanentLoopVelocity</key>
+	<string>chapterAboutMethod</string>
+	<key>scrollAsFlyweight</key>
+	<string>backwardCustompaintOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedExceptionOrientation</key>
+	<string>constraintAndAdapter</string>
+	<key>backwardAnchorRight</key>
+	<string>nodeBeyondLevel</string>
+	<key>decorationStructureEdge</key>
+	<string>navigatorKindForce</string>
+	<key>effectAmongBuffer</key>
+	<string>aspectProcessTransparency</string>
+	<key>futureVersusAction</key>
+	<string>frameAsWork</string>
+	<key>smallCurveRight</key>
+	<string>grainFromStyle</string>
+	<key>widgetAgainstPlatform</key>
+	<string>managerAdapterDepth</string>
+</dict>
+</plist>

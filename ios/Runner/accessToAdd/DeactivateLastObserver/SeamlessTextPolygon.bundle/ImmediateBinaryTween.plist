@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileHeroVelocity</key>
+	<string>coordinatorLevelLocation</string>
+	<key>alignmentTempleBrightness</key>
+	<string>nodeBufferDepth</string>
+	<key>capacitiesWorkPressure</key>
+	<string>sizedboxContextDensity</string>
+	<key>effectTempleOffset</key>
+	<string>tabviewLevelDensity</string>
+	<key>mapTaskAppearance</key>
+	<string>textNumberDistance</string>
+	<key>particleActionRate</key>
+	<string>utilParamOrientation</string>
+</dict>
+</plist>

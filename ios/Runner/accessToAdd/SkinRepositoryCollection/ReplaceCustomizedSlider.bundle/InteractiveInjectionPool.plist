@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarTypeAlignment</key>
+	<string>widgetStyleResponse</string>
+	<key>directlyCoordinatorFeedback</key>
+	<string>keyUtilMargin</string>
+	<key>imageNumberRate</key>
+	<string>newestBaseType</string>
+	<key>resultLayerDelay</key>
+	<string>interpolationUntilMemento</string>
+	<key>sharedSubscriptionFrequency</key>
+	<string>constraintBeyondNumber</string>
+</dict>
+</plist>

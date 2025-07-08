@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAtStrategy</key>
+	<string>logarithmForValue</string>
+	<key>delegateScopeTheme</key>
+	<string>entityFromState</string>
+	<key>firstManagerSpeed</key>
+	<string>resolverNearMode</string>
+	<key>grainStructureInteraction</key>
+	<string>cartesianRectType</string>
+	<key>originalGateTag</key>
+	<string>visibleManagerKind</string>
+	<key>particleOfMemento</key>
+	<string>semanticsPrototypeAlignment</string>
+</dict>
+</plist>

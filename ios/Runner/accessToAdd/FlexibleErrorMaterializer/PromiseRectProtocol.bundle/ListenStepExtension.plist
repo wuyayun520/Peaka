@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchOfStyle</key>
+	<string>sinkWithoutShape</string>
+	<key>capacitiesActionOrientation</key>
+	<string>listviewScopeFeedback</string>
+	<key>completerThroughTier</key>
+	<string>equalizationTypeName</string>
+	<key>integerPatternTag</key>
+	<string>completionPatternValidation</string>
+	<key>interactorProcessResponse</key>
+	<string>functionalListviewDuration</string>
+	<key>pageviewInterpreterDistance</key>
+	<string>modulusValueDelay</string>
+	<key>robustCoordinatorFeedback</key>
+	<string>statelessReductionDirection</string>
+	<key>sliderFormForce</key>
+	<string>topicIncludeMethod</string>
+	<key>stateOfCommand</key>
+	<string>animationObserverRight</string>
+	<key>toolVariableCenter</key>
+	<string>viewVisitorAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPlaybackDepth</key>
+	<string>layerOrFramework</string>
+	<key>canvasContainEnvironment</key>
+	<string>pivotalReducerContrast</string>
+	<key>characterBesideBuffer</key>
+	<string>materialChartOpacity</string>
+	<key>consumerInInterpreter</key>
+	<string>cursorAndActivity</string>
+	<key>customProviderEdge</key>
+	<string>originalChartShape</string>
+	<key>difficultVectorOffset</key>
+	<string>providerThanMode</string>
+	<key>effectExceptSingleton</key>
+	<string>frameStateBrightness</string>
+	<key>subscriptionEnvironmentHue</key>
+	<string>asynchronousSizeScale</string>
+	<key>titleTempleTint</key>
+	<string>richtextAmongTier</string>
+</dict>
+</plist>

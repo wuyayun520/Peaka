@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleLoopMode</key>
+	<string>finalButtonStatus</string>
+	<key>gemCompositeSkewx</key>
+	<string>marginTaskOrigin</string>
+	<key>lastThemeTag</key>
+	<string>dimensionSystemVelocity</string>
+	<key>mainProgressbarAlignment</key>
+	<string>viewFormDistance</string>
+	<key>mediaInterpreterSkewx</key>
+	<string>binaryParamDepth</string>
+	<key>progressbarWithoutTask</key>
+	<string>errorStageSaturation</string>
+</dict>
+</plist>

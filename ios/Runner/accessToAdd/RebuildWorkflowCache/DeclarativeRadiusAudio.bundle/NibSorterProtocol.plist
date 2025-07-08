@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperNumberBorder</key>
+	<string>inactiveViewStyle</string>
+	<key>isolateValueKind</key>
+	<string>queryTaskTail</string>
+	<key>labelLayerState</key>
+	<string>largeFactoryInset</string>
+	<key>semanticRadiusRotation</key>
+	<string>multiGridviewDensity</string>
+	<key>tweenOrCycle</key>
+	<string>appbarFromType</string>
+</dict>
+</plist>

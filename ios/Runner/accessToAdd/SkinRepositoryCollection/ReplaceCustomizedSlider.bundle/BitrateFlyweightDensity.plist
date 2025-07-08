@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellDuringProxy</key>
+	<string>singletonProxyFeedback</string>
+	<key>globalTextureCount</key>
+	<string>singletonActivityRate</string>
+	<key>integerInterpreterMode</key>
+	<string>grayscaleScopeValidation</string>
+	<key>labelNumberSkewy</key>
+	<string>particleFlyweightShade</string>
+	<key>mainConstraintStatus</key>
+	<string>basicCoordinatorAppearance</string>
+	<key>requestShapeForce</key>
+	<string>rectUntilStrategy</string>
+	<key>spriteAwayStrategy</key>
+	<string>actionNearActivity</string>
+	<key>tickerActionEdge</key>
+	<string>missedLogRate</string>
+	<key>transitionJobSaturation</key>
+	<string>materialPerFacade</string>
+</dict>
+</plist>

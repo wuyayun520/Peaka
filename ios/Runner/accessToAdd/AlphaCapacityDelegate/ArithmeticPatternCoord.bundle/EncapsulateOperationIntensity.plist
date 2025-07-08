@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsMediatorDelay</key>
+	<string>prismaticResultTheme</string>
+	<key>customFactoryDepth</key>
+	<string>mobileWithoutNumber</string>
+	<key>enabledMediaqueryHead</key>
+	<string>listviewAsContext</string>
+	<key>errorAmongTier</key>
+	<string>sineBufferDensity</string>
+	<key>interactorNearTask</key>
+	<string>largeCallbackDensity</string>
+	<key>mobileSensorVisible</key>
+	<string>flexPrototypeStyle</string>
+	<key>nextDocumentRotation</key>
+	<string>sliderProcessHue</string>
+	<key>queryFunctionDepth</key>
+	<string>cubitProxyVisibility</string>
+	<key>statefulPositionRate</key>
+	<string>explicitContainerPosition</string>
+</dict>
+</plist>

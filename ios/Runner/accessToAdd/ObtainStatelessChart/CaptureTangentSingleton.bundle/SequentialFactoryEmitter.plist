@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameNearPattern</key>
+	<string>stateMediatorOrientation</string>
+	<key>heapDuringComposite</key>
+	<string>animationEnvironmentSpeed</string>
+	<key>intensityInDecorator</key>
+	<string>desktopVectorContrast</string>
+	<key>rectCycleMargin</key>
+	<string>widgetPerType</string>
+	<key>sceneFormDuration</key>
+	<string>ignoredContainerTension</string>
+	<key>storeShapeState</key>
+	<string>checkboxParameterRight</string>
+</dict>
+</plist>

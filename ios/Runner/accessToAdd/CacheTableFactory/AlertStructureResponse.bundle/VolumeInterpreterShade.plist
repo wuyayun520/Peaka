@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerAndSingleton</key>
+	<string>instructionSinceStage</string>
+	<key>imageDuringFunction</key>
+	<string>accordionRadiusCount</string>
+	<key>mediaAsFramework</key>
+	<string>switchMediatorValidation</string>
+	<key>transformerAsFacade</key>
+	<string>titleLevelScale</string>
+</dict>
+</plist>

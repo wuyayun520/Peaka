@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineSinceCommand</key>
+	<string>displayableGradientSize</string>
+	<key>keyPlaybackSkewy</key>
+	<string>adaptiveAlignmentStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoZoneStyle</key>
+	<string>requiredTangentDirection</string>
+	<key>gestureAgainstStyle</key>
+	<string>stackLikeStyle</string>
+	<key>gestureFacadeRate</key>
+	<string>interfaceAtShape</string>
+	<key>inkwellViaWork</key>
+	<string>completionBeyondMemento</string>
+	<key>lazyRouterDistance</key>
+	<string>listenerDuringMemento</string>
+	<key>modelStructureOpacity</key>
+	<string>nodePatternBrightness</string>
+	<key>providerAboutProcess</key>
+	<string>histogramPhaseKind</string>
+	<key>sophisticatedPositionTag</key>
+	<string>callbackNumberSpacing</string>
+	<key>symbolForFlyweight</key>
+	<string>stackTierFrequency</string>
+</dict>
+</plist>

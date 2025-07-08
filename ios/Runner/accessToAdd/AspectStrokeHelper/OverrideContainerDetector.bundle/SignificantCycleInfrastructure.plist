@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandFunctionRate</key>
+	<string>delegateAlongOperation</string>
+	<key>constraintViaCycle</key>
+	<string>alignmentOperationCount</string>
+	<key>mediumExpandedValidation</key>
+	<string>adaptiveRiverpodContrast</string>
+	<key>methodOfEnvironment</key>
+	<string>bufferInsideFramework</string>
+	<key>tickerIncludePattern</key>
+	<string>callbackLikeVisitor</string>
+</dict>
+</plist>

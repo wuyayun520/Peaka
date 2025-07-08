@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncContextMargin</key>
+	<string>primaryChartOrientation</string>
+	<key>completionSystemOpacity</key>
+	<string>reusableRowStatus</string>
+	<key>decorationStructureTransparency</key>
+	<string>robustObserverValidation</string>
+	<key>localizationForMethod</key>
+	<string>usecaseAtStyle</string>
+	<key>requiredSingletonDelay</key>
+	<string>directRiverpodBorder</string>
+	<key>storageCycleAcceleration</key>
+	<string>blocViaObserver</string>
+	<key>workflowAgainstSystem</key>
+	<string>requestDespiteOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioPerSystem</key>
+	<string>specifyNodeTag</string>
+	<key>checkboxPatternBehavior</key>
+	<string>arithmeticPointState</string>
+	<key>controllerCompositeResponse</key>
+	<string>arithmeticHistogramSpacing</string>
+	<key>drawerPrototypeSize</key>
+	<string>layoutAlongAdapter</string>
+	<key>graphSinceStyle</key>
+	<string>spriteByStrategy</string>
+	<key>petLikeLevel</key>
+	<string>synchronousFutureVisibility</string>
+	<key>routeVarScale</key>
+	<string>rowAdapterCount</string>
+</dict>
+</plist>

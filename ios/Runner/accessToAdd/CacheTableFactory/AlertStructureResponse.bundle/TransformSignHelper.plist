@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorStrategyOrientation</key>
+	<string>indicatorByFlyweight</string>
+	<key>inactiveStreamAlignment</key>
+	<string>sceneByState</string>
+	<key>normFlyweightMomentum</key>
+	<string>particleAlongAction</string>
+	<key>popupVisitorValidation</key>
+	<string>musicContainEnvironment</string>
+	<key>requiredEntropyFormat</key>
+	<string>singletonNearPhase</string>
+	<key>semanticChannelsDelay</key>
+	<string>cardAroundActivity</string>
+	<key>stampAlongStructure</key>
+	<string>sliderBeyondStructure</string>
+	<key>titleBesideParameter</key>
+	<string>heroSinceOperation</string>
+	<key>usecaseByObserver</key>
+	<string>topicOperationHead</string>
+</dict>
+</plist>

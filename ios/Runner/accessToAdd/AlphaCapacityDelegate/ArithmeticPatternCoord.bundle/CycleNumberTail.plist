@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisMethodShape</key>
+	<string>constraintCycleTension</string>
+	<key>factoryWithoutMemento</key>
+	<string>activatedStateSkewy</string>
+	<key>singletonFromStyle</key>
+	<string>missedMobileAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectIncludeFlyweight</key>
+	<string>mediaStyleValidation</string>
+	<key>graphicOrOperation</key>
+	<string>cellDuringObserver</string>
+	<key>intermediateTransformerDuration</key>
+	<string>threadStageLeft</string>
+	<key>permissiveUsageAcceleration</key>
+	<string>cupertinoDurationColor</string>
+	<key>singleGraphTint</key>
+	<string>rowOfStyle</string>
+</dict>
+</plist>

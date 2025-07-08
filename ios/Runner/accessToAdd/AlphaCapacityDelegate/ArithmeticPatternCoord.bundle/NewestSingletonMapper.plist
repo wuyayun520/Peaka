@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationJobDirection</key>
+	<string>synchronousSignatureVisibility</string>
+	<key>offsetAndStyle</key>
+	<string>enabledBuilderFeedback</string>
+	<key>projectDuringProxy</key>
+	<string>smallPresenterSkewy</string>
+	<key>tappableDocumentInset</key>
+	<string>exceptionInterpreterCount</string>
+</dict>
+</plist>

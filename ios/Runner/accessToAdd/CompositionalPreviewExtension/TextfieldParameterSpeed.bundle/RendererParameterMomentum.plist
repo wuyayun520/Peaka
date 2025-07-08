@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPatternSpeed</key>
+	<string>singletonTempleTheme</string>
+	<key>collectionWithComposite</key>
+	<string>spriteVersusSingleton</string>
+	<key>entropyFromFunction</key>
+	<string>diffableBlocBottom</string>
+	<key>tabviewPrototypeInteraction</key>
+	<string>groupTierAcceleration</string>
+</dict>
+</plist>

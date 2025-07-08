@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardIncludeFlyweight</key>
+	<string>tabbarAdapterCoord</string>
+	<key>disabledRichtextRight</key>
+	<string>fixedTweenDuration</string>
+	<key>fusedAllocatorSpeed</key>
+	<string>baseAndFlyweight</string>
+	<key>injectionWorkOrientation</key>
+	<string>multiplicationParamType</string>
+	<key>materialCompleterTail</key>
+	<string>delegateContextDensity</string>
+	<key>numericalBulletValidation</key>
+	<string>specifierAdapterFeedback</string>
+	<key>relationalManagerLeft</key>
+	<string>descriptorShapePadding</string>
+</dict>
+</plist>

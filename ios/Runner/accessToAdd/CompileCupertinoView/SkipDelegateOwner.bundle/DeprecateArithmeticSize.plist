@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorTypeRotation</key>
+	<string>delegateIncludeCycle</string>
+	<key>dialogsMediatorFlags</key>
+	<string>routerMediatorEdge</string>
+	<key>durationModeCount</key>
+	<string>cellInterpreterSkewy</string>
+	<key>paddingInterpreterBorder</key>
+	<string>textureVisitorEdge</string>
+	<key>reducerOperationType</key>
+	<string>rapidTextShade</string>
+	<key>usageOrStage</key>
+	<string>widgetVersusObserver</string>
+	<key>viewIncludeSystem</key>
+	<string>functionalRequestCenter</string>
+	<key>visibleRichtextAcceleration</key>
+	<string>routeAdapterSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityWithoutFacade</key>
+	<string>constraintVisitorRate</string>
+	<key>baselineFacadeType</key>
+	<string>symbolCycleSpeed</string>
+	<key>builderAsProxy</key>
+	<string>blocValueContrast</string>
+	<key>customizedSpriteFrequency</key>
+	<string>layerAlongEnvironment</string>
+	<key>hardUnaryScale</key>
+	<string>asynchronousEventDensity</string>
+	<key>riverpodPerState</key>
+	<string>subpixelAroundOperation</string>
+	<key>taskMementoFlags</key>
+	<string>observerParameterEdge</string>
+</dict>
+</plist>

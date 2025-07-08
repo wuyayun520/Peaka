@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisAsProcess</key>
+	<string>sequentialRowInterval</string>
+	<key>certificateBridgeFlags</key>
+	<string>liteSwitchDepth</string>
+	<key>discardedMusicOrientation</key>
+	<string>flexViaBridge</string>
+	<key>localizationStateResponse</key>
+	<string>previewBufferOffset</string>
+	<key>newestPresenterLeft</key>
+	<string>decorationForScope</string>
+	<key>storeTaskKind</key>
+	<string>easyEntityTint</string>
+</dict>
+</plist>

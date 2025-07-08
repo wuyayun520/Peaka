@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleMobileCoord</key>
+	<string>semanticOffsetDistance</string>
+	<key>nativeQueryHue</key>
+	<string>priorityContextVelocity</string>
+	<key>numericalNavigatorName</key>
+	<string>alertShapeSize</string>
+	<key>playbackForAdapter</key>
+	<string>radioVersusPattern</string>
+	<key>serviceCommandVisibility</key>
+	<string>bitratePlatformTension</string>
+	<key>sliderThroughActivity</key>
+	<string>kernelAndChain</string>
+	<key>switchViaSystem</key>
+	<string>challengeBufferTail</string>
+</dict>
+</plist>

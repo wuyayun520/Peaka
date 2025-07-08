@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentNumberInteraction</key>
+	<string>indicatorContextName</string>
+	<key>allocatorOutsideParameter</key>
+	<string>columnAdapterCoord</string>
+	<key>concurrentAnimatedcontainerAcceleration</key>
+	<string>usedOperationBrightness</string>
+	<key>euclideanSemanticsDelay</key>
+	<string>controllerBridgeEdge</string>
+	<key>immutableWidgetDuration</key>
+	<string>materialThanProxy</string>
+	<key>inheritedProviderMargin</key>
+	<string>viewVarTag</string>
+	<key>inheritedStateTheme</key>
+	<string>asyncWithVar</string>
+	<key>tabbarFrameworkTop</key>
+	<string>taskAroundPlatform</string>
+	<key>unsortedIntensitySpacing</key>
+	<string>allocatorAtNumber</string>
+</dict>
+</plist>

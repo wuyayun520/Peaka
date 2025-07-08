@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentProxyDepth</key>
+	<string>projectionVisitorInteraction</string>
+	<key>eagerCubitFlags</key>
+	<string>multiBoxshadowFlags</string>
+	<key>loopCycleContrast</key>
+	<string>taskPhaseOffset</string>
+	<key>oldTimerRotation</key>
+	<string>displayablePainterLocation</string>
+</dict>
+</plist>

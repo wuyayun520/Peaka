@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAgainstSystem</key>
+	<string>callbackAlongSingleton</string>
+	<key>descriptionByObserver</key>
+	<string>descriptionThroughFlyweight</string>
+	<key>ignoredCompositionDistance</key>
+	<string>alertAgainstParam</string>
+	<key>interactorProcessSpeed</key>
+	<string>rapidBoxshadowOpacity</string>
+	<key>publicAwaitPressure</key>
+	<string>priorMovementMode</string>
+	<key>stateOfObserver</key>
+	<string>modelByKind</string>
+	<key>textureProxyAlignment</key>
+	<string>overlayStageOrientation</string>
+	<key>transitionAsKind</key>
+	<string>greatTimerDuration</string>
+	<key>vectorAndForm</key>
+	<string>finalDelegateTail</string>
+	<key>widgetAlongType</key>
+	<string>metadataFunctionTail</string>
+</dict>
+</plist>

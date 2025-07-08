@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectLayerFrequency</key>
+	<string>pinchableSpriteInterval</string>
+	<key>effectCommandFrequency</key>
+	<string>isolateActivityBottom</string>
+	<key>inactiveSignState</key>
+	<string>subsequentTextureVisibility</string>
+	<key>isolateThanFramework</key>
+	<string>secondPositionSaturation</string>
+	<key>mapBufferPosition</key>
+	<string>checklistBridgeAcceleration</string>
+	<key>missedAxisSkewx</key>
+	<string>promiseOrCommand</string>
+	<key>queryKindSkewy</key>
+	<string>sinkExceptPattern</string>
+	<key>spineTierIndex</key>
+	<string>cupertinoProviderState</string>
+	<key>stampThroughMode</key>
+	<string>crucialInteractorCoord</string>
+	<key>tickerSystemSkewy</key>
+	<string>ephemeralZoneTop</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerForFacade</key>
+	<string>smartBaselineTail</string>
+	<key>flexibleDelegateBrightness</key>
+	<string>pageviewObserverFlags</string>
+	<key>mapByTask</key>
+	<string>titleBesideComposite</string>
+	<key>positionOfPlatform</key>
+	<string>borderIncludeProxy</string>
+	<key>sinkModeDepth</key>
+	<string>modelMediatorCenter</string>
+	<key>sizeUntilStructure</key>
+	<string>commandDecoratorCenter</string>
+	<key>storageFlyweightInteraction</key>
+	<string>dependencyWithoutLevel</string>
+	<key>storeStagePadding</key>
+	<string>cubitAtVariable</string>
+	<key>tweenActionSize</key>
+	<string>visibleInjectionTransparency</string>
+</dict>
+</plist>

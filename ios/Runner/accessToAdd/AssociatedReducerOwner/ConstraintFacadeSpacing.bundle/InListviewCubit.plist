@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationStyleMomentum</key>
+	<string>arithmeticNavigationPressure</string>
+	<key>immutableAccessoryBound</key>
+	<string>borderNearProxy</string>
+	<key>offsetContextDelay</key>
+	<string>immediateServiceScale</string>
+	<key>protocolSinceFramework</key>
+	<string>animationAsFacade</string>
+</dict>
+</plist>

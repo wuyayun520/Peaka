@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAroundContext</key>
+	<string>sequentialParticlePadding</string>
+	<key>cellThroughType</key>
+	<string>cycleAlongJob</string>
+	<key>controllerThroughMediator</key>
+	<string>lossActivityDistance</string>
+	<key>crucialTableTag</key>
+	<string>containerStagePressure</string>
+	<key>mapWorkPressure</key>
+	<string>overlayAndMode</string>
+	<key>progressbarInterpreterPosition</key>
+	<string>segmentPhaseShade</string>
+	<key>workflowSinceInterpreter</key>
+	<string>contractionProcessKind</string>
+</dict>
+</plist>

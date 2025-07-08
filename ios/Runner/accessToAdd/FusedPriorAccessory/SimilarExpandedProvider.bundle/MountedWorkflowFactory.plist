@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistPrototypeDepth</key>
+	<string>operationVersusPattern</string>
+	<key>dimensionMethodAlignment</key>
+	<string>positionPerFlyweight</string>
+	<key>featureNearValue</key>
+	<string>mutableWidgetBottom</string>
+	<key>mapAsFramework</key>
+	<string>channelPerStyle</string>
+	<key>projectionContainVisitor</key>
+	<string>respectiveBulletCount</string>
+	<key>routerStructureFeedback</key>
+	<string>reactiveHashKind</string>
+</dict>
+</plist>

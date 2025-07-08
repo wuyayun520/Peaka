@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveDecorationPosition</key>
+	<string>actionShapeVisible</string>
+	<key>observerFrameworkCenter</key>
+	<string>animationCompositeBehavior</string>
+	<key>offsetContainPlatform</key>
+	<string>cycleLayerIndex</string>
+	<key>queryVariableResponse</key>
+	<string>tickerBridgeState</string>
+	<key>temporarySubpixelBrightness</key>
+	<string>presenterBeyondVar</string>
+</dict>
+</plist>

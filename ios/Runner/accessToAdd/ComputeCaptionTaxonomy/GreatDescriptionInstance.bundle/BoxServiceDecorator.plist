@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedObserverEdge</key>
+	<string>titleAndTier</string>
+	<key>mediaqueryAgainstValue</key>
+	<string>standaloneThemeBottom</string>
+	<key>normLayerIndex</key>
+	<string>declarativeSceneShape</string>
+	<key>symmetricSceneEdge</key>
+	<string>callbackAboutInterpreter</string>
+	<key>synchronousEventColor</key>
+	<string>hyperbolicExponentSkewx</string>
+</dict>
+</plist>

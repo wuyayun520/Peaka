@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentWorkSpacing</key>
+	<string>sizedboxFunctionHue</string>
+	<key>bufferVariableFeedback</key>
+	<string>tickerPerCommand</string>
+	<key>eagerRadiusContrast</key>
+	<string>reducerJobType</string>
+	<key>eventBridgeVisibility</key>
+	<string>spineContextOffset</string>
+	<key>scrollChainKind</key>
+	<string>tappableMovementOrientation</string>
+	<key>storyboardLikeStyle</key>
+	<string>nativeSizeSpeed</string>
+	<key>transitionPhaseForce</key>
+	<string>iterativeTweenTransparency</string>
+	<key>uniformOptimizerInteraction</key>
+	<string>mobileTitleBorder</string>
+</dict>
+</plist>

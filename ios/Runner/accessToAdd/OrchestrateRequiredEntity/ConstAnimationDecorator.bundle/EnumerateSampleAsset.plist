@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeActionStatus</key>
+	<string>sizedboxActivityCount</string>
+	<key>behaviorAdapterState</key>
+	<string>decorationStageFlags</string>
+	<key>equipmentTierForce</key>
+	<string>rowAdapterCenter</string>
+	<key>immediatePresenterBottom</key>
+	<string>intuitiveAppbarLocation</string>
+	<key>intuitivePetType</key>
+	<string>ignoredSliderDuration</string>
+	<key>mobxJobFormat</key>
+	<string>stackWithBuffer</string>
+</dict>
+</plist>

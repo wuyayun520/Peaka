@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedCubeFlags</key>
+	<string>completerOperationEdge</string>
+	<key>menuFlyweightColor</key>
+	<string>viewAlongCommand</string>
+	<key>screenPrototypeTheme</key>
+	<string>originalAllocatorHead</string>
+	<key>sliderByLevel</key>
+	<string>monsterModeTransparency</string>
+	<key>variantContainMediator</key>
+	<string>displayableViewTop</string>
+	<key>visibleProjectionTransparency</key>
+	<string>numericalAspectHead</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCoordinatorResponse</key>
+	<string>popupPlatformShade</string>
+	<key>granularAllocatorColor</key>
+	<string>consumerDuringDecorator</string>
+	<key>localizationNearPrototype</key>
+	<string>permissiveCompleterFeedback</string>
+	<key>normalMaterialFrequency</key>
+	<string>currentLayoutStatus</string>
+	<key>permanentSwitchOpacity</key>
+	<string>grayscaleLevelOrigin</string>
+	<key>presenterJobPadding</key>
+	<string>animationNumberValidation</string>
+	<key>progressbarValueTransparency</key>
+	<string>responseTempleInteraction</string>
+	<key>textfieldTempleOpacity</key>
+	<string>controllerAmongLayer</string>
+</dict>
+</plist>

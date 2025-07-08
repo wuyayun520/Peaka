@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTransitionPressure</key>
+	<string>tabbarCompositeBehavior</string>
+	<key>discardedCellMomentum</key>
+	<string>anchorInsideValue</string>
+	<key>largeArithmeticInteraction</key>
+	<string>notificationAlongScope</string>
+	<key>modulusInsideLayer</key>
+	<string>storePatternLocation</string>
+	<key>pivotalRadiusMomentum</key>
+	<string>configurationAtInterpreter</string>
+	<key>sceneInsideShape</key>
+	<string>gramValueOrientation</string>
+	<key>sortedCurveTransparency</key>
+	<string>interpolationByProcess</string>
+	<key>transformerTierState</key>
+	<string>missionExceptMode</string>
+</dict>
+</plist>

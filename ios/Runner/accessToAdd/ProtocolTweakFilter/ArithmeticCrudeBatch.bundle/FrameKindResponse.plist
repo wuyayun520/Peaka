@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisInsideParam</key>
+	<string>spotFromPattern</string>
+	<key>challengeOutsideMode</key>
+	<string>viewProxySkewx</string>
+	<key>modelVariableFormat</key>
+	<string>viewBridgeTransparency</string>
+	<key>permissivePopupInteraction</key>
+	<string>opaqueModulusIndex</string>
+	<key>slashSinceStyle</key>
+	<string>lossProxyLocation</string>
+</dict>
+</plist>

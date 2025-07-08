@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoNodeOpacity</key>
+	<string>taskShapeBottom</string>
+	<key>completionTaskTension</key>
+	<string>containerStateInterval</string>
+	<key>hardDecorationTail</key>
+	<string>interfaceShapeName</string>
+	<key>nodeAboutFacade</key>
+	<string>mutableDelegateIndex</string>
+	<key>observerStrategyFeedback</key>
+	<string>eagerSemanticsOpacity</string>
+	<key>permissiveRouteCenter</key>
+	<string>localDrawerTension</string>
+	<key>smallGrainPosition</key>
+	<string>appbarStructureFormat</string>
+</dict>
+</plist>

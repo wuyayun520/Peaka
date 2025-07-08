@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeDurationAppearance</key>
+	<string>consultativeDurationBottom</string>
+	<key>dimensionAsAdapter</key>
+	<string>equipmentPrototypeShape</string>
+	<key>greatInstructionRate</key>
+	<string>textfieldAdapterInterval</string>
+	<key>mutableModalStyle</key>
+	<string>intermediateProgressbarTail</string>
+</dict>
+</plist>

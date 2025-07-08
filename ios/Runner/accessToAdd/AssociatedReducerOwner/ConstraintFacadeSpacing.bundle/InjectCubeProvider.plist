@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventViaContext</key>
+	<string>beginnerHistogramTag</string>
+	<key>grayscaleCompositeColor</key>
+	<string>iterativeOffsetPressure</string>
+	<key>pivotalDescriptionDensity</key>
+	<string>appbarSingletonBound</string>
+	<key>reusableButtonHue</key>
+	<string>composableBrushHue</string>
+	<key>statefulConstraintLeft</key>
+	<string>mediumTickerBorder</string>
+	<key>symmetricDelegateIndex</key>
+	<string>mutableObserverMode</string>
+	<key>uniformAwaitStatus</key>
+	<string>indicatorShapeLocation</string>
+</dict>
+</plist>

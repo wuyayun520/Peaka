@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameBridgeMode</key>
+	<string>presenterThroughProxy</string>
+	<key>localizationAroundDecorator</key>
+	<string>axisBeyondBridge</string>
+	<key>reusableTouchCount</key>
+	<string>keyRouteBound</string>
+</dict>
+</plist>

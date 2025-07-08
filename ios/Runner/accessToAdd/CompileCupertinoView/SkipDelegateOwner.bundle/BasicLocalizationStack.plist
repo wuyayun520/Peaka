@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitModeMomentum</key>
+	<string>painterOrValue</string>
+	<key>methodPhaseCenter</key>
+	<string>cubitThroughMethod</string>
+	<key>numericalCustompaintShade</key>
+	<string>clipperByEnvironment</string>
+	<key>projectScopeHead</key>
+	<string>disabledUsageFeedback</string>
+	<key>seamlessInjectionBehavior</key>
+	<string>alphaOutsideMethod</string>
+</dict>
+</plist>

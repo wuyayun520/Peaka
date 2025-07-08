@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationEnvironmentIndex</key>
+	<string>logSinceNumber</string>
+	<key>gridviewTaskKind</key>
+	<string>beginnerBatchMode</string>
+	<key>popupBesideCommand</key>
+	<string>captionAgainstType</string>
+	<key>priorTextPadding</key>
+	<string>kernelCycleTop</string>
+	<key>scrollableMenuValidation</key>
+	<string>customRectBound</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticMetadataType</key>
+	<string>sessionActivityValidation</string>
+	<key>fragmentWithoutStrategy</key>
+	<string>layerOperationScale</string>
+	<key>largeUsecaseLeft</key>
+	<string>navigatorAboutSingleton</string>
+	<key>persistentScaffoldTint</key>
+	<string>providerPerMemento</string>
+	<key>storageVarBorder</key>
+	<string>prevTweenMomentum</string>
+	<key>storyboardFormFrequency</key>
+	<string>inactiveLayoutShade</string>
+</dict>
+</plist>

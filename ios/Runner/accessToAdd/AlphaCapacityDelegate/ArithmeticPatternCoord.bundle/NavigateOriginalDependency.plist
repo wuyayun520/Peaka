@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartOrState</key>
+	<string>spriteIncludeAdapter</string>
+	<key>delegateInFunction</key>
+	<string>cupertinoBeyondFramework</string>
+	<key>gesturedetectorAtPattern</key>
+	<string>dialogsAroundActivity</string>
+	<key>overlayLikeSingleton</key>
+	<string>layoutPrototypeBottom</string>
+	<key>rapidEffectFeedback</key>
+	<string>integerActionBottom</string>
+	<key>subscriptionIncludeCycle</key>
+	<string>reducerPerVariable</string>
+	<key>tangentLayerOpacity</key>
+	<string>cursorDespiteOperation</string>
+</dict>
+</plist>

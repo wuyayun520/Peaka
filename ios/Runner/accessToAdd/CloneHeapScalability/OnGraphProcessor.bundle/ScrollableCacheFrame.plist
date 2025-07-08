@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableCurveDelay</key>
+	<string>nodeNearBuffer</string>
+	<key>navigatorAroundBridge</key>
+	<string>advancedFactoryRotation</string>
+	<key>storeNumberOpacity</key>
+	<string>advancedIntensityState</string>
+	<key>transitionLikePlatform</key>
+	<string>unaryWithPattern</string>
+</dict>
+</plist>

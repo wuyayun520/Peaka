@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyOutsideTier</key>
+	<string>previewPhaseSaturation</string>
+	<key>fusedKernelStatus</key>
+	<string>originalAlignmentEdge</string>
+	<key>mediaAwayMemento</key>
+	<string>scrollableIntensityOpacity</string>
+	<key>pinchableMenuHead</key>
+	<string>axisVisitorVisibility</string>
+	<key>responseVisitorDepth</key>
+	<string>sinkThroughSingleton</string>
+	<key>sortedChartFormat</key>
+	<string>visibleRowState</string>
+</dict>
+</plist>

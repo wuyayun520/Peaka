@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteProfilePosition</key>
+	<string>effectDuringLayer</string>
+	<key>expandedContainCommand</key>
+	<string>precisionByActivity</string>
+	<key>indicatorStageRight</key>
+	<string>independentRoleVisible</string>
+	<key>rowWithFunction</key>
+	<string>localTabviewName</string>
+	<key>shaderScopeRotation</key>
+	<string>deferredAnimationVelocity</string>
+	<key>sizePhaseTint</key>
+	<string>skirtThroughVariable</string>
+</dict>
+</plist>

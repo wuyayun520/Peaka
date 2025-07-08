@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonSceneDelay</key>
+	<string>tableActivityRotation</string>
+	<key>delegatePerStructure</key>
+	<string>subsequentInterfaceScale</string>
+	<key>modelShapeSpacing</key>
+	<string>mutableTickerInterval</string>
+	<key>modelVariableValidation</key>
+	<string>listenerParamScale</string>
+	<key>movementCycleTint</key>
+	<string>grainStrategyMargin</string>
+	<key>sliderAtBuffer</key>
+	<string>priorTitleCoord</string>
+	<key>statePatternInset</key>
+	<string>textByPrototype</string>
+	<key>substantialEqualizationSize</key>
+	<string>eventDuringProcess</string>
+	<key>tabviewPrototypeVisibility</key>
+	<string>reusableGrainSkewy</string>
+	<key>textTypeRotation</key>
+	<string>providerFormTail</string>
+</dict>
+</plist>

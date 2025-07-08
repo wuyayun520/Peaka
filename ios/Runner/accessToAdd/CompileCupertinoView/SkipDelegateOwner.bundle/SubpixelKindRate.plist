@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxFlyweightType</key>
+	<string>prismaticParticleMode</string>
+	<key>frameNearLayer</key>
+	<string>featureOutsideTier</string>
+	<key>progressbarKindVelocity</key>
+	<string>opaqueErrorForce</string>
+</dict>
+</plist>

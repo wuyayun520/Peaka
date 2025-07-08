@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsVersusStrategy</key>
+	<string>cupertinoManagerAcceleration</string>
+	<key>modalDecoratorFormat</key>
+	<string>instructionForSingleton</string>
+	<key>persistentWidgetLeft</key>
+	<string>commandThroughDecorator</string>
+	<key>responseAroundMode</key>
+	<string>controllerStageTag</string>
+	<key>topicForForm</key>
+	<string>dependencyMethodMode</string>
+</dict>
+</plist>

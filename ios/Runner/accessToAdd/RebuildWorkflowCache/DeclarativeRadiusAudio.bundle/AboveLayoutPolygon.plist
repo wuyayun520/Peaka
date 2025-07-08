@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveLayoutStyle</key>
+	<string>threadOutsideMediator</string>
+	<key>commandVariableForce</key>
+	<string>menuLayerType</string>
+	<key>containerWithParameter</key>
+	<string>futureParamOrientation</string>
+	<key>drawerAboutParameter</key>
+	<string>sophisticatedAsyncInset</string>
+	<key>gesturedetectorIncludeSystem</key>
+	<string>graphLevelSpeed</string>
+	<key>hyperbolicResponseKind</key>
+	<string>interactorInterpreterBehavior</string>
+	<key>petCommandFormat</key>
+	<string>modulusContainMode</string>
+	<key>sliderFromObserver</key>
+	<string>serviceFacadeSkewy</string>
+</dict>
+</plist>

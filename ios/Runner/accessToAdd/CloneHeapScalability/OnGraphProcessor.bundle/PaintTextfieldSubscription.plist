@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isolateSinceProcess</key>
+	<string>ignoredSubscriptionInterval</string>
+	<key>localizationAsShape</key>
+	<string>taskNearVariable</string>
+	<key>optimizerPlatformStyle</key>
+	<string>uniformCosineOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constTextSize</key>
+	<string>segueModeTension</string>
+	<key>curveIncludePlatform</key>
+	<string>globalOptimizerBound</string>
+	<key>featureDecoratorSpacing</key>
+	<string>singleProviderBound</string>
+	<key>logThanFramework</key>
+	<string>masterViaEnvironment</string>
+</dict>
+</plist>

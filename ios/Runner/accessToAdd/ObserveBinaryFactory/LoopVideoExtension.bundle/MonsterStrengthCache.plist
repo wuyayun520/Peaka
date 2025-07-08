@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBufferFrequency</key>
+	<string>presenterAndContext</string>
+	<key>grainAboutComposite</key>
+	<string>sessionIncludeKind</string>
+	<key>gridFrameworkTheme</key>
+	<string>textfieldNumberScale</string>
+	<key>popupThanObserver</key>
+	<string>positionExceptScope</string>
+	<key>primaryLocalizationOffset</key>
+	<string>brushContainMediator</string>
+	<key>scrollableCertificateSkewx</key>
+	<string>axisAsStage</string>
+	<key>sequentialRowPadding</key>
+	<string>uniqueCallbackSpacing</string>
+</dict>
+</plist>

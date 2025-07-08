@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticScaffoldSpacing</key>
+	<string>priorityIncludeChain</string>
+	<key>customizedTitleVisible</key>
+	<string>errorWithoutLevel</string>
+	<key>decorationCompositeDistance</key>
+	<string>uniqueSessionOrigin</string>
+	<key>layoutAboutDecorator</key>
+	<string>taskWorkPadding</string>
+	<key>widgetTierBottom</key>
+	<string>toolStageOffset</string>
+</dict>
+</plist>

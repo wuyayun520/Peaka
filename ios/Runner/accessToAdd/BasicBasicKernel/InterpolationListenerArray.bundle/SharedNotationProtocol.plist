@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonBinaryFeedback</key>
+	<string>pageviewShapeTail</string>
+	<key>desktopHistogramInterval</key>
+	<string>euclideanWidgetStatus</string>
+	<key>greatQueryBrightness</key>
+	<string>greatScaffoldStatus</string>
+	<key>hardLayoutCoord</key>
+	<string>cupertinoSliderTop</string>
+	<key>managerBesideTask</key>
+	<string>boxJobInset</string>
+	<key>taskExceptValue</key>
+	<string>menuFunctionResponse</string>
+	<key>viewFormLeft</key>
+	<string>enabledLabelValidation</string>
+</dict>
+</plist>

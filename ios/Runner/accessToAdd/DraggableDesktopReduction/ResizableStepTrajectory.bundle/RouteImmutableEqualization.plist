@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleCycleDensity</key>
+	<string>navigationFunctionSkewy</string>
+	<key>containerCommandForce</key>
+	<string>skirtPhaseStyle</string>
+	<key>displayableTopicMode</key>
+	<string>publicBrushContrast</string>
+	<key>durationInsideCommand</key>
+	<string>popupFrameworkShade</string>
+	<key>extensionDecoratorForce</key>
+	<string>durationDecoratorOffset</string>
+	<key>futureNumberShape</key>
+	<string>providerOutsideProcess</string>
+	<key>interpolationUntilPattern</key>
+	<string>imageLikeShape</string>
+	<key>numericalResponseKind</key>
+	<string>curveByVar</string>
+	<key>radiusActivitySkewy</key>
+	<string>containerProcessBrightness</string>
+</dict>
+</plist>

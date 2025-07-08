@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationFrameworkInterval</key>
+	<string>containerPerSingleton</string>
+	<key>delegateForScope</key>
+	<string>tickerShapeShade</string>
+	<key>extensionStrategyVisible</key>
+	<string>storageInsideParam</string>
+	<key>layoutOrProxy</key>
+	<string>handlerBesideJob</string>
+	<key>oldBoxshadowBound</key>
+	<string>euclideanSingletonLeft</string>
+	<key>resourceUntilLayer</key>
+	<string>memberSingletonSkewy</string>
+	<key>widgetNearLevel</key>
+	<string>notifierParameterOrientation</string>
+</dict>
+</plist>

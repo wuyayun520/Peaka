@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTouchBottom</key>
+	<string>spriteByKind</string>
+	<key>fixedLayoutTag</key>
+	<string>materialDropdownbuttonType</string>
+	<key>graphicFlyweightStyle</key>
+	<string>textfieldByShape</string>
+	<key>signatureOfMethod</key>
+	<string>cupertinoVarLocation</string>
+</dict>
+</plist>

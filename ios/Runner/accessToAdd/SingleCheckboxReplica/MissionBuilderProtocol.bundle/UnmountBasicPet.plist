@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleBridgeInteraction</key>
+	<string>statelessVariantInteraction</string>
+	<key>cupertinoWorkFlags</key>
+	<string>diffableFactoryTag</string>
+	<key>painterCompositeSaturation</key>
+	<string>radiusSingletonPressure</string>
+	<key>respectiveCommandFrequency</key>
+	<string>overlayPerTask</string>
+	<key>spotUntilState</key>
+	<string>queryWithoutEnvironment</string>
+	<key>uniqueStateDensity</key>
+	<string>secondBrushPosition</string>
+</dict>
+</plist>

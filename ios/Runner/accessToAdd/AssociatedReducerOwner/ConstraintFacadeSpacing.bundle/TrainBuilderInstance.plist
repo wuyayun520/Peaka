@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCharacterPressure</key>
+	<string>gestureMediatorAlignment</string>
+	<key>kernelMediatorKind</key>
+	<string>aspectDuringSystem</string>
+	<key>resourceWithStage</key>
+	<string>effectAmongStage</string>
+	<key>viewExceptDecorator</key>
+	<string>sliderThanVariable</string>
+</dict>
+</plist>

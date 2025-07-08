@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeIconLeft</key>
+	<string>eventAwayContext</string>
+	<key>decorationFacadeInterval</key>
+	<string>menuAboutSingleton</string>
+	<key>optionNumberBottom</key>
+	<string>composableNormMode</string>
+	<key>seamlessMultiplicationEdge</key>
+	<string>profileAsShape</string>
+	<key>viewChainLocation</key>
+	<string>constraintParamTransparency</string>
+	<key>viewSystemBrightness</key>
+	<string>sortedThemeVisibility</string>
+</dict>
+</plist>

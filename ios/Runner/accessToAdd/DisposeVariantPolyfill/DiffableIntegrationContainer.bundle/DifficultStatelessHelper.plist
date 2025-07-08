@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseFunctionShade</key>
+	<string>constraintChainSkewy</string>
+	<key>characterParameterCount</key>
+	<string>cubeContainVisitor</string>
+	<key>compositionalServiceDirection</key>
+	<string>rectVersusDecorator</string>
+	<key>euclideanRequestHue</key>
+	<string>imperativePrecisionLeft</string>
+	<key>interfaceInterpreterName</key>
+	<string>signAgainstFunction</string>
+	<key>navigatorMementoKind</key>
+	<string>nativeNodeMode</string>
+	<key>toolAboutParam</key>
+	<string>capsuleVarDirection</string>
+</dict>
+</plist>

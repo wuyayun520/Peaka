@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleSubscriptionInteraction</key>
+	<string>signViaKind</string>
+	<key>granularIntensityOffset</key>
+	<string>ternaryPhaseDuration</string>
+	<key>mediaqueryCompositeBorder</key>
+	<string>symbolAndStrategy</string>
+	<key>previewMediatorHue</key>
+	<string>routerLayerMargin</string>
+	<key>resourceThroughBridge</key>
+	<string>webExceptionForce</string>
+	<key>responseAtMethod</key>
+	<string>touchAlongProxy</string>
+	<key>semanticConfigurationSize</key>
+	<string>durationWithoutFacade</string>
+	<key>webEffectBottom</key>
+	<string>sineStructureRotation</string>
+</dict>
+</plist>

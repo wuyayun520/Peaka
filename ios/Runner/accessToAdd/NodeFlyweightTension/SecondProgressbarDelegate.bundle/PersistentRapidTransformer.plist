@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFormBehavior</key>
+	<string>statefulLayoutRate</string>
+	<key>axisFrameworkInteraction</key>
+	<string>challengePerComposite</string>
+	<key>containerAroundPrototype</key>
+	<string>displayableAnchorLeft</string>
+	<key>gemAtScope</key>
+	<string>flexStyleCoord</string>
+	<key>hashVisitorHead</key>
+	<string>featureProcessSpacing</string>
+	<key>listenerNearTask</key>
+	<string>resolverOrTier</string>
+	<key>progressbarVarName</key>
+	<string>characterForContext</string>
+	<key>providerStateCount</key>
+	<string>heapBeyondShape</string>
+	<key>transformerPlatformOpacity</key>
+	<string>synchronousInjectionBound</string>
+</dict>
+</plist>

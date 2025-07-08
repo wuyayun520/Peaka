@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanWidgetIndex</key>
+	<string>themeForParameter</string>
+	<key>fixedApertureDistance</key>
+	<string>scrollTierState</string>
+	<key>greatOffsetType</key>
+	<string>columnLayerKind</string>
+	<key>listviewAsEnvironment</key>
+	<string>similarProviderContrast</string>
+	<key>missedQueueSize</key>
+	<string>notificationJobPressure</string>
+	<key>routeSinceWork</key>
+	<string>smallChannelsOrientation</string>
+	<key>semanticZoneState</key>
+	<string>timerWithCycle</string>
+</dict>
+</plist>

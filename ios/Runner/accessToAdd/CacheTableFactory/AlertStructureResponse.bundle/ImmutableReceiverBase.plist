@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateLayerPadding</key>
+	<string>intensityOutsideFlyweight</string>
+	<key>gradientByBuffer</key>
+	<string>tickerModeSkewy</string>
+	<key>opaqueGraphMargin</key>
+	<string>screenAgainstStructure</string>
+	<key>requestActivityDistance</key>
+	<string>behaviorShapeDelay</string>
+	<key>sessionSinceProcess</key>
+	<string>pinchableInstructionBottom</string>
+	<key>signatureBeyondProxy</key>
+	<string>injectionByOperation</string>
+	<key>spotVarContrast</key>
+	<string>composableMovementDelay</string>
+</dict>
+</plist>

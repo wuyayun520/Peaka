@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerVisitorMode</key>
+	<string>decorationFlyweightOffset</string>
+	<key>grainBridgeFormat</key>
+	<string>chartAroundFramework</string>
+	<key>imperativeLocalizationContrast</key>
+	<string>controllerBesideScope</string>
+	<key>materialPlateFlags</key>
+	<string>animationViaProcess</string>
+	<key>modalAndProcess</key>
+	<string>scrollableFlexTail</string>
+	<key>navigatorVarMode</key>
+	<string>viewNearAction</string>
+	<key>relationalCurveTransparency</key>
+	<string>memberFromWork</string>
+	<key>usecaseAndParameter</key>
+	<string>commonAsyncTransparency</string>
+	<key>workflowThroughShape</key>
+	<string>iterativeProjectIndex</string>
+</dict>
+</plist>

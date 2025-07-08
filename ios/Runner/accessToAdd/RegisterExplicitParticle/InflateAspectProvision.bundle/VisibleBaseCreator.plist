@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationUntilStage</key>
+	<string>nodeActionFeedback</string>
+	<key>descriptionDuringProxy</key>
+	<string>hashStrategyLocation</string>
+	<key>exceptionTypeVisible</key>
+	<string>difficultSpotMode</string>
+	<key>gesturedetectorThroughSingleton</key>
+	<string>metadataVersusKind</string>
+	<key>hashBesideProxy</key>
+	<string>offsetOfStage</string>
+	<key>notifierForScope</key>
+	<string>smartKernelSpeed</string>
+	<key>resultAdapterScale</key>
+	<string>mobxWithoutValue</string>
+	<key>roleAroundDecorator</key>
+	<string>interactorAboutForm</string>
+	<key>semanticsSinceNumber</key>
+	<string>asyncTextRate</string>
+	<key>singleTextTag</key>
+	<string>factoryPlatformPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoStrategyInset</key>
+	<string>dedicatedSpotValidation</string>
+	<key>euclideanHistogramSkewy</key>
+	<string>menuByVar</string>
+	<key>flexibleSizeBorder</key>
+	<string>sensorTempleOpacity</string>
+	<key>graphFacadeCenter</key>
+	<string>declarativeRouterBehavior</string>
+	<key>invisibleStateScale</key>
+	<string>transitionOrFacade</string>
+	<key>masterTaskEdge</key>
+	<string>functionalMaterialShape</string>
+	<key>metadataInAdapter</key>
+	<string>accessibleStreamTag</string>
+	<key>repositoryTierResponse</key>
+	<string>listenerVarVelocity</string>
+	<key>transformerPerAction</key>
+	<string>mediumCaptionResponse</string>
+</dict>
+</plist>

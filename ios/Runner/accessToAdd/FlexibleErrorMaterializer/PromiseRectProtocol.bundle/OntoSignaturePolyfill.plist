@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitExceptMode</key>
+	<string>transformerContextBound</string>
+	<key>brushAroundStage</key>
+	<string>progressbarAboutCommand</string>
+	<key>builderFrameworkBrightness</key>
+	<string>transitionPhaseEdge</string>
+	<key>futureChainTag</key>
+	<string>progressbarInFramework</string>
+	<key>scrollOutsideLevel</key>
+	<string>hashCompositeTension</string>
+</dict>
+</plist>

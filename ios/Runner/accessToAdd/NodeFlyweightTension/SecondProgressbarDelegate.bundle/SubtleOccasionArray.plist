@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxCycleInteraction</key>
+	<string>positionAndFunction</string>
+	<key>finalViewDuration</key>
+	<string>configurationLayerLocation</string>
+	<key>modalPhaseDepth</key>
+	<string>immutableThreadSkewx</string>
+	<key>nextLayoutVelocity</key>
+	<string>reactiveConsumerSkewx</string>
+	<key>protectedGroupSize</key>
+	<string>composableDelegateDepth</string>
+	<key>respectiveAllocatorDistance</key>
+	<string>immediateHistogramSaturation</string>
+	<key>resultMethodPosition</key>
+	<string>symmetricCapsuleType</string>
+	<key>timerStateContrast</key>
+	<string>frameViaMemento</string>
+</dict>
+</plist>

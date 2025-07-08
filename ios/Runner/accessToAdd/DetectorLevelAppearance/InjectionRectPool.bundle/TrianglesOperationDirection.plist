@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationModeRight</key>
+	<string>navigatorAgainstCycle</string>
+	<key>channelsObserverPadding</key>
+	<string>textfieldBesideStrategy</string>
+	<key>cupertinoPopupRight</key>
+	<string>curveWithoutPrototype</string>
+	<key>materialFlyweightHead</key>
+	<string>futureProxyMargin</string>
+	<key>riverpodSingletonDelay</key>
+	<string>textureOutsideWork</string>
+	<key>sensorContainProxy</key>
+	<string>optimizerByAction</string>
+	<key>usedTabviewCount</key>
+	<string>navigationSinceCommand</string>
+</dict>
+</plist>

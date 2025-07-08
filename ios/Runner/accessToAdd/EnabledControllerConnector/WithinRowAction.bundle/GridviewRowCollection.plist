@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAccessoryMode</key>
+	<string>popupAlongStyle</string>
+	<key>backwardQueueState</key>
+	<string>smartViewPressure</string>
+	<key>commonRoleSpeed</key>
+	<string>marginNearStage</string>
+	<key>functionalCompleterColor</key>
+	<string>slashLevelHue</string>
+	<key>rowNumberType</key>
+	<string>segueVarPressure</string>
+	<key>synchronousNodeContrast</key>
+	<string>brushOfPrototype</string>
+</dict>
+</plist>

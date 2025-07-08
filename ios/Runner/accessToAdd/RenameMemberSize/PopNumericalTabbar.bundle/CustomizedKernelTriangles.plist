@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetIncludeAction</key>
+	<string>gramForMethod</string>
+	<key>canvasPrototypeMode</key>
+	<string>standaloneManagerSpeed</string>
+	<key>desktopMetadataSpeed</key>
+	<string>activityByKind</string>
+	<key>lossContextShade</key>
+	<string>multiCubeSaturation</string>
+	<key>storyboardVariableScale</key>
+	<string>providerAroundObserver</string>
+	<key>tabviewShapeSize</key>
+	<string>reactiveGestureResponse</string>
+	<key>textBesideStage</key>
+	<string>persistentLocalizationMode</string>
+	<key>toolStyleTag</key>
+	<string>agileParticleScale</string>
+</dict>
+</plist>

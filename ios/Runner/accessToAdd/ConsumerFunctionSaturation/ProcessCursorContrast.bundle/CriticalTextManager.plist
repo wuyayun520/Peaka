@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectContextBehavior</key>
+	<string>memberOfVariable</string>
+	<key>comprehensiveSwiftShade</key>
+	<string>sceneAtParam</string>
+	<key>gateUntilVar</key>
+	<string>textWithoutAdapter</string>
+	<key>lastTimerAppearance</key>
+	<string>stateOperationSpacing</string>
+	<key>singleSubscriptionForce</key>
+	<string>ignoredNodeDelay</string>
+	<key>sizeWithKind</key>
+	<string>baseWithVariable</string>
+	<key>textActionTag</key>
+	<string>displayableToolHue</string>
+	<key>textureCycleFeedback</key>
+	<string>tweenInsideFlyweight</string>
+</dict>
+</plist>

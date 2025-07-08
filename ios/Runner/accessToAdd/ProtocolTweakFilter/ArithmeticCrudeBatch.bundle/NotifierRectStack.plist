@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTweenTension</key>
+	<string>canvasVersusPlatform</string>
+	<key>curveProcessValidation</key>
+	<string>layoutPerKind</string>
+	<key>gradientCycleBorder</key>
+	<string>slashPhaseOrientation</string>
+	<key>navigationStrategyTransparency</key>
+	<string>storageForParam</string>
+	<key>repositoryActivityCenter</key>
+	<string>transitionInValue</string>
+	<key>sizeTierVelocity</key>
+	<string>queryCompositeScale</string>
+</dict>
+</plist>

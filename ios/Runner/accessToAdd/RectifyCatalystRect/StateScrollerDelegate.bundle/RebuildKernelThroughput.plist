@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralConstraintPadding</key>
+	<string>swiftByProcess</string>
+	<key>gestureByStructure</key>
+	<string>commandStrategyCoord</string>
+	<key>originalResultOrigin</key>
+	<string>opaquePresenterIndex</string>
+	<key>sampleThroughMethod</key>
+	<string>ignoredScrollStyle</string>
+	<key>secondConvolutionLeft</key>
+	<string>sampleOutsideSystem</string>
+	<key>sharedFutureBound</key>
+	<string>draggableWidgetRight</string>
+	<key>widgetOrFlyweight</key>
+	<string>sophisticatedStreamIndex</string>
+</dict>
+</plist>

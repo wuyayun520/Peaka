@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureOrFacade</key>
+	<string>sceneAsFunction</string>
+	<key>modulusBufferSpeed</key>
+	<string>tickerSingletonStyle</string>
+	<key>priorRadiusBehavior</key>
+	<string>discardedResponseFlags</string>
+	<key>specifierBufferFrequency</key>
+	<string>particleCycleLocation</string>
+</dict>
+</plist>

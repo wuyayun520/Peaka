@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAdapterFeedback</key>
+	<string>tickerInterpreterRight</string>
+	<key>clipperParameterDuration</key>
+	<string>menuAndAction</string>
+	<key>gradientOrTask</key>
+	<string>apertureAlongComposite</string>
+	<key>hashStrategyContrast</key>
+	<string>coordinatorSystemTop</string>
+	<key>hierarchicalDocumentMargin</key>
+	<string>viewOrBuffer</string>
+	<key>rectLayerEdge</key>
+	<string>storeContextTint</string>
+</dict>
+</plist>

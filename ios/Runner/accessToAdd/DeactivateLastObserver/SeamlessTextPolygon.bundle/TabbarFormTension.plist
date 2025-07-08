@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mapPlatformRate</key>
+	<string>riverpodByVariable</string>
+	<key>mediaqueryPrototypeAppearance</key>
+	<string>globalResolverSize</string>
+	<key>pointAlongActivity</key>
+	<string>firstAlertDuration</string>
+	<key>sessionLayerBottom</key>
+	<string>menuForSingleton</string>
+</dict>
+</plist>

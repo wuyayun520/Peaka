@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitMethodShape</key>
+	<string>matrixSingletonTint</string>
+	<key>effectInterpreterInteraction</key>
+	<string>smartCubitLocation</string>
+	<key>effectProxyValidation</key>
+	<string>keyMethodState</string>
+	<key>gemPerBuffer</key>
+	<string>matrixExceptWork</string>
+	<key>handlerDespiteSingleton</key>
+	<string>nextProgressbarFrequency</string>
+	<key>ignoredStreamVisibility</key>
+	<string>modelDecoratorRate</string>
+	<key>sequentialHashBound</key>
+	<string>criticalExponentDirection</string>
+	<key>tableJobForce</key>
+	<string>basicConstraintAcceleration</string>
+	<key>tweenMediatorStatus</key>
+	<string>requestAgainstShape</string>
+</dict>
+</plist>

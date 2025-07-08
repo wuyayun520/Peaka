@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedButtonIndex</key>
+	<string>elasticSingletonColor</string>
+	<key>baselineForPlatform</key>
+	<string>nodeStrategySkewy</string>
+	<key>easyBuilderInteraction</key>
+	<string>mutableButtonState</string>
+	<key>eventAwayMethod</key>
+	<string>delegateThroughSingleton</string>
+	<key>protectedNormOrigin</key>
+	<string>tabbarStructureInterval</string>
+	<key>titleTaskAcceleration</key>
+	<string>responsiveRowInterval</string>
+</dict>
+</plist>

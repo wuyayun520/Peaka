@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineOrWork</key>
+	<string>flexibleIsolateMargin</string>
+	<key>constObserverFlags</key>
+	<string>imperativeScrollTag</string>
+	<key>customGraphAlignment</key>
+	<string>cycleDuringLayer</string>
+	<key>displayableEffectVisible</key>
+	<string>currentGrayscaleFrequency</string>
+	<key>eagerLossFeedback</key>
+	<string>keyBlocFeedback</string>
+	<key>particleProxyBound</key>
+	<string>layerTierStyle</string>
+	<key>sortedReductionMomentum</key>
+	<string>groupIncludeTask</string>
+	<key>widgetThanParameter</key>
+	<string>unactivatedScaffoldLocation</string>
+</dict>
+</plist>

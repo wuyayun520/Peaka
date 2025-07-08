@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudePrecisionValidation</key>
+	<string>consumerVersusPhase</string>
+	<key>dependencyLikeWork</key>
+	<string>grainAroundScope</string>
+	<key>lossVisitorOffset</key>
+	<string>mediaOutsideAdapter</string>
+	<key>reductionPerMode</key>
+	<string>accessiblePresenterOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredAllocatorMode</key>
+	<string>positionedAlongNumber</string>
+	<key>inactiveInteractorOrigin</key>
+	<string>particlePatternAcceleration</string>
+	<key>interfaceActionFlags</key>
+	<string>mediaqueryParamType</string>
+	<key>offsetFrameworkVisible</key>
+	<string>storyboardThroughFunction</string>
+	<key>rowValueDistance</key>
+	<string>mutableScreenValidation</string>
+	<key>uniqueFeatureBehavior</key>
+	<string>reactiveAxisVisibility</string>
+</dict>
+</plist>

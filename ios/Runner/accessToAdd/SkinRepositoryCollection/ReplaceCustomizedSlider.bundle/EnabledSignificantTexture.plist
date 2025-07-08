@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAboutSystem</key>
+	<string>grayscaleStagePressure</string>
+	<key>intensityAsChain</key>
+	<string>concurrentProviderVelocity</string>
+	<key>statefulDuringStrategy</key>
+	<string>queryAtMediator</string>
+</dict>
+</plist>

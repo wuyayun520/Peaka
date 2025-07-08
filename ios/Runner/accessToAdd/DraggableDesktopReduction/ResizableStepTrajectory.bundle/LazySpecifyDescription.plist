@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridFacadeFormat</key>
+	<string>tappableMasterShape</string>
+	<key>localizationOrAdapter</key>
+	<string>responsiveRadioLeft</string>
+	<key>priorInterfaceRotation</key>
+	<string>dialogsTempleVisibility</string>
+	<key>responsiveGestureResponse</key>
+	<string>stateStrategyDepth</string>
+	<key>routeMediatorBound</key>
+	<string>sampleInsidePattern</string>
+	<key>secondInterfaceAcceleration</key>
+	<string>singletonFacadeIndex</string>
+	<key>textureVarType</key>
+	<string>mobileInterpolationBehavior</string>
+</dict>
+</plist>

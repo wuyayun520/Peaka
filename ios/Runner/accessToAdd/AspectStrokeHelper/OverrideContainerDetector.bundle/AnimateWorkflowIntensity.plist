@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryBeyondEnvironment</key>
+	<string>spriteAndBridge</string>
+	<key>cellCommandTop</key>
+	<string>titleNumberAlignment</string>
+	<key>euclideanIntegerTheme</key>
+	<string>semanticPainterInteraction</string>
+	<key>intuitiveDescriptionFlags</key>
+	<string>gesturedetectorAgainstFlyweight</string>
+	<key>particleInContext</key>
+	<string>mediumDecorationOffset</string>
+	<key>sampleOfChain</key>
+	<string>autoSignatureSpeed</string>
+	<key>scaffoldForAction</key>
+	<string>shaderSinceOperation</string>
+	<key>sessionPhaseBehavior</key>
+	<string>diversifiedDurationBound</string>
+	<key>synchronousCoordinatorPressure</key>
+	<string>instructionFrameworkDistance</string>
+	<key>unsortedBinaryMode</key>
+	<string>assetLayerStatus</string>
+</dict>
+</plist>

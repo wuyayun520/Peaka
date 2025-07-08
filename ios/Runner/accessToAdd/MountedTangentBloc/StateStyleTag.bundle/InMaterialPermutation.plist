@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeLayoutTint</key>
+	<string>queueOrType</string>
+	<key>effectTypeBorder</key>
+	<string>parallelUtilTheme</string>
+	<key>grayscaleNearObserver</key>
+	<string>labelEnvironmentMargin</string>
+	<key>lazyProgressbarBound</key>
+	<string>previewNearCommand</string>
+	<key>mutableGestureTint</key>
+	<string>convolutionVersusComposite</string>
+</dict>
+</plist>

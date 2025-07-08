@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerModeMomentum</key>
+	<string>asyncOutsideBuffer</string>
+	<key>desktopListenerRight</key>
+	<string>asyncRouterFrequency</string>
+	<key>explicitBuilderSpeed</key>
+	<string>explicitMetadataRotation</string>
+	<key>navigatorOutsideSingleton</key>
+	<string>localizationWithoutScope</string>
+	<key>pageviewTempleOffset</key>
+	<string>grainExceptOperation</string>
+	<key>popupAgainstMediator</key>
+	<string>factoryInterpreterDensity</string>
+	<key>sampleAtAdapter</key>
+	<string>hashSinceFlyweight</string>
+	<key>sinkAroundStage</key>
+	<string>mutableInstructionDuration</string>
+	<key>sliderOutsideInterpreter</key>
+	<string>secondBaselineFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureAtMediator</key>
+	<string>cursorContainScope</string>
+	<key>mediumDimensionRate</key>
+	<string>radiusPhaseTransparency</string>
+	<key>missedIndicatorSkewy</key>
+	<string>compositionBeyondFramework</string>
+	<key>navigatorTierDepth</key>
+	<string>chapterVersusValue</string>
+	<key>radiusContextSkewy</key>
+	<string>storyboardThroughPlatform</string>
+	<key>resolverAndProxy</key>
+	<string>finalZoneBrightness</string>
+	<key>statelessVisitorRate</key>
+	<string>unactivatedSignVisible</string>
+</dict>
+</plist>

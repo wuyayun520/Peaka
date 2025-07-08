@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveTweenAcceleration</key>
+	<string>gestureExceptStage</string>
+	<key>primaryControllerShape</key>
+	<string>groupAgainstStage</string>
+	<key>progressbarFunctionMargin</key>
+	<string>commandTaskLocation</string>
+	<key>scrollableCupertinoPadding</key>
+	<string>futureFunctionName</string>
+	<key>sizeOrChain</key>
+	<string>prismaticSingletonVisible</string>
+	<key>sliderBufferType</key>
+	<string>promiseLikeScope</string>
+</dict>
+</plist>

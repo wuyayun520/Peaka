@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintDuringVisitor</key>
+	<string>stepBesideStructure</string>
+	<key>diffableTransformerVelocity</key>
+	<string>textAroundComposite</string>
+	<key>scrollUntilSingleton</key>
+	<string>characterPerBuffer</string>
+	<key>semanticCapacitiesOrientation</key>
+	<string>elasticTabbarBrightness</string>
+	<key>sliderThanType</key>
+	<string>zoneAndPattern</string>
+	<key>unsortedSizePressure</key>
+	<string>reusableAccessoryTag</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableConstraintPressure</key>
+	<string>mobileVersusJob</string>
+	<key>interactorVarDirection</key>
+	<string>layoutByCycle</string>
+	<key>stampSingletonRotation</key>
+	<string>vectorInEnvironment</string>
+	<key>utilByKind</key>
+	<string>mediumListenerRight</string>
+</dict>
+</plist>

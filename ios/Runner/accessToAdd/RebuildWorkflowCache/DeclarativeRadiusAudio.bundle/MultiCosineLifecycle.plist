@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetOfChain</key>
+	<string>equipmentContextScale</string>
+	<key>cubitThroughSystem</key>
+	<string>storePerContext</string>
+	<key>cycleSystemScale</key>
+	<string>providerUntilPlatform</string>
+	<key>entityTierStatus</key>
+	<string>singleStateFrequency</string>
+	<key>permissiveTernaryRotation</key>
+	<string>pageviewByParam</string>
+	<key>statefulPlaybackShape</key>
+	<string>enabledLoopShade</string>
+	<key>statelessSingletonSize</key>
+	<string>chapterContextTag</string>
+</dict>
+</plist>

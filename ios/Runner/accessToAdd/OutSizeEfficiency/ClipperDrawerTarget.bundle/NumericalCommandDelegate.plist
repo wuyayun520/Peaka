@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryTierTheme</key>
+	<string>gridContextPressure</string>
+	<key>instructionUntilTier</key>
+	<string>scrollableAsyncTransparency</string>
+	<key>largeDialogsShade</key>
+	<string>repositoryStructureSaturation</string>
+	<key>mobileCubitShape</key>
+	<string>getxActionBrightness</string>
+	<key>queryParamOrientation</key>
+	<string>curveInsideJob</string>
+	<key>resultOutsideState</key>
+	<string>sessionAsMethod</string>
+	<key>stateModeShade</key>
+	<string>methodChainAlignment</string>
+	<key>widgetKindPadding</key>
+	<string>statelessUsecaseBehavior</string>
+</dict>
+</plist>

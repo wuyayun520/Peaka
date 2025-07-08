@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerCyclePadding</key>
+	<string>grainKindTop</string>
+	<key>dependencyOutsideAction</key>
+	<string>containerBufferForce</string>
+	<key>intermediateClipperSkewy</key>
+	<string>blocUntilVisitor</string>
+	<key>tweenWithShape</key>
+	<string>cellPerState</string>
+</dict>
+</plist>

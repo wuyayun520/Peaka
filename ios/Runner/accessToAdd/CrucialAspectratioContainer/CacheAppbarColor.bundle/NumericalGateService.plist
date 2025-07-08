@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCursorTag</key>
+	<string>lazyBulletBehavior</string>
+	<key>activeContainerTheme</key>
+	<string>sharedCompositionInteraction</string>
+	<key>allocatorInsideAction</key>
+	<string>isolateNearMemento</string>
+	<key>apertureOrKind</key>
+	<string>animationVersusMode</string>
+	<key>batchStructureBehavior</key>
+	<string>storageBeyondStrategy</string>
+	<key>constScaffoldTheme</key>
+	<string>sampleMethodState</string>
+	<key>lastSemanticsRotation</key>
+	<string>rowOutsideFacade</string>
+	<key>resourceStageContrast</key>
+	<string>lostTextValidation</string>
+	<key>sinkSingletonSpeed</key>
+	<string>presenterWithoutJob</string>
+	<key>sortedDurationBottom</key>
+	<string>exceptionAtProxy</string>
+</dict>
+</plist>

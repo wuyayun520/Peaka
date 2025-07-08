@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectAroundTier</key>
+	<string>cosineProcessRate</string>
+	<key>positionedAroundTier</key>
+	<string>stateAndWork</string>
+	<key>sessionThroughComposite</key>
+	<string>spineFrameworkMargin</string>
+	<key>stackIncludeContext</key>
+	<string>profilePatternBrightness</string>
+</dict>
+</plist>

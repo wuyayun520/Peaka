@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowAndContext</key>
+	<string>materialEventOffset</string>
+	<key>mobxUntilFunction</key>
+	<string>tabviewTypeOrientation</string>
+	<key>tabbarWithoutParam</key>
+	<string>independentErrorTag</string>
+</dict>
+</plist>

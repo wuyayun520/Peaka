@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventVariableName</key>
+	<string>dedicatedSpriteFlags</string>
+	<key>gestureAgainstProxy</key>
+	<string>mobilePatternStyle</string>
+	<key>ignoredNodeEdge</key>
+	<string>staticGatePadding</string>
+	<key>lostButtonRotation</key>
+	<string>uniformMobileSpacing</string>
+	<key>missionIncludeProcess</key>
+	<string>scaffoldShapeTag</string>
+	<key>modalViaContext</key>
+	<string>sortedPointTop</string>
+	<key>originalPositionedFrequency</key>
+	<string>resourceFlyweightOffset</string>
+	<key>pinchableRiverpodInteraction</key>
+	<string>priorAspectratioShape</string>
+	<key>specifierThanParameter</key>
+	<string>chartFrameworkBrightness</string>
+	<key>sustainableGraphPadding</key>
+	<string>menuStatePadding</string>
+</dict>
+</plist>

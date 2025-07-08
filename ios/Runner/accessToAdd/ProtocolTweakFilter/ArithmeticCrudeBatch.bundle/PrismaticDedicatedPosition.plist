@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnLayerDepth</key>
+	<string>mainExpandedRight</string>
+	<key>easySegmentAcceleration</key>
+	<string>batchProxyEdge</string>
+	<key>flexCommandOrigin</key>
+	<string>delegateDecoratorTail</string>
+	<key>topicMementoStatus</key>
+	<string>staticPrecisionOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperAdapterBehavior</key>
+	<string>navigatorAwayCommand</string>
+	<key>consultativeKernelFeedback</key>
+	<string>publicHeroHue</string>
+	<key>cupertinoAtFramework</key>
+	<string>completerVariableInset</string>
+	<key>curveParamFeedback</key>
+	<string>tweenTierDistance</string>
+	<key>missedScrollVelocity</key>
+	<string>heapBeyondPattern</string>
+	<key>referenceThanSingleton</key>
+	<string>diversifiedEffectRate</string>
+	<key>sliderAroundComposite</key>
+	<string>constSpotSize</string>
+	<key>tweenUntilStrategy</key>
+	<string>timerThanWork</string>
+	<key>unactivatedOptionIndex</key>
+	<string>semanticsAgainstCommand</string>
+</dict>
+</plist>

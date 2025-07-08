@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartOutsidePattern</key>
+	<string>timerOutsideTier</string>
+	<key>crudeExpandedSpeed</key>
+	<string>modelAgainstSingleton</string>
+	<key>inactiveDimensionAcceleration</key>
+	<string>toolStyleInset</string>
+	<key>lostTitleFlags</key>
+	<string>controllerVersusKind</string>
+	<key>retainedRectCoord</key>
+	<string>transformerChainOpacity</string>
+	<key>streamVariableOrigin</key>
+	<string>semanticsInterpreterName</string>
+	<key>taskDecoratorForce</key>
+	<string>asyncCanvasOrigin</string>
+	<key>unaryUntilEnvironment</key>
+	<string>checklistUntilTier</string>
+</dict>
+</plist>

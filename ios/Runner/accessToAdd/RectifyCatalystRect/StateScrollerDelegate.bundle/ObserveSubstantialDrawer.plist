@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncGiftTransparency</key>
+	<string>materialCycleCenter</string>
+	<key>basicListviewFrequency</key>
+	<string>tickerCommandCount</string>
+	<key>previewStageTop</key>
+	<string>granularTaskDelay</string>
+	<key>referenceBeyondStage</key>
+	<string>materialSubscriptionContrast</string>
+	<key>webAsyncFrequency</key>
+	<string>assetPhaseOpacity</string>
+</dict>
+</plist>

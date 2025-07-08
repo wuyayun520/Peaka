@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerChecklistTheme</key>
+	<string>widgetLikeTask</string>
+	<key>buttonAdapterTop</key>
+	<string>chapterScopeRight</string>
+	<key>mobileCatalystSkewx</key>
+	<string>intermediateModelTransparency</string>
+	<key>movementStageFrequency</key>
+	<string>configurationCommandTop</string>
+	<key>routeAlongBuffer</key>
+	<string>standaloneProjectDistance</string>
+	<key>singleStepPosition</key>
+	<string>modulusInsideMode</string>
+</dict>
+</plist>

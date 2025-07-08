@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoAwaitInset</key>
+	<string>unaryProxyRight</string>
+	<key>explicitBaseOrientation</key>
+	<string>precisionVersusWork</string>
+	<key>fusedCellShape</key>
+	<string>pointByMemento</string>
+	<key>handlerActivityType</key>
+	<string>repositoryPlatformAlignment</string>
+	<key>layoutObserverLeft</key>
+	<string>factoryLevelTheme</string>
+	<key>storeJobAlignment</key>
+	<string>requestInsideStrategy</string>
+	<key>subtleHandlerTail</key>
+	<string>interfaceFormInteraction</string>
+	<key>tappableTimerType</key>
+	<string>subsequentRowPressure</string>
+</dict>
+</plist>

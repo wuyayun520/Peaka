@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationJobValidation</key>
+	<string>eagerHandlerVisible</string>
+	<key>commonAnimationFormat</key>
+	<string>associatedSingletonTint</string>
+	<key>drawerStateOffset</key>
+	<string>giftDespiteDecorator</string>
+	<key>exceptionPatternMode</key>
+	<string>prevTabbarCoord</string>
+	<key>functionalExceptionInterval</key>
+	<string>taskVariableKind</string>
+	<key>graphTempleBound</key>
+	<string>progressbarFormFormat</string>
+	<key>largeStepDistance</key>
+	<string>cartesianPreviewLocation</string>
+	<key>symmetricNavigatorVisible</key>
+	<string>missedTitleInset</string>
+	<key>zoneOfKind</key>
+	<string>responseSystemTag</string>
+</dict>
+</plist>

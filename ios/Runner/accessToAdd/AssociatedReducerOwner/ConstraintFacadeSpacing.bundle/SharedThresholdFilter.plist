@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchTypeShade</key>
+	<string>layoutScopeValidation</string>
+	<key>decorationAboutEnvironment</key>
+	<string>canvasProxyOrientation</string>
+	<key>dynamicRadioOrientation</key>
+	<string>reducerVersusCommand</string>
+	<key>elasticButtonLocation</key>
+	<string>curveVariableInset</string>
+	<key>injectionMethodDirection</key>
+	<string>futureStateStatus</string>
+	<key>pivotalHeroTension</key>
+	<string>modelLevelAppearance</string>
+	<key>responsiveProviderStyle</key>
+	<string>giftAndFlyweight</string>
+</dict>
+</plist>

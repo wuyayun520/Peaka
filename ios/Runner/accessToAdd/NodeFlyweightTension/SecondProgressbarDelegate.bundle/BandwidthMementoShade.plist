@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerAgainstActivity</key>
+	<string>constraintDuringPattern</string>
+	<key>layoutAroundCommand</key>
+	<string>hierarchicalAlertBorder</string>
+	<key>lossVarLeft</key>
+	<string>currentSignatureDistance</string>
+	<key>protocolAdapterInterval</key>
+	<string>accordionSwitchDistance</string>
+	<key>standaloneViewBrightness</key>
+	<string>semanticsOutsideMediator</string>
+	<key>subtleRadiusSkewx</key>
+	<string>sequentialBufferCoord</string>
+	<key>vectorByAction</key>
+	<string>disabledLoopBehavior</string>
+</dict>
+</plist>

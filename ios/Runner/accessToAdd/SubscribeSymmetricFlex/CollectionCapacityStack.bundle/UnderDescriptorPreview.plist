@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticProcessSkewy</key>
+	<string>observerOrStage</string>
+	<key>channelForType</key>
+	<string>dependencyMementoScale</string>
+	<key>directCanvasForce</key>
+	<string>bitrateByParam</string>
+	<key>explicitViewShade</key>
+	<string>newestRequestDepth</string>
+</dict>
+</plist>

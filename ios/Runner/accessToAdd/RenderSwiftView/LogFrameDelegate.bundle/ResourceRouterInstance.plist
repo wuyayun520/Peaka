@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constControllerShape</key>
+	<string>hierarchicalDependencyFeedback</string>
+	<key>criticalGradientState</key>
+	<string>usageWorkInset</string>
+	<key>deferredNotifierVisibility</key>
+	<string>painterContextOrigin</string>
+	<key>uniqueAwaitOffset</key>
+	<string>sortedChecklistSaturation</string>
+</dict>
+</plist>

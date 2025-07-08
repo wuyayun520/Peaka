@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleInterpreterIndex</key>
+	<string>queryNearComposite</string>
+	<key>disabledEntityBehavior</key>
+	<string>popupVarInset</string>
+	<key>popupModeOrientation</key>
+	<string>slashPhaseAcceleration</string>
+	<key>tableNumberType</key>
+	<string>groupThroughStrategy</string>
+	<key>usecaseActivityDensity</key>
+	<string>menuViaStage</string>
+	<key>usecasePhaseOpacity</key>
+	<string>storeVersusMediator</string>
+</dict>
+</plist>

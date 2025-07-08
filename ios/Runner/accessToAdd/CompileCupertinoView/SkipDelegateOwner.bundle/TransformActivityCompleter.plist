@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseWithoutTask</key>
+	<string>checkboxAsObserver</string>
+	<key>coordinatorForObserver</key>
+	<string>musicCompositeVisibility</string>
+	<key>crucialConstraintCount</key>
+	<string>adaptiveServiceDensity</string>
+	<key>dependencyByContext</key>
+	<string>missedNotificationOrigin</string>
+	<key>inheritedCardStyle</key>
+	<string>checklistFacadeTransparency</string>
+	<key>reductionFlyweightPadding</key>
+	<string>riverpodAsPhase</string>
+	<key>statelessValueScale</key>
+	<string>modelVisitorSkewy</string>
+</dict>
+</plist>

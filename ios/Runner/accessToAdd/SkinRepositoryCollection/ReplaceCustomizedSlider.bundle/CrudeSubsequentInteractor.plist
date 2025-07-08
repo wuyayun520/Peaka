@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAdapterSpeed</key>
+	<string>constraintStyleIndex</string>
+	<key>enabledTopicBorder</key>
+	<string>scrollValueRate</string>
+	<key>interfaceTempleType</key>
+	<string>newestEffectKind</string>
+	<key>originalRowShape</key>
+	<string>synchronousOffsetFrequency</string>
+	<key>semanticCacheFeedback</key>
+	<string>criticalGridviewCount</string>
+	<key>stateVersusFramework</key>
+	<string>crudeDelegateTag</string>
+</dict>
+</plist>

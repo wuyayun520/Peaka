@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveContainWork</key>
+	<string>toolIncludeTask</string>
+	<key>nibInFunction</key>
+	<string>descriptorStageSpeed</string>
+	<key>responseCompositeFlags</key>
+	<string>arithmeticDependencyEdge</string>
+	<key>seamlessErrorInterval</key>
+	<string>baselineNearFlyweight</string>
+	<key>storeJobBehavior</key>
+	<string>asyncUnaryVisible</string>
+</dict>
+</plist>

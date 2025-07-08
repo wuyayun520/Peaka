@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleInParam</key>
+	<string>priorityParameterOrigin</string>
+	<key>customTopicOrigin</key>
+	<string>secondHandlerValidation</string>
+	<key>durationStageTag</key>
+	<string>asyncEnvironmentSpeed</string>
+	<key>gemBridgeTheme</key>
+	<string>cardContainFlyweight</string>
+	<key>gramEnvironmentSpeed</key>
+	<string>isolateJobName</string>
+	<key>gridObserverDepth</key>
+	<string>riverpodOutsideCommand</string>
+	<key>lastRepositorySaturation</key>
+	<string>declarativeAspectFormat</string>
+	<key>normMementoFormat</key>
+	<string>hashContextVelocity</string>
+</dict>
+</plist>

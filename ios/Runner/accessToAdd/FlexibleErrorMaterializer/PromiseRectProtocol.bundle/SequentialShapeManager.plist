@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncWithoutAction</key>
+	<string>transitionFrameworkInset</string>
+	<key>constConstraintVisible</key>
+	<string>brushForFlyweight</string>
+	<key>consumerExceptSystem</key>
+	<string>boxshadowInPattern</string>
+	<key>effectOfStructure</key>
+	<string>nodeCycleStyle</string>
+	<key>offsetForTask</key>
+	<string>statelessCollectionKind</string>
+	<key>statelessMenuInset</key>
+	<string>offsetEnvironmentVisibility</string>
+	<key>taskVersusNumber</key>
+	<string>referenceInCommand</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedChannelCenter</key>
+	<string>iconInsideVariable</string>
+	<key>cupertinoHandlerStyle</key>
+	<string>comprehensiveBoxshadowOffset</string>
+	<key>ignoredAxisAppearance</key>
+	<string>resizablePositionDistance</string>
+	<key>interpolationAgainstSingleton</key>
+	<string>roleBufferRight</string>
+</dict>
+</plist>

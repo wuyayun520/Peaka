@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticNibBehavior</key>
+	<string>statelessStageBound</string>
+	<key>cellBufferLocation</key>
+	<string>positionFacadeResponse</string>
+	<key>clipperObserverColor</key>
+	<string>apertureFromCycle</string>
+	<key>cycleInsideEnvironment</key>
+	<string>numericalControllerSkewy</string>
+	<key>matrixViaPlatform</key>
+	<string>crucialSwitchFormat</string>
+	<key>slashInterpreterOffset</key>
+	<string>sinkStrategySpeed</string>
+</dict>
+</plist>

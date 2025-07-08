@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushThroughBridge</key>
+	<string>queueAsMemento</string>
+	<key>channelFacadeSaturation</key>
+	<string>requestObserverRate</string>
+	<key>futurePhaseTension</key>
+	<string>challengeAsComposite</string>
+	<key>timerViaAction</key>
+	<string>tickerPhaseName</string>
+</dict>
+</plist>

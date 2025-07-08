@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectWithInterpreter</key>
+	<string>navigationExceptMediator</string>
+	<key>coordinatorAroundStyle</key>
+	<string>diffableFragmentTop</string>
+	<key>nodeFlyweightTail</key>
+	<string>providerWithoutComposite</string>
+	<key>offsetStrategySpacing</key>
+	<string>canvasAndMethod</string>
+</dict>
+</plist>

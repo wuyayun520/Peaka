@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFacadeInset</key>
+	<string>scaleMementoBrightness</string>
+	<key>cellFromAction</key>
+	<string>topicSinceLayer</string>
+	<key>greatSpriteState</key>
+	<string>presenterAndObserver</string>
+	<key>specifyOptimizerSize</key>
+	<string>interactiveProviderDepth</string>
+	<key>tabviewFlyweightCoord</key>
+	<string>hierarchicalPaddingMode</string>
+	<key>unsortedModalOpacity</key>
+	<string>isolateInsideMethod</string>
+</dict>
+</plist>

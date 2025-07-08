@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAdapterVisible</key>
+	<string>accessibleCommandDistance</string>
+	<key>drawerStructureCenter</key>
+	<string>blocPerPlatform</string>
+	<key>factoryPatternSaturation</key>
+	<string>lazyGrayscaleBehavior</string>
+	<key>gramViaKind</key>
+	<string>iterativeReductionHue</string>
+	<key>marginWithStyle</key>
+	<string>seamlessTangentOpacity</string>
+	<key>notificationStylePadding</key>
+	<string>ephemeralSampleDensity</string>
+	<key>richtextVariableForce</key>
+	<string>agileDecorationTop</string>
+	<key>sliderNearContext</key>
+	<string>particleActionForce</string>
+	<key>subtleProjectionVisibility</key>
+	<string>draggableCacheLocation</string>
+</dict>
+</plist>

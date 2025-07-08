@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationModeDensity</key>
+	<string>activityFrameworkOrigin</string>
+	<key>autoContainerOffset</key>
+	<string>directWidgetCoord</string>
+	<key>challengeVariableVisibility</key>
+	<string>positionedUntilState</string>
+	<key>pivotalGradientCoord</key>
+	<string>firstContainerValidation</string>
+	<key>retainedServiceTag</key>
+	<string>curveAwayNumber</string>
+	<key>scaleWithInterpreter</key>
+	<string>bitrateNearFlyweight</string>
+	<key>viewStateRotation</key>
+	<string>frameStateKind</string>
+	<key>widgetNearBuffer</key>
+	<string>ephemeralLocalizationLeft</string>
+</dict>
+</plist>

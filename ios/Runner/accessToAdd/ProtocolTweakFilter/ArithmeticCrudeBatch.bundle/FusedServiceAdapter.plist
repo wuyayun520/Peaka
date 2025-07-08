@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryIncludeState</key>
+	<string>discardedWidgetBorder</string>
+	<key>eagerUsecaseLocation</key>
+	<string>localStoreVisibility</string>
+	<key>gestureMementoMode</key>
+	<string>painterUntilAction</string>
+	<key>logViaNumber</key>
+	<string>pinchableDelegateLocation</string>
+	<key>resizableCursorPressure</key>
+	<string>resourceAsScope</string>
+	<key>routeModeHead</key>
+	<string>paddingStateCoord</string>
+	<key>specifyRiverpodTheme</key>
+	<string>statefulFrameOrientation</string>
+	<key>subpixelNearNumber</key>
+	<string>tweenExceptAction</string>
+</dict>
+</plist>

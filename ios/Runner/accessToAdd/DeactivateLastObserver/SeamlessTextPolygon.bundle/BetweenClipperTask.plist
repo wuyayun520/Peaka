@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardAmongStyle</key>
+	<string>agileGiftFeedback</string>
+	<key>constRowRate</key>
+	<string>delegateOutsideDecorator</string>
+	<key>exceptionOperationRate</key>
+	<string>newestHandlerOpacity</string>
+	<key>inheritedFrameContrast</key>
+	<string>marginKindSaturation</string>
+	<key>interfaceFromBridge</key>
+	<string>taskCycleName</string>
+	<key>utilLayerCenter</key>
+	<string>compositionActionSkewy</string>
+	<key>webKernelValidation</key>
+	<string>utilOperationBound</string>
+</dict>
+</plist>

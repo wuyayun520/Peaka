@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitPerKind</key>
+	<string>grainAdapterCount</string>
+	<key>cubitBufferDensity</key>
+	<string>canvasLayerFormat</string>
+	<key>equalizationAlongVar</key>
+	<string>rowLayerFrequency</string>
+	<key>greatStoreDirection</key>
+	<string>unsortedSizeResponse</string>
+	<key>labelBufferBound</key>
+	<string>scalePerLevel</string>
+	<key>mediaqueryThroughMediator</key>
+	<string>boxshadowUntilShape</string>
+	<key>primaryMasterLocation</key>
+	<string>configurationStyleForce</string>
+	<key>seguePatternAcceleration</key>
+	<string>intuitiveClipperSpacing</string>
+</dict>
+</plist>

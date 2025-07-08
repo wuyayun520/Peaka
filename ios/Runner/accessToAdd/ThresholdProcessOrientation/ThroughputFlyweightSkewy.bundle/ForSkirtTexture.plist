@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorPrototypeSpacing</key>
+	<string>localizationContextInset</string>
+	<key>materialShapeSkewy</key>
+	<string>disparateModalFeedback</string>
+	<key>observerModeAcceleration</key>
+	<string>publicStoreDepth</string>
+	<key>popupViaActivity</key>
+	<string>gradientDecoratorValidation</string>
+	<key>significantAspectVisible</key>
+	<string>resizableSwitchOffset</string>
+	<key>sophisticatedModalTint</key>
+	<string>sampleTaskAppearance</string>
+	<key>tensorCosinePressure</key>
+	<string>invisiblePresenterValidation</string>
+	<key>tweenSinceStage</key>
+	<string>frameThroughType</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheFormValidation</key>
+	<string>widgetOutsideInterpreter</string>
+	<key>cellActivityTag</key>
+	<string>allocatorLikeInterpreter</string>
+	<key>delegateStateLeft</key>
+	<string>unaryFunctionFormat</string>
+	<key>explicitMethodDepth</key>
+	<string>subtleApertureLeft</string>
+	<key>textPrototypeInteraction</key>
+	<string>normalInterpolationSize</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveSpotVisibility</key>
+	<string>presenterViaNumber</string>
+	<key>dimensionPerOperation</key>
+	<string>factoryOrCommand</string>
+	<key>gradientPatternScale</key>
+	<string>mainFutureDistance</string>
+	<key>inheritedMetadataAlignment</key>
+	<string>managerAgainstChain</string>
+	<key>modelBufferPosition</key>
+	<string>criticalFactoryCenter</string>
+	<key>overlayMementoOrientation</key>
+	<string>graphicStructureSkewy</string>
+	<key>plateOrMemento</key>
+	<string>missedApertureCenter</string>
+	<key>presenterTaskOrigin</key>
+	<string>statefulRiverpodPadding</string>
+	<key>seamlessHashScale</key>
+	<string>progressbarOrStrategy</string>
+	<key>viewPhaseOrientation</key>
+	<string>riverpodMementoAlignment</string>
+</dict>
+</plist>

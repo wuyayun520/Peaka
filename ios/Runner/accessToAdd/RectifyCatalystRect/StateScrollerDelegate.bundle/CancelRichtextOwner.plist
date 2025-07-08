@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelSystemKind</key>
+	<string>alignmentSincePlatform</string>
+	<key>customSubpixelOrigin</key>
+	<string>permanentBufferBehavior</string>
+	<key>decorationForChain</key>
+	<string>lostCompleterResponse</string>
+	<key>disabledCardEdge</key>
+	<string>radiusTaskAlignment</string>
+	<key>optionByProcess</key>
+	<string>builderPhasePadding</string>
+	<key>statefulContainerShade</key>
+	<string>descriptionAmongState</string>
+	<key>tappableOverlayInterval</key>
+	<string>modelStageVelocity</string>
+	<key>vectorTierVelocity</key>
+	<string>granularAwaitMomentum</string>
+</dict>
+</plist>

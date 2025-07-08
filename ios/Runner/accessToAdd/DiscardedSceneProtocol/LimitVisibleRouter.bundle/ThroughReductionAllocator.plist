@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonNumberDelay</key>
+	<string>controllerAmongParameter</string>
+	<key>greatStepRate</key>
+	<string>prismaticCoordinatorSpeed</string>
+	<key>statefulThanMemento</key>
+	<string>grainThroughFramework</string>
+	<key>viewUntilPhase</key>
+	<string>dynamicHeapInterval</string>
+</dict>
+</plist>

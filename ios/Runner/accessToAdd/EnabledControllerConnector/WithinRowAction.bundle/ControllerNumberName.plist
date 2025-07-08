@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>framePerTier</key>
+	<string>semanticBulletLeft</string>
+	<key>groupModeBehavior</key>
+	<string>responseSystemDensity</string>
+	<key>resourceVariableCount</key>
+	<string>projectionAroundSystem</string>
+	<key>sustainableToolCount</key>
+	<string>mutableResultOrientation</string>
+	<key>zoneOutsideTier</key>
+	<string>inactiveClipperDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferInsideFlyweight</key>
+	<string>adaptiveTextDensity</string>
+	<key>constraintViaActivity</key>
+	<string>denseDurationCenter</string>
+	<key>dropdownbuttonInComposite</key>
+	<string>tangentDuringOperation</string>
+	<key>functionalOffsetScale</key>
+	<string>displayableRepositoryDensity</string>
+	<key>playbackTaskAlignment</key>
+	<string>semanticsFromStructure</string>
+	<key>resolverVisitorSkewy</key>
+	<string>sophisticatedMapFormat</string>
+	<key>widgetTaskMargin</key>
+	<string>prevNodeTransparency</string>
+</dict>
+</plist>

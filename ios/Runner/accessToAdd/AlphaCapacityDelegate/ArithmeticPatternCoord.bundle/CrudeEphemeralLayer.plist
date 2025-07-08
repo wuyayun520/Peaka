@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerCycleForce</key>
+	<string>permanentModulusOffset</string>
+	<key>concurrentSegueDistance</key>
+	<string>scrollFromNumber</string>
+	<key>deferredStatelessTension</key>
+	<string>activatedSpotSize</string>
+	<key>displayableIconKind</key>
+	<string>instructionSinceState</string>
+	<key>mediaActionVisibility</key>
+	<string>featureAtStage</string>
+	<key>segueParameterTint</key>
+	<string>channelPrototypeLocation</string>
+</dict>
+</plist>

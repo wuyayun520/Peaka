@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectPhaseVisible</key>
+	<string>groupAndOperation</string>
+	<key>builderUntilBridge</key>
+	<string>inheritedSpineState</string>
+	<key>isolateOutsidePhase</key>
+	<string>cartesianListenerFlags</string>
+	<key>notificationDuringObserver</key>
+	<string>autoRouterTop</string>
+	<key>rowTaskInteraction</key>
+	<string>invisibleOffsetIndex</string>
+	<key>slashPhasePressure</key>
+	<string>iterativeZoneTint</string>
+	<key>toolNumberDelay</key>
+	<string>disabledSpriteColor</string>
+</dict>
+</plist>

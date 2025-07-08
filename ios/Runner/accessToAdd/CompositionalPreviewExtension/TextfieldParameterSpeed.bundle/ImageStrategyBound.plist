@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerOperationMargin</key>
+	<string>singletonStyleHead</string>
+	<key>diffableCompletionTail</key>
+	<string>anchorModeDirection</string>
+	<key>mediaqueryFrameworkIndex</key>
+	<string>sceneForProcess</string>
+	<key>numericalProviderAppearance</key>
+	<string>hashAndEnvironment</string>
+	<key>pinchableDimensionFrequency</key>
+	<string>taskNumberTag</string>
+	<key>singletonDuringCycle</key>
+	<string>constraintBufferScale</string>
+	<key>statelessAroundScope</key>
+	<string>handlerInsideMethod</string>
+</dict>
+</plist>

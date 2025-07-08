@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocMediatorBehavior</key>
+	<string>bufferVariableInset</string>
+	<key>graphAmongValue</key>
+	<string>firstScenePadding</string>
+	<key>resolverOutsidePattern</key>
+	<string>handlerPrototypeInset</string>
+	<key>transitionAndTemple</key>
+	<string>delegateInBridge</string>
+</dict>
+</plist>

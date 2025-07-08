@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupSystemInterval</key>
+	<string>flexPrototypeResponse</string>
+	<key>labelJobRotation</key>
+	<string>baseCycleTail</string>
+	<key>lazyDurationSaturation</key>
+	<string>interfaceCycleInterval</string>
+	<key>routeTaskRotation</key>
+	<string>techniqueMediatorLocation</string>
+	<key>sliderAdapterOpacity</key>
+	<string>constraintViaMethod</string>
+</dict>
+</plist>

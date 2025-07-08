@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardTypeInset</key>
+	<string>boxPerProcess</string>
+	<key>checklistBeyondNumber</key>
+	<string>denseSpineCenter</string>
+	<key>columnLayerDistance</key>
+	<string>batchLayerTail</string>
+	<key>customizedOptimizerFeedback</key>
+	<string>dialogsAdapterTag</string>
+	<key>delicateTaskSpeed</key>
+	<string>relationalTextureFormat</string>
+	<key>dimensionModeRight</key>
+	<string>methodPatternFlags</string>
+	<key>euclideanAlignmentDensity</key>
+	<string>resizableScenePressure</string>
+	<key>progressbarThanForm</key>
+	<string>immutableTopicForce</string>
+	<key>protocolAdapterFeedback</key>
+	<string>accessoryCycleFlags</string>
+	<key>staticCapacitiesPadding</key>
+	<string>intensitySingletonBottom</string>
+</dict>
+</plist>

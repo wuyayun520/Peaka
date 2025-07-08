@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianStoreFlags</key>
+	<string>pinchableHeapSpacing</string>
+	<key>interactorAroundPrototype</key>
+	<string>symmetricMenuFlags</string>
+	<key>titleFromCommand</key>
+	<string>textfieldParameterEdge</string>
+</dict>
+</plist>

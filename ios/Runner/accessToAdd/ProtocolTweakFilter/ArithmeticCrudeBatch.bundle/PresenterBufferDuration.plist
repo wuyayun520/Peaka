@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetActivityDensity</key>
+	<string>delegateStateInteraction</string>
+	<key>batchOfContext</key>
+	<string>requestDespiteLayer</string>
+	<key>compositionBufferBehavior</key>
+	<string>factoryBridgeRotation</string>
+	<key>dedicatedScrollTail</key>
+	<string>providerVarHue</string>
+	<key>graphTemplePosition</key>
+	<string>listenerStagePadding</string>
+	<key>queueStructureDensity</key>
+	<string>notificationOrTier</string>
+	<key>resilientSkirtState</key>
+	<string>immediateGateFrequency</string>
+	<key>seguePatternSize</key>
+	<string>crudeFrameTransparency</string>
+</dict>
+</plist>

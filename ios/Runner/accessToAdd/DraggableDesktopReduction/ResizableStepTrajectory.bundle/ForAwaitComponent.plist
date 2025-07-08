@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsDecoratorFlags</key>
+	<string>layerParameterOrientation</string>
+	<key>consumerTierPadding</key>
+	<string>crudeEventTail</string>
+	<key>imperativeMapDuration</key>
+	<string>layoutStrategyTheme</string>
+	<key>primaryStatelessInteraction</key>
+	<string>positionContainParameter</string>
+	<key>radioCycleDuration</key>
+	<string>touchBesideShape</string>
+	<key>transitionActionShape</key>
+	<string>progressbarStrategyStatus</string>
+</dict>
+</plist>

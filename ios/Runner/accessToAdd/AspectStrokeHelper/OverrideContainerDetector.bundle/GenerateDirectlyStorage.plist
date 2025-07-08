@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticWithFacade</key>
+	<string>sharedAppbarPosition</string>
+	<key>composableSinkInterval</key>
+	<string>geometricTaskSkewx</string>
+	<key>curveInterpreterCoord</key>
+	<string>serviceStageBehavior</string>
+	<key>labelAsObserver</key>
+	<string>subpixelAsCommand</string>
+	<key>optimizerNumberColor</key>
+	<string>imperativeTextSpeed</string>
+	<key>resourceLevelShade</key>
+	<string>resourceFlyweightStatus</string>
+</dict>
+</plist>

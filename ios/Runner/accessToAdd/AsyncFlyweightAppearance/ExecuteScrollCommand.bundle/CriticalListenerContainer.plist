@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStreamShape</key>
+	<string>nativePreviewEdge</string>
+	<key>criticalPainterDensity</key>
+	<string>accordionPrecisionPressure</string>
+	<key>gestureFunctionEdge</key>
+	<string>hierarchicalCycleSaturation</string>
+	<key>layoutChainResponse</key>
+	<string>canvasUntilPrototype</string>
+	<key>playbackObserverAppearance</key>
+	<string>taskPatternLocation</string>
+	<key>resolverByVariable</key>
+	<string>widgetWorkSize</string>
+</dict>
+</plist>

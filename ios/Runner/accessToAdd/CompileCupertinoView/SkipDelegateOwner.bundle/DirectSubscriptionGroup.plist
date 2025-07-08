@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewDespiteStrategy</key>
+	<string>axisLikeObserver</string>
+	<key>localMobileSkewy</key>
+	<string>temporaryGateHue</string>
+	<key>nibAdapterFlags</key>
+	<string>compositionObserverDistance</string>
+	<key>singleFutureDuration</key>
+	<string>functionalPageviewPosition</string>
+</dict>
+</plist>

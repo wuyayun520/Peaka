@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityVersusStyle</key>
+	<string>mediaqueryObserverAlignment</string>
+	<key>gateByValue</key>
+	<string>nextPromiseResponse</string>
+	<key>groupAdapterTag</key>
+	<string>immediateStatefulCenter</string>
+	<key>opaqueTextfieldVisibility</key>
+	<string>containerStructureTop</string>
+	<key>pivotalKernelSpacing</key>
+	<string>composableDurationTag</string>
+	<key>serviceFlyweightEdge</key>
+	<string>tabviewForAdapter</string>
+	<key>widgetBufferBrightness</key>
+	<string>gesturePhaseInterval</string>
+</dict>
+</plist>

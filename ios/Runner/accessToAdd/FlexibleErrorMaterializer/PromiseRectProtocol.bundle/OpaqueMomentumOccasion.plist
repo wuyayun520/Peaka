@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDecoratorRight</key>
+	<string>responsiveSkirtTransparency</string>
+	<key>invisibleAlignmentMomentum</key>
+	<string>gestureInParameter</string>
+	<key>scaffoldStageVisible</key>
+	<string>listviewPatternState</string>
+	<key>sizeStrategyInterval</key>
+	<string>eagerTickerFormat</string>
+	<key>streamPlatformDensity</key>
+	<string>priorityLayerIndex</string>
+</dict>
+</plist>

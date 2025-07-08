@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticVariableTransparency</key>
+	<string>documentBeyondParam</string>
+	<key>scrollableCompleterContrast</key>
+	<string>menuMediatorIndex</string>
+	<key>singletonOrContext</key>
+	<string>bulletWithScope</string>
+	<key>uniqueStatefulShape</key>
+	<string>grainAmongLevel</string>
+</dict>
+</plist>

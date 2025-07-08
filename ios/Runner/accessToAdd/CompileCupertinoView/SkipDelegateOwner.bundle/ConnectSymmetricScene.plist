@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableToolState</key>
+	<string>streamFrameworkShape</string>
+	<key>constraintAtType</key>
+	<string>sessionAboutSystem</string>
+	<key>customEffectStyle</key>
+	<string>configurationPerFlyweight</string>
+	<key>inactiveTickerShape</key>
+	<string>notifierBeyondStrategy</string>
+	<key>interactiveCosinePadding</key>
+	<string>interactorFlyweightInterval</string>
+	<key>lastLayoutContrast</key>
+	<string>descriptorWithoutLevel</string>
+	<key>mobileVisitorResponse</key>
+	<string>finalCaptionTint</string>
+	<key>pageviewStateType</key>
+	<string>zoneCommandBehavior</string>
+	<key>resolverWithObserver</key>
+	<string>otherTabviewInteraction</string>
+	<key>rowStageDelay</key>
+	<string>textureCycleRight</string>
+</dict>
+</plist>

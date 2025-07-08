@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchPerScope</key>
+	<string>matrixByScope</string>
+	<key>checklistAsForm</key>
+	<string>memberShapeForce</string>
+	<key>crudeGraphicSpacing</key>
+	<string>granularPresenterAlignment</string>
+	<key>decorationValueTag</key>
+	<string>deferredAlertDistance</string>
+	<key>exponentFunctionPadding</key>
+	<string>dialogsPrototypeBottom</string>
+	<key>matrixSingletonPosition</key>
+	<string>widgetNumberBehavior</string>
+	<key>rowWorkDelay</key>
+	<string>interpolationOperationHue</string>
+	<key>semanticTextKind</key>
+	<string>channelsAboutObserver</string>
+	<key>synchronousDurationHue</key>
+	<string>independentLossSpeed</string>
+</dict>
+</plist>

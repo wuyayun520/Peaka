@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedSpriteOrientation</key>
+	<string>channelModeAlignment</string>
+	<key>logWithoutAction</key>
+	<string>globalCursorDuration</string>
+	<key>mapLayerPressure</key>
+	<string>histogramWithoutTask</string>
+	<key>scrollableInkwellStatus</key>
+	<string>optionUntilContext</string>
+</dict>
+</plist>

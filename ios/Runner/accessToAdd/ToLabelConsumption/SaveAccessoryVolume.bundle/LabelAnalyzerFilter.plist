@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorWithoutType</key>
+	<string>challengeSingletonResponse</string>
+	<key>drawerFacadeDirection</key>
+	<string>immutablePreviewInset</string>
+	<key>drawerStructureRate</key>
+	<string>indicatorTempleSaturation</string>
+	<key>gemMediatorBound</key>
+	<string>progressbarLayerBrightness</string>
+	<key>hashNearJob</key>
+	<string>grayscaleSystemMode</string>
+	<key>modelFlyweightAcceleration</key>
+	<string>mediocreDimensionFrequency</string>
+	<key>screenAgainstOperation</key>
+	<string>desktopCustompaintMode</string>
+	<key>touchKindHue</key>
+	<string>cosineDuringBridge</string>
+</dict>
+</plist>

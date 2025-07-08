@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushWithKind</key>
+	<string>dynamicResponseHead</string>
+	<key>bulletWithoutPattern</key>
+	<string>scrollableDescriptionVisibility</string>
+	<key>frameChainShape</key>
+	<string>primarySwiftAcceleration</string>
+	<key>immutableButtonShade</key>
+	<string>resourceInAdapter</string>
+	<key>opaqueMultiplicationAlignment</key>
+	<string>mutableGroupTail</string>
+	<key>painterLikeComposite</key>
+	<string>displayableMobileStatus</string>
+</dict>
+</plist>

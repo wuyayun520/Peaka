@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellBesideSingleton</key>
+	<string>providerOperationOrientation</string>
+	<key>displayableFutureLeft</key>
+	<string>activePositionBehavior</string>
+	<key>entropyPerPlatform</key>
+	<string>missionTypeState</string>
+	<key>firstAllocatorDensity</key>
+	<string>arithmeticBlocAppearance</string>
+	<key>groupLikeFacade</key>
+	<string>intuitiveDependencyAlignment</string>
+	<key>iconLayerSkewy</key>
+	<string>projectThanFunction</string>
+	<key>popupOutsideAction</key>
+	<string>spriteShapeState</string>
+	<key>presenterFormLeft</key>
+	<string>diffableBufferTheme</string>
+	<key>publicChannelStatus</key>
+	<string>navigationAgainstState</string>
+	<key>statefulThanComposite</key>
+	<string>textureBeyondValue</string>
+</dict>
+</plist>

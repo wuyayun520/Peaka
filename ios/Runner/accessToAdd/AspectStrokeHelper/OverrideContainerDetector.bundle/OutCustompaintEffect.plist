@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>observerActivityBound</key>
+	<string>symmetricChannelsResponse</string>
+	<key>prismaticStatelessBehavior</key>
+	<string>basicCycleDistance</string>
+	<key>statefulAmongFramework</key>
+	<string>standaloneReferenceResponse</string>
+	<key>themeVarEdge</key>
+	<string>pinchableBatchSpacing</string>
+</dict>
+</plist>

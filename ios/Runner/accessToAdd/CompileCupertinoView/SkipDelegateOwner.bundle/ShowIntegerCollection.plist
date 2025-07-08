@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedConfigurationDelay</key>
+	<string>storageBufferSpeed</string>
+	<key>basicTabviewLocation</key>
+	<string>tweenAsAction</string>
+	<key>cacheParameterDistance</key>
+	<string>boxParameterTension</string>
+	<key>cubeThroughFlyweight</key>
+	<string>animationBeyondFlyweight</string>
+	<key>lastMasterKind</key>
+	<string>geometricChartEdge</string>
+	<key>layoutSinceDecorator</key>
+	<string>largeMenuAlignment</string>
+	<key>navigationPerJob</key>
+	<string>disabledInteractorSkewy</string>
+	<key>responsiveButtonDirection</key>
+	<string>gridviewWithShape</string>
+	<key>widgetMethodName</key>
+	<string>histogramPerForm</string>
+</dict>
+</plist>

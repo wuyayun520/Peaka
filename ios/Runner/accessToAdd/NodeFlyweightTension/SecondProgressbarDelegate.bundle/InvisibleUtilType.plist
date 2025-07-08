@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAsPlatform</key>
+	<string>commandThroughProxy</string>
+	<key>appbarNearForm</key>
+	<string>previewCycleTheme</string>
+	<key>curveContainVar</key>
+	<string>utilStyleResponse</string>
+	<key>normalPreviewContrast</key>
+	<string>spineChainSaturation</string>
+	<key>sharedReductionInteraction</key>
+	<string>gridviewParameterLeft</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorProcessStyle</key>
+	<string>textBufferSaturation</string>
+	<key>independentFutureAcceleration</key>
+	<string>cubitProxyMargin</string>
+	<key>kernelStyleVelocity</key>
+	<string>hashWithoutType</string>
+	<key>mobxVarFlags</key>
+	<string>mobileBufferFrequency</string>
+	<key>navigationShapeCenter</key>
+	<string>declarativeTableDistance</string>
+	<key>progressbarSystemRotation</key>
+	<string>subpixelModeBehavior</string>
+	<key>radiusDuringBridge</key>
+	<string>intuitiveCustompaintContrast</string>
+	<key>sceneCycleSkewx</key>
+	<string>streamLikeStage</string>
+	<key>textfieldInParameter</key>
+	<string>modulusWithoutJob</string>
+</dict>
+</plist>

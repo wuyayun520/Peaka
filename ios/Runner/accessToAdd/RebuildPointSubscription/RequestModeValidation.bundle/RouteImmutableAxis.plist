@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorObserverVisibility</key>
+	<string>cellFlyweightSpeed</string>
+	<key>eagerReducerIndex</key>
+	<string>difficultTextScale</string>
+	<key>extensionFrameworkDuration</key>
+	<string>disabledPopupFeedback</string>
+	<key>granularFutureMode</key>
+	<string>routeDuringTier</string>
+	<key>histogramContainFacade</key>
+	<string>fixedSignOrigin</string>
+	<key>labelThroughVisitor</key>
+	<string>baseFlyweightSpeed</string>
+	<key>parallelBatchFeedback</key>
+	<string>viewValueTop</string>
+	<key>stateSingletonInteraction</key>
+	<string>nativeWidgetMode</string>
+</dict>
+</plist>

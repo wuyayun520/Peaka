@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveContainerRight</key>
+	<string>layoutContextCenter</string>
+	<key>fusedTechniqueIndex</key>
+	<string>navigatorAwaySingleton</string>
+	<key>groupCommandStyle</key>
+	<string>webViewTag</string>
+	<key>missedDependencyType</key>
+	<string>decorationStrategyDirection</string>
+	<key>opaqueProgressbarVisibility</key>
+	<string>signAboutParameter</string>
+	<key>priorityVarVisibility</key>
+	<string>utilPrototypeAlignment</string>
+	<key>relationalTitleTheme</key>
+	<string>concurrentLogarithmColor</string>
+</dict>
+</plist>

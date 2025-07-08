@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterCycleFlags</key>
+	<string>zoneActivityStyle</string>
+	<key>cubitThroughParameter</key>
+	<string>exceptionInterpreterResponse</string>
+	<key>gestureViaPattern</key>
+	<string>offsetForFacade</string>
+	<key>histogramActivityContrast</key>
+	<string>assetNearOperation</string>
+	<key>localizationFacadeDuration</key>
+	<string>cubeStructureCoord</string>
+	<key>similarFactoryTheme</key>
+	<string>unsortedObserverCount</string>
+	<key>threadCycleLeft</key>
+	<string>popupOrForm</string>
+	<key>vectorWithType</key>
+	<string>contractionPatternTransparency</string>
+	<key>viewObserverBorder</key>
+	<string>constraintPrototypeAcceleration</string>
+	<key>widgetObserverPosition</key>
+	<string>stateSinceVisitor</string>
+</dict>
+</plist>

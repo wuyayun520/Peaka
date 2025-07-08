@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledContractionScale</key>
+	<string>storyboardThroughFlyweight</string>
+	<key>exponentAgainstPattern</key>
+	<string>imageAwayPrototype</string>
+	<key>logAmongPrototype</key>
+	<string>statefulObserverType</string>
+	<key>responseParamIndex</key>
+	<string>channelsAndAdapter</string>
+</dict>
+</plist>

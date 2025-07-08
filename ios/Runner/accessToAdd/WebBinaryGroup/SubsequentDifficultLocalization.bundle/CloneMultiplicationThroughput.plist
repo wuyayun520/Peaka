@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationAsEnvironment</key>
+	<string>singleTransitionRight</string>
+	<key>extensionOrType</key>
+	<string>tangentTypeInset</string>
+	<key>finalRowOrigin</key>
+	<string>resourceAdapterLocation</string>
+	<key>lastFeatureTransparency</key>
+	<string>mutableMissionDepth</string>
+	<key>sampleNumberScale</key>
+	<string>adaptiveColumnTransparency</string>
+	<key>tappablePriorityPressure</key>
+	<string>sequentialMultiplicationPosition</string>
+</dict>
+</plist>

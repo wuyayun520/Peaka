@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionInjectionFlags</key>
+	<string>smallDescriptionName</string>
+	<key>composableResourceFormat</key>
+	<string>paddingModeName</string>
+	<key>sharedTextureMargin</key>
+	<string>textWithTask</string>
+</dict>
+</plist>

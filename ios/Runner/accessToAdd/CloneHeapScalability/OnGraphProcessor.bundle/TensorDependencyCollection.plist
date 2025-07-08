@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAndOperation</key>
+	<string>nodeJobBound</string>
+	<key>callbackAndPlatform</key>
+	<string>functionalHashValidation</string>
+	<key>standaloneRadiusBorder</key>
+	<string>lazyAlignmentLeft</string>
+	<key>tabviewValueContrast</key>
+	<string>awaitAndPattern</string>
+	<key>themePhaseResponse</key>
+	<string>semanticsFunctionKind</string>
+	<key>variantFunctionPosition</key>
+	<string>kernelProcessDelay</string>
+</dict>
+</plist>

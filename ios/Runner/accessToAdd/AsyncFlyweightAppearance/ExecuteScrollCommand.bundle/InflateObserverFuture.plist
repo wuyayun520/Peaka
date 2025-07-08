@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientIncludeDecorator</key>
+	<string>referenceExceptPhase</string>
+	<key>movementIncludeAction</key>
+	<string>flexibleLossFeedback</string>
+	<key>normalIconLocation</key>
+	<string>movementAroundStrategy</string>
+	<key>pinchableTweenAcceleration</key>
+	<string>geometricPaddingPosition</string>
+	<key>resizableResolverType</key>
+	<string>animationOrTemple</string>
+	<key>retainedRouteKind</key>
+	<string>particleBesideLevel</string>
+	<key>significantConstraintMomentum</key>
+	<string>materialProgressbarTail</string>
+	<key>sizeOrCommand</key>
+	<string>chapterMethodShape</string>
+</dict>
+</plist>

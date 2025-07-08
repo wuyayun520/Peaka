@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleStyleSaturation</key>
+	<string>scaleStrategyRight</string>
+	<key>elasticNavigatorVisible</key>
+	<string>activeTextfieldBound</string>
+	<key>largeGesturedetectorSpacing</key>
+	<string>accordionLayoutOrientation</string>
+	<key>protectedGesturedetectorDensity</key>
+	<string>momentumByPlatform</string>
+</dict>
+</plist>

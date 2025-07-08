@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDialogsSpacing</key>
+	<string>subpixelWithPlatform</string>
+	<key>disparateSpriteRotation</key>
+	<string>criticalScalePosition</string>
+	<key>nibPerScope</key>
+	<string>sinkDuringTask</string>
+	<key>opaqueAsyncInterval</key>
+	<string>modelDuringCycle</string>
+	<key>pinchableManagerAcceleration</key>
+	<string>resourceInAction</string>
+	<key>reductionCompositeShade</key>
+	<string>threadOrJob</string>
+	<key>seamlessSizeTag</key>
+	<string>painterDuringSystem</string>
+</dict>
+</plist>

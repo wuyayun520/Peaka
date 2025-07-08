@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxStrategyShape</key>
+	<string>loopAtScope</string>
+	<key>factoryVarAlignment</key>
+	<string>concreteButtonDistance</string>
+	<key>mobileTaskFlags</key>
+	<string>dynamicResourceDensity</string>
+	<key>monsterOrComposite</key>
+	<string>interfaceAtState</string>
+	<key>progressbarAsNumber</key>
+	<string>chartStateOrientation</string>
+	<key>reactiveFactoryRight</key>
+	<string>frameByMethod</string>
+	<key>reactiveWorkflowTop</key>
+	<string>currentAspectForce</string>
+	<key>scaleProxyOffset</key>
+	<string>webSinkDistance</string>
+	<key>scrollSystemRotation</key>
+	<string>mobileInsidePrototype</string>
+	<key>standaloneSpotVelocity</key>
+	<string>controllerThanContext</string>
+</dict>
+</plist>

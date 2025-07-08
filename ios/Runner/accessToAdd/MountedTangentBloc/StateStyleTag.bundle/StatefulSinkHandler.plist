@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationExceptParameter</key>
+	<string>stateAdapterMargin</string>
+	<key>apertureTaskFeedback</key>
+	<string>autoGridEdge</string>
+	<key>bulletLevelHue</key>
+	<string>immediatePlaybackDelay</string>
+	<key>explicitProviderBehavior</key>
+	<string>significantScaleOpacity</string>
+	<key>notificationBesideFlyweight</key>
+	<string>reducerFromStructure</string>
+	<key>respectiveConstraintOrigin</key>
+	<string>euclideanMediaqueryBottom</string>
+	<key>tappableEquipmentDepth</key>
+	<string>gemDecoratorOffset</string>
+	<key>taskDespiteCycle</key>
+	<string>methodAwayContext</string>
+	<key>titlePatternCenter</key>
+	<string>sensorFunctionBound</string>
+</dict>
+</plist>

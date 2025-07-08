@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartObserverState</key>
+	<string>cycleContainFlyweight</string>
+	<key>curveDuringWork</key>
+	<string>eagerKernelDuration</string>
+	<key>methodSystemBorder</key>
+	<string>secondMemberMomentum</string>
+	<key>routeCycleSpacing</key>
+	<string>geometricSingletonPosition</string>
+</dict>
+</plist>

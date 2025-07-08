@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultBufferMode</key>
+	<string>flexibleGradientTint</string>
+	<key>grayscaleCompositeHead</key>
+	<string>tableCommandAppearance</string>
+	<key>imperativeInterfaceName</key>
+	<string>boxOutsidePlatform</string>
+	<key>liteStackPosition</key>
+	<string>keyLocalizationScale</string>
+	<key>mediaOrBridge</key>
+	<string>methodLikeChain</string>
+	<key>positionVersusMode</key>
+	<string>commandNumberTheme</string>
+	<key>storageAndMethod</key>
+	<string>resourceSingletonPosition</string>
+	<key>visibleProviderSpacing</key>
+	<string>viewNearStrategy</string>
+</dict>
+</plist>

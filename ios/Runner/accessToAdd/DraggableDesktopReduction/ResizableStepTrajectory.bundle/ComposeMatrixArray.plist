@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBesideState</key>
+	<string>particleForTier</string>
+	<key>constraintLikeParameter</key>
+	<string>alertPerPlatform</string>
+	<key>inactiveNodePressure</key>
+	<string>materialJobPosition</string>
+	<key>matrixStageRotation</key>
+	<string>radioDuringBuffer</string>
+	<key>sliderMediatorMargin</key>
+	<string>relationalSubpixelTail</string>
+	<key>spriteDespiteMode</key>
+	<string>binaryAndTask</string>
+	<key>timerNearAdapter</key>
+	<string>animationUntilWork</string>
+</dict>
+</plist>

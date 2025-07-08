@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeLabelDensity</key>
+	<string>tensorDependencyShape</string>
+	<key>dependencyBufferStyle</key>
+	<string>petAgainstFramework</string>
+	<key>discardedAllocatorPressure</key>
+	<string>rowJobFormat</string>
+	<key>ephemeralCommandMargin</key>
+	<string>profileLayerFrequency</string>
+	<key>signatureDecoratorTheme</key>
+	<string>lazyUtilAppearance</string>
+	<key>textViaParameter</key>
+	<string>tabbarScopeShade</string>
+</dict>
+</plist>

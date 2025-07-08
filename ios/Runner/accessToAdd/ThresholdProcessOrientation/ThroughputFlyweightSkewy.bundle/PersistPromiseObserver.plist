@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableSceneAppearance</key>
+	<string>parallelAsyncSkewy</string>
+	<key>mapNearMethod</key>
+	<string>consumerOfActivity</string>
+	<key>scaleKindAlignment</key>
+	<string>advancedResultBound</string>
+	<key>temporaryParticleInterval</key>
+	<string>difficultControllerTop</string>
+	<key>transformerNearStrategy</key>
+	<string>statelessMethodMode</string>
+</dict>
+</plist>

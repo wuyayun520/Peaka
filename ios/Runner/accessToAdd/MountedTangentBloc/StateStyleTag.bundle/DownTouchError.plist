@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisAwayParam</key>
+	<string>sharedChapterRight</string>
+	<key>challengeActionFormat</key>
+	<string>subpixelFlyweightKind</string>
+	<key>grayscaleIncludeSystem</key>
+	<string>canvasDecoratorStatus</string>
+	<key>inactiveObserverDistance</key>
+	<string>synchronousMasterSpeed</string>
+	<key>spriteIncludeParameter</key>
+	<string>compositionalAlignmentTheme</string>
+	<key>usecaseAtScope</key>
+	<string>previewBridgeSize</string>
+</dict>
+</plist>

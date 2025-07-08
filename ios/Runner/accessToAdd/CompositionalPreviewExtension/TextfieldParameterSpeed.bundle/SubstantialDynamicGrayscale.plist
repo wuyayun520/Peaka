@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxOutsideMemento</key>
+	<string>activeMemberDuration</string>
+	<key>explicitTabviewAlignment</key>
+	<string>unactivatedDelegatePosition</string>
+	<key>offsetPatternKind</key>
+	<string>variantFromObserver</string>
+	<key>referenceAgainstAction</key>
+	<string>variantValueTheme</string>
+	<key>subtleGraphicFormat</key>
+	<string>borderAgainstBridge</string>
+	<key>variantVarFlags</key>
+	<string>skirtMediatorFormat</string>
+</dict>
+</plist>

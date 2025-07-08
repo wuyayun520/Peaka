@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateCommandDepth</key>
+	<string>explicitFutureStyle</string>
+	<key>commonAllocatorResponse</key>
+	<string>composableNormBrightness</string>
+	<key>diffableReferenceStyle</key>
+	<string>queueAboutFacade</string>
+	<key>futureIncludeMethod</key>
+	<string>cubitNearPattern</string>
+	<key>logUntilSingleton</key>
+	<string>stampMethodFeedback</string>
+	<key>subpixelTaskTension</key>
+	<string>intensityBufferInset</string>
+</dict>
+</plist>

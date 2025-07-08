@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerSinceStrategy</key>
+	<string>textPhaseDelay</string>
+	<key>delicateCompleterInset</key>
+	<string>accordionEntityRotation</string>
+	<key>ephemeralRouteOpacity</key>
+	<string>buttonKindIndex</string>
+	<key>subtleVectorPosition</key>
+	<string>eagerDelegateLocation</string>
+	<key>timerWithoutAction</key>
+	<string>crudeLabelOrigin</string>
+	<key>titleSystemRate</key>
+	<string>smallInterfaceCenter</string>
+</dict>
+</plist>

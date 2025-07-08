@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTitleOffset</key>
+	<string>resourceSystemOrientation</string>
+	<key>capacitiesObserverOffset</key>
+	<string>staticChapterScale</string>
+	<key>draggableCubitShape</key>
+	<string>completerMementoVisible</string>
+	<key>intermediatePainterTag</key>
+	<string>missedProgressbarAcceleration</string>
+	<key>methodCompositePosition</key>
+	<string>hierarchicalResourceName</string>
+	<key>repositoryViaChain</key>
+	<string>nibShapeLeft</string>
+	<key>sizedboxIncludeWork</key>
+	<string>dropdownbuttonActivityForce</string>
+</dict>
+</plist>

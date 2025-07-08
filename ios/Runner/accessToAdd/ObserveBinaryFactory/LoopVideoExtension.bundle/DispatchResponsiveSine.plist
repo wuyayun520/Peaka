@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerCompositeTint</key>
+	<string>draggableResponseCenter</string>
+	<key>customizedFlexAcceleration</key>
+	<string>particleOutsideCommand</string>
+	<key>errorKindForce</key>
+	<string>cubitMethodTint</string>
+	<key>layoutAndDecorator</key>
+	<string>easyToolCenter</string>
+	<key>multiAsyncBottom</key>
+	<string>progressbarThroughJob</string>
+	<key>utilKindDelay</key>
+	<string>cycleDecoratorOrientation</string>
+	<key>workflowDespiteInterpreter</key>
+	<string>textParameterPressure</string>
+</dict>
+</plist>

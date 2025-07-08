@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintWithoutChain</key>
+	<string>controllerMediatorTheme</string>
+	<key>containerThanPattern</key>
+	<string>criticalDialogsInset</string>
+	<key>imperativeTextOrigin</key>
+	<string>signTierBrightness</string>
+	<key>operationAdapterOpacity</key>
+	<string>sineAsLayer</string>
+	<key>storageAboutMemento</key>
+	<string>relationalRemainderFeedback</string>
+</dict>
+</plist>

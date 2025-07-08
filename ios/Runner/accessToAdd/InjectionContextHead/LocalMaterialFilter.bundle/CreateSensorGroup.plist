@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchThroughShape</key>
+	<string>vectorFromAdapter</string>
+	<key>controllerLayerVisibility</key>
+	<string>granularMenuBorder</string>
+	<key>diversifiedNavigatorCount</key>
+	<string>localizationProxyPressure</string>
+	<key>keyProviderOrientation</key>
+	<string>segueFlyweightOpacity</string>
+	<key>queryBeyondChain</key>
+	<string>queryCycleTop</string>
+</dict>
+</plist>

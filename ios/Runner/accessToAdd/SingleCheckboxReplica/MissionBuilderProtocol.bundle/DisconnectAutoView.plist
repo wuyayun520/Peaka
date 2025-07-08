@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationParameterTail</key>
+	<string>streamOrAction</string>
+	<key>declarativeSegueDuration</key>
+	<string>parallelMobxDuration</string>
+	<key>densePriorityMode</key>
+	<string>painterPatternVisible</string>
+	<key>injectionUntilPrototype</key>
+	<string>widgetCompositeBehavior</string>
+	<key>nodeIncludeContext</key>
+	<string>constGesturedetectorSpeed</string>
+	<key>pageviewFunctionRate</key>
+	<string>diffableShaderOrientation</string>
+	<key>routerAdapterMode</key>
+	<string>textureStrategyBrightness</string>
+	<key>sophisticatedInterfaceTransparency</key>
+	<string>monsterInSystem</string>
+	<key>usedMetadataEdge</key>
+	<string>baselineVersusPhase</string>
+</dict>
+</plist>

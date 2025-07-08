@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesByEnvironment</key>
+	<string>adaptiveGraphTop</string>
+	<key>frameVarDensity</key>
+	<string>resizableSignBottom</string>
+	<key>intensityProcessMargin</key>
+	<string>originalContainerFormat</string>
+	<key>nibStyleLocation</key>
+	<string>cupertinoRoleVisible</string>
+	<key>routeAndPattern</key>
+	<string>cupertinoResourceIndex</string>
+	<key>taskPatternHue</key>
+	<string>navigatorBridgeLeft</string>
+	<key>uniqueSubscriptionColor</key>
+	<string>animationLayerTint</string>
+</dict>
+</plist>

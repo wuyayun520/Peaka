@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionContainProxy</key>
+	<string>explicitPrecisionLocation</string>
+	<key>interactiveDescriptionDirection</key>
+	<string>normalListviewSpeed</string>
+	<key>keyRiverpodForce</key>
+	<string>positionedWorkBehavior</string>
+	<key>momentumIncludeFlyweight</key>
+	<string>numericalSpotType</string>
+	<key>repositoryIncludeStructure</key>
+	<string>protectedStatelessLocation</string>
+</dict>
+</plist>

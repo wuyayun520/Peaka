@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitVisitorPadding</key>
+	<string>eventDuringMethod</string>
+	<key>directProgressbarDistance</key>
+	<string>semanticsAboutOperation</string>
+	<key>effectOfFlyweight</key>
+	<string>sceneOfBuffer</string>
+	<key>giftIncludeSingleton</key>
+	<string>navigatorCommandPadding</string>
+	<key>interactorActivityMode</key>
+	<string>parallelTabviewState</string>
+	<key>mainFutureSpacing</key>
+	<string>resolverAlongInterpreter</string>
+	<key>robustSinkScale</key>
+	<string>tickerBesideVisitor</string>
+	<key>widgetOrDecorator</key>
+	<string>asyncResolverShade</string>
+</dict>
+</plist>

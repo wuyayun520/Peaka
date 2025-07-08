@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOutsidePrototype</key>
+	<string>bufferThroughLevel</string>
+	<key>constraintFromSystem</key>
+	<string>eagerIndicatorName</string>
+	<key>durationFlyweightFeedback</key>
+	<string>mainCurveTint</string>
+	<key>featureObserverRight</key>
+	<string>bitratePatternKind</string>
+	<key>grainProcessStatus</key>
+	<string>globalMethodOrigin</string>
+	<key>requiredStatefulStatus</key>
+	<string>factoryActionPadding</string>
+	<key>resolverVersusDecorator</key>
+	<string>controllerStyleBottom</string>
+	<key>scrollableActivityTag</key>
+	<string>stateTaskDelay</string>
+</dict>
+</plist>

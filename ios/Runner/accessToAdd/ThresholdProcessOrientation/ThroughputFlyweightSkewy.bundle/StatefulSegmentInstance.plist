@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerLayerTheme</key>
+	<string>grayscaleAlongParam</string>
+	<key>delicateTextfieldPadding</key>
+	<string>decorationCompositeShape</string>
+	<key>factoryFormSpacing</key>
+	<string>blocOrSystem</string>
+	<key>factoryWithoutVar</key>
+	<string>actionContainFunction</string>
+	<key>logarithmIncludeScope</key>
+	<string>shaderContainMode</string>
+	<key>nextWidgetShade</key>
+	<string>smartImageBehavior</string>
+	<key>sizedboxActivitySpeed</key>
+	<string>metadataMementoBorder</string>
+	<key>ternaryPlatformTransparency</key>
+	<string>methodTierMargin</string>
+</dict>
+</plist>

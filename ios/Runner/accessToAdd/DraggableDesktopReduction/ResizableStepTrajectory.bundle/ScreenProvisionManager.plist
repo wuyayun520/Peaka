@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeConstraintFormat</key>
+	<string>prevTransitionCoord</string>
+	<key>dynamicChartKind</key>
+	<string>layoutAdapterSkewy</string>
+	<key>enabledMetadataStyle</key>
+	<string>reductionChainOffset</string>
+	<key>iterativeSymbolSkewx</key>
+	<string>logVariableShade</string>
+	<key>lostSpriteDuration</key>
+	<string>stampAgainstBuffer</string>
+	<key>routeActionBottom</key>
+	<string>decorationContainScope</string>
+	<key>sophisticatedConfigurationState</key>
+	<string>awaitAdapterVisible</string>
+	<key>spotAroundPlatform</key>
+	<string>delicateHandlerFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureBeyondActivity</key>
+	<string>ephemeralNotifierPressure</string>
+	<key>controllerDuringActivity</key>
+	<string>activatedOverlayTail</string>
+	<key>descriptionVisitorBrightness</key>
+	<string>smartCompositionFormat</string>
+	<key>disparateVariantOpacity</key>
+	<string>reducerTaskIndex</string>
+	<key>protectedRouteIndex</key>
+	<string>transitionStateForce</string>
+	<key>sliderOutsideMode</key>
+	<string>routerFlyweightInteraction</string>
+	<key>storyboardInPlatform</key>
+	<string>marginOfPhase</string>
+</dict>
+</plist>

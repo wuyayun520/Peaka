@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledRoleResponse</key>
+	<string>observerStageContrast</string>
+	<key>euclideanTitleType</key>
+	<string>routeSingletonContrast</string>
+	<key>layoutOperationContrast</key>
+	<string>pinchableParticleSize</string>
+	<key>mobileCanvasState</key>
+	<string>delegateContextOpacity</string>
+	<key>petInterpreterSaturation</key>
+	<string>stepFacadeSpeed</string>
+	<key>rowPrototypeFeedback</key>
+	<string>tensorProgressbarFrequency</string>
+	<key>seamlessUsecaseOrientation</key>
+	<string>presenterAmongEnvironment</string>
+	<key>specifyHashCount</key>
+	<string>finalTitleHue</string>
+	<key>titleAgainstTask</key>
+	<string>positionedForEnvironment</string>
+</dict>
+</plist>

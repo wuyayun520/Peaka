@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetPatternValidation</key>
+	<string>assetFrameworkScale</string>
+	<key>draggableVariantLeft</key>
+	<string>sliderOfPhase</string>
+	<key>kernelAsContext</key>
+	<string>cubitLikeFramework</string>
+	<key>multiGraphBottom</key>
+	<string>gridPhasePosition</string>
+	<key>nativeEffectPosition</key>
+	<string>canvasAwayChain</string>
+	<key>switchPatternDuration</key>
+	<string>textureDespiteMediator</string>
+</dict>
+</plist>

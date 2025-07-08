@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationShapeStatus</key>
+	<string>independentSubscriptionDistance</string>
+	<key>enabledCommandSpeed</key>
+	<string>statefulEffectState</string>
+	<key>invisibleDrawerSkewy</key>
+	<string>toolContainPhase</string>
+	<key>optionStateTheme</key>
+	<string>inheritedContainerAlignment</string>
+	<key>rowFacadeTheme</key>
+	<string>resourceFlyweightOpacity</string>
+	<key>sceneSinceVariable</key>
+	<string>constraintInChain</string>
+	<key>techniqueBeyondTask</key>
+	<string>listviewActivityDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelBufferStatus</key>
+	<string>decorationProcessPressure</string>
+	<key>crudeViewInset</key>
+	<string>containerPlatformRotation</string>
+	<key>denseNavigatorBrightness</key>
+	<string>sinkPerSystem</string>
+	<key>masterThroughValue</key>
+	<string>eventDuringFlyweight</string>
+	<key>positionDuringDecorator</key>
+	<string>compositionAlongChain</string>
+	<key>responsiveHandlerVelocity</key>
+	<string>hierarchicalModalResponse</string>
+	<key>stepBeyondValue</key>
+	<string>screenDespiteMethod</string>
+</dict>
+</plist>

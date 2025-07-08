@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonUntilStructure</key>
+	<string>interfaceSincePattern</string>
+	<key>concurrentMasterOrigin</key>
+	<string>explicitPaddingInterval</string>
+	<key>localizationOutsideFramework</key>
+	<string>frameViaKind</string>
+	<key>popupAtSingleton</key>
+	<string>resizableLoopCount</string>
+	<key>providerVisitorFeedback</key>
+	<string>channelsStyleFlags</string>
+	<key>spriteTierColor</key>
+	<string>cubitDuringMediator</string>
+	<key>tabviewPatternState</key>
+	<string>captionStageTheme</string>
+	<key>temporaryChannelInterval</key>
+	<string>disabledSymbolInteraction</string>
+	<key>titleByAction</key>
+	<string>imperativeSpriteSize</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleMediaRight</key>
+	<string>reusableProviderMargin</string>
+	<key>mediaqueryContextTop</key>
+	<string>rowMethodEdge</string>
+	<key>oldQuerySpeed</key>
+	<string>taskAlongObserver</string>
+	<key>progressbarBufferDelay</key>
+	<string>grainBufferTail</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStrategyTag</key>
+	<string>reusableVectorLeft</string>
+	<key>assetPrototypeSkewx</key>
+	<string>transitionViaAction</string>
+	<key>blocThroughObserver</key>
+	<string>missedUsageType</string>
+	<key>completionScopeShade</key>
+	<string>deferredResourceOrientation</string>
+	<key>constMobileColor</key>
+	<string>taskChainName</string>
+	<key>extensionMediatorScale</key>
+	<string>graphPlatformHue</string>
+	<key>hardReducerShade</key>
+	<string>aspectSinceScope</string>
+	<key>interfaceStyleOrientation</key>
+	<string>completerInterpreterOpacity</string>
+	<key>pinchableHistogramState</key>
+	<string>histogramOrPrototype</string>
+	<key>precisionLayerOpacity</key>
+	<string>hyperbolicNavigatorRotation</string>
+</dict>
+</plist>

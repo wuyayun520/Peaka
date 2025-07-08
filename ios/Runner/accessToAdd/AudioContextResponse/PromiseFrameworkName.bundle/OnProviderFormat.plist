@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedConsumerTint</key>
+	<string>mobileAroundProcess</string>
+	<key>gestureExceptDecorator</key>
+	<string>previewProcessTransparency</string>
+	<key>granularRowPosition</key>
+	<string>spriteValueOrigin</string>
+	<key>layerInterpreterCount</key>
+	<string>basicSymbolOrigin</string>
+	<key>positionLikeSingleton</key>
+	<string>completerNearEnvironment</string>
+</dict>
+</plist>

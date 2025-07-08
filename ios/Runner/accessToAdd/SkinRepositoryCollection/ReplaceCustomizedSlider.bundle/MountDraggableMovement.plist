@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushActivityAcceleration</key>
+	<string>inheritedMultiplicationKind</string>
+	<key>chartContainParam</key>
+	<string>ephemeralNotifierCoord</string>
+	<key>frameOperationValidation</key>
+	<string>dynamicModelIndex</string>
+	<key>gridPerStage</key>
+	<string>progressbarTierFlags</string>
+	<key>mainStampHead</key>
+	<string>persistentClipperCenter</string>
+</dict>
+</plist>

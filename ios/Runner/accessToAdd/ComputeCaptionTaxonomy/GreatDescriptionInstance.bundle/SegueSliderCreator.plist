@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitObserverCenter</key>
+	<string>newestVectorInteraction</string>
+	<key>customPositionFrequency</key>
+	<string>missionDuringTemple</string>
+	<key>customStorageBehavior</key>
+	<string>presenterPrototypeAcceleration</string>
+	<key>mediumCellVisibility</key>
+	<string>liteEntityStyle</string>
+	<key>normalTitleVisible</key>
+	<string>ignoredTitleOffset</string>
+	<key>particleNearMemento</key>
+	<string>uniformReferenceAppearance</string>
+	<key>symmetricWidgetFrequency</key>
+	<string>aspectratioInterpreterBound</string>
+</dict>
+</plist>

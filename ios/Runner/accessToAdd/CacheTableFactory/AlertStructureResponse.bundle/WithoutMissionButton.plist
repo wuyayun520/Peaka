@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderWorkVisibility</key>
+	<string>immediateRoleVisible</string>
+	<key>buttonIncludeStructure</key>
+	<string>normActionVelocity</string>
+	<key>invisibleCupertinoTransparency</key>
+	<string>callbackForParameter</string>
+	<key>segmentThanFunction</key>
+	<string>configurationIncludeComposite</string>
+</dict>
+</plist>

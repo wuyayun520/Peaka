@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationShapeTail</key>
+	<string>resilientSingletonDensity</string>
+	<key>containerBridgeMode</key>
+	<string>controllerAmongBuffer</string>
+	<key>flexibleMenuDistance</key>
+	<string>dynamicMenuMode</string>
+	<key>immediateFlexCount</key>
+	<string>statefulRectDuration</string>
+	<key>persistentErrorVisibility</key>
+	<string>commonAnimationForce</string>
+	<key>persistentNodeHue</key>
+	<string>batchCycleShape</string>
+	<key>progressbarAwayType</key>
+	<string>eventActionOpacity</string>
+	<key>radioOutsidePhase</key>
+	<string>popupFrameworkCount</string>
+	<key>sliderAwayForm</key>
+	<string>chartChainValidation</string>
+	<key>subtleBatchForce</key>
+	<string>semanticNavigatorSpeed</string>
+</dict>
+</plist>

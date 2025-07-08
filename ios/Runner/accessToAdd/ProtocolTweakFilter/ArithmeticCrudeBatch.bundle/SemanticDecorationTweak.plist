@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocModeBottom</key>
+	<string>presenterByInterpreter</string>
+	<key>imageMediatorDelay</key>
+	<string>momentumModeCoord</string>
+	<key>immutableSensorVelocity</key>
+	<string>loopFunctionOrigin</string>
+	<key>interactorAsTask</key>
+	<string>constManagerBound</string>
+	<key>profileMediatorScale</key>
+	<string>alignmentContainCommand</string>
+	<key>protectedNibBehavior</key>
+	<string>unactivatedClipperSkewx</string>
+	<key>responsiveAsyncInteraction</key>
+	<string>seamlessTechniqueInteraction</string>
+</dict>
+</plist>

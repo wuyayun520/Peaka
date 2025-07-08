@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAlignmentTension</key>
+	<string>allocatorVersusFlyweight</string>
+	<key>arithmeticCubitRight</key>
+	<string>constraintOrSingleton</string>
+	<key>errorCyclePressure</key>
+	<string>scrollableUsageTail</string>
+	<key>mobileCompleterFeedback</key>
+	<string>providerFacadeResponse</string>
+	<key>mobileTabbarRight</key>
+	<string>disparateHeapOpacity</string>
+	<key>nativeTableRotation</key>
+	<string>masterActionOrientation</string>
+	<key>specifySizeFeedback</key>
+	<string>immutableDocumentEdge</string>
+</dict>
+</plist>

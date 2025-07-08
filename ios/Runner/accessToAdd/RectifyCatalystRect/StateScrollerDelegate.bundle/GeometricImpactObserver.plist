@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorShapePressure</key>
+	<string>reusableFutureBound</string>
+	<key>columnOfLayer</key>
+	<string>interactorBufferInset</string>
+	<key>durationAlongObserver</key>
+	<string>resilientScrollName</string>
+	<key>instructionFrameworkMode</key>
+	<string>statelessTransitionDepth</string>
+	<key>uniformCollectionCenter</key>
+	<string>nibWithoutPattern</string>
+</dict>
+</plist>

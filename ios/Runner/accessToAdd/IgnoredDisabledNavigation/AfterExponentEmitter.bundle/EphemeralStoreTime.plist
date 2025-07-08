@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationWithoutInterpreter</key>
+	<string>widgetStateSpeed</string>
+	<key>compositionalDescriptorLocation</key>
+	<string>lastStackVelocity</string>
+	<key>cursorForVisitor</key>
+	<string>activeTopicDepth</string>
+	<key>errorLikeBridge</key>
+	<string>alertIncludeTier</string>
+	<key>interactorInterpreterOffset</key>
+	<string>imageAlongFunction</string>
+	<key>materialCapacitiesInterval</key>
+	<string>frameExceptLayer</string>
+</dict>
+</plist>

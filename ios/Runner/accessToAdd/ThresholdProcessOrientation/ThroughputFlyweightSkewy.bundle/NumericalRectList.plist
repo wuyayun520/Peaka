@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCyclePressure</key>
+	<string>unsortedNodeIndex</string>
+	<key>builderAroundStage</key>
+	<string>requestThroughCycle</string>
+	<key>futureScopeBrightness</key>
+	<string>particleContextName</string>
+	<key>serviceContextAppearance</key>
+	<string>storyboardScopeValidation</string>
+	<key>sinkStageAcceleration</key>
+	<string>notificationPatternCenter</string>
+</dict>
+</plist>

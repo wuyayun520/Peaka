@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateWithType</key>
+	<string>containerPlatformFlags</string>
+	<key>checkboxPlatformInteraction</key>
+	<string>sceneDecoratorResponse</string>
+	<key>cupertinoUtilName</key>
+	<string>capacitiesLikePrototype</string>
+	<key>cursorProcessTheme</key>
+	<string>diversifiedChecklistMode</string>
+	<key>entityNumberOpacity</key>
+	<string>flexibleTitleDuration</string>
+	<key>fragmentDecoratorTheme</key>
+	<string>singleNavigatorRotation</string>
+	<key>injectionInterpreterTail</key>
+	<string>stepWithoutSingleton</string>
+	<key>mainViewRotation</key>
+	<string>constHistogramLeft</string>
+	<key>publicErrorHue</key>
+	<string>primarySizeScale</string>
+	<key>radioAtPrototype</key>
+	<string>custompaintEnvironmentDirection</string>
+</dict>
+</plist>

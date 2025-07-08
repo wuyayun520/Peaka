@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveManagerShade</key>
+	<string>cubitDecoratorRight</string>
+	<key>advancedAnchorMode</key>
+	<string>characterLayerIndex</string>
+	<key>discardedIsolateFeedback</key>
+	<string>storageDuringVar</string>
+	<key>exceptionMediatorBrightness</key>
+	<string>semanticScaffoldInteraction</string>
+	<key>iconAtOperation</key>
+	<string>sequentialBorderShade</string>
+	<key>lostGridRate</key>
+	<string>temporaryButtonContrast</string>
+	<key>querySingletonBrightness</key>
+	<string>durationWithoutLayer</string>
+	<key>serviceContextEdge</key>
+	<string>usageByShape</string>
+	<key>typicalCommandDirection</key>
+	<string>inheritedInteractorSpacing</string>
+</dict>
+</plist>

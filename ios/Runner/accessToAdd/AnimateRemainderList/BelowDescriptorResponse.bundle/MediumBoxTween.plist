@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedIndicatorSkewy</key>
+	<string>uniqueBaselineTension</string>
+	<key>enabledPreviewRight</key>
+	<string>interactorThroughEnvironment</string>
+	<key>fixedConstraintAppearance</key>
+	<string>anchorStructureTransparency</string>
+	<key>gridviewEnvironmentVisibility</key>
+	<string>axisThroughPrototype</string>
+	<key>largeColumnName</key>
+	<string>usedIntegerSpacing</string>
+	<key>lostShaderVisible</key>
+	<string>containerVariablePosition</string>
+	<key>sessionCycleTheme</key>
+	<string>utilEnvironmentName</string>
+</dict>
+</plist>

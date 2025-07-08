@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationContextStatus</key>
+	<string>accessibleNodeLocation</string>
+	<key>factoryFacadeFormat</key>
+	<string>mobileByParameter</string>
+	<key>loopMementoStatus</key>
+	<string>finalMenuShade</string>
+	<key>resizableAlertDistance</key>
+	<string>declarativeResolverShade</string>
+	<key>serviceUntilShape</key>
+	<string>prevStackOrigin</string>
+	<key>swiftMethodColor</key>
+	<string>sineTaskVisibility</string>
+	<key>threadAboutState</key>
+	<string>concurrentAsyncTransparency</string>
+</dict>
+</plist>

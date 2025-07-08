@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentPresenterShade</key>
+	<string>rowBridgeTail</string>
+	<key>discardedSinkResponse</key>
+	<string>eventWithoutEnvironment</string>
+	<key>enabledSegueName</key>
+	<string>taskScopeTail</string>
+	<key>hardTaskType</key>
+	<string>channelAwayStage</string>
+	<key>intuitiveReductionVelocity</key>
+	<string>textLayerOrientation</string>
+	<key>multiMediaTop</key>
+	<string>titleTypeLocation</string>
+	<key>persistentProviderFormat</key>
+	<string>dependencyAsStrategy</string>
+	<key>rectAndActivity</key>
+	<string>symbolLevelPosition</string>
+	<key>skinForVar</key>
+	<string>taskKindName</string>
+	<key>textureIncludeComposite</key>
+	<string>criticalEquipmentBehavior</string>
+</dict>
+</plist>

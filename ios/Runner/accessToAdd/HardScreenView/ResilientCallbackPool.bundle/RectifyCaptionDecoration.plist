@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsNearMediator</key>
+	<string>cupertinoFutureSpeed</string>
+	<key>cursorViaJob</key>
+	<string>inactiveNotificationRotation</string>
+	<key>resilientMediaCenter</key>
+	<string>entityThroughFlyweight</string>
+	<key>resultPerStructure</key>
+	<string>transitionAtVariable</string>
+</dict>
+</plist>

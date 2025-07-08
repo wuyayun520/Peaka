@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferOrStyle</key>
+	<string>draggableHashKind</string>
+	<key>collectionUntilDecorator</key>
+	<string>completionFormTag</string>
+	<key>errorJobDelay</key>
+	<string>mainSemanticsStyle</string>
+	<key>integerInFlyweight</key>
+	<string>protectedAlphaFeedback</string>
+	<key>notificationAboutAdapter</key>
+	<string>ternaryLayerCoord</string>
+	<key>requestStyleDensity</key>
+	<string>tickerMethodDuration</string>
+</dict>
+</plist>

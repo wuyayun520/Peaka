@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchOperationSkewx</key>
+	<string>viewContainVariable</string>
+	<key>cacheCommandInteraction</key>
+	<string>priorSceneInteraction</string>
+	<key>coordinatorOperationAcceleration</key>
+	<string>iconMementoFormat</string>
+	<key>enabledBaselineDirection</key>
+	<string>smartGraphRotation</string>
+	<key>exceptionPlatformColor</key>
+	<string>oldRequestState</string>
+	<key>frameLevelFrequency</key>
+	<string>coordinatorMementoShape</string>
+	<key>missionStateShade</key>
+	<string>subpixelAroundInterpreter</string>
+</dict>
+</plist>

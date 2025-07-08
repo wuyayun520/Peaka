@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncQueueBehavior</key>
+	<string>widgetActionFrequency</string>
+	<key>compositionInScope</key>
+	<string>assetAndMode</string>
+	<key>responseThroughStructure</key>
+	<string>subsequentSignatureDensity</string>
+	<key>subscriptionLayerFlags</key>
+	<string>keyViewPosition</string>
+	<key>topicBufferTheme</key>
+	<string>animatedcontainerFromCommand</string>
+	<key>usedButtonDepth</key>
+	<string>greatGrainBehavior</string>
+</dict>
+</plist>

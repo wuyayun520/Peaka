@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentSinceFlyweight</key>
+	<string>explicitQueryVisibility</string>
+	<key>appbarForAdapter</key>
+	<string>batchInFlyweight</string>
+	<key>arithmeticMethodType</key>
+	<string>roleValueSpacing</string>
+	<key>boxParameterForce</key>
+	<string>singletonMementoIndex</string>
+	<key>completerAboutStructure</key>
+	<string>spriteStageTransparency</string>
+	<key>descriptionIncludeTier</key>
+	<string>descriptionByVar</string>
+	<key>gemVersusKind</key>
+	<string>reactiveControllerTail</string>
+	<key>invisibleIntensityKind</key>
+	<string>easyStatelessHue</string>
+	<key>optionEnvironmentOrientation</key>
+	<string>queueScopeMomentum</string>
+</dict>
+</plist>

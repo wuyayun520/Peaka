@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSincePattern</key>
+	<string>stateExceptFacade</string>
+	<key>capsuleInsideAdapter</key>
+	<string>vectorForMediator</string>
+	<key>channelAroundScope</key>
+	<string>mediumBorderDensity</string>
+	<key>compositionAroundLayer</key>
+	<string>criticalRouterSize</string>
+	<key>gramThroughVar</key>
+	<string>brushBufferScale</string>
+	<key>interactorOfStrategy</key>
+	<string>mediaqueryDuringKind</string>
+	<key>lostFactoryStatus</key>
+	<string>statefulBeyondBridge</string>
+	<key>opaqueGestureTag</key>
+	<string>bufferDuringStage</string>
+	<key>promisePhaseTail</key>
+	<string>inheritedSpriteInteraction</string>
+	<key>sceneThroughVar</key>
+	<string>agileReductionInteraction</string>
+</dict>
+</plist>

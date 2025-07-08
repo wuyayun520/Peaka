@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveLossValidation</key>
+	<string>curveBeyondStage</string>
+	<key>interfaceTempleValidation</key>
+	<string>otherContainerKind</string>
+	<key>largeAssetTail</key>
+	<string>standaloneMenuDistance</string>
+	<key>mediumCanvasPadding</key>
+	<string>elasticMobileVelocity</string>
+	<key>normalLayerTop</key>
+	<string>missedSpineTop</string>
+	<key>positionJobSaturation</key>
+	<string>rapidMonsterCoord</string>
+	<key>prevConsumerTint</key>
+	<string>providerFrameworkFormat</string>
+	<key>referenceAroundProxy</key>
+	<string>techniqueAmongLevel</string>
+	<key>semanticGroupTension</key>
+	<string>skinKindAppearance</string>
+</dict>
+</plist>

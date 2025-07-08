@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesSingletonFlags</key>
+	<string>missionScopeFrequency</string>
+	<key>concurrentCertificateMargin</key>
+	<string>pointDuringOperation</string>
+	<key>constApertureState</key>
+	<string>declarativeCupertinoLeft</string>
+	<key>declarativeFactoryForce</key>
+	<string>interactorProxyBrightness</string>
+	<key>layoutStateDelay</key>
+	<string>effectChainSpacing</string>
+	<key>scaffoldCompositeAcceleration</key>
+	<string>protocolFromPhase</string>
+	<key>synchronousLabelAlignment</key>
+	<string>logarithmAsVariable</string>
+</dict>
+</plist>

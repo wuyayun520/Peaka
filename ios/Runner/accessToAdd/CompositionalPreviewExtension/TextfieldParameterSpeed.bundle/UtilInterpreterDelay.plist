@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateValueIndex</key>
+	<string>smallAsyncSpeed</string>
+	<key>eagerRectInset</key>
+	<string>completerFrameworkOrigin</string>
+	<key>textfieldParameterSpeed</key>
+	<string>managerStyleMode</string>
+</dict>
+</plist>

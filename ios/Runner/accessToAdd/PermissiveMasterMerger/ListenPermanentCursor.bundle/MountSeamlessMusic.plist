@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDespiteState</key>
+	<string>zoneAgainstPlatform</string>
+	<key>characterWithSystem</key>
+	<string>immutablePositionTransparency</string>
+	<key>coordinatorProxyContrast</key>
+	<string>textPhaseRotation</string>
+	<key>ephemeralUsecaseBrightness</key>
+	<string>nibMementoContrast</string>
+	<key>functionalRichtextStatus</key>
+	<string>mediaBufferRotation</string>
+	<key>sineTaskMargin</key>
+	<string>animationLikeProxy</string>
+	<key>sustainableTabbarBrightness</key>
+	<string>buttonValueDensity</string>
+</dict>
+</plist>

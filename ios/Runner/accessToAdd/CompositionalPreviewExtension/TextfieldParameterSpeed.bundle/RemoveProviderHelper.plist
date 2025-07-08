@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioVersusProcess</key>
+	<string>arithmeticFunctionRate</string>
+	<key>callbackBesideCycle</key>
+	<string>fusedTitleValidation</string>
+	<key>currentContainerCount</key>
+	<string>disabledMetadataSaturation</string>
+	<key>semanticCoordinatorState</key>
+	<string>gestureStyleMode</string>
+</dict>
+</plist>

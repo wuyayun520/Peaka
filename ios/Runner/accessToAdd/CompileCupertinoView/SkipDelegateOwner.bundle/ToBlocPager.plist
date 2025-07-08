@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTabviewTag</key>
+	<string>featureCycleSize</string>
+	<key>crucialFutureColor</key>
+	<string>playbackUntilValue</string>
+	<key>cupertinoStoryboardMode</key>
+	<string>staticCallbackTheme</string>
+	<key>metadataActivityAlignment</key>
+	<string>independentListviewRate</string>
+	<key>segmentPerSingleton</key>
+	<string>interactorPerVar</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSwiftAcceleration</key>
+	<string>smallAwaitSpeed</string>
+	<key>cacheAroundAction</key>
+	<string>awaitParamShade</string>
+	<key>canvasUntilFramework</key>
+	<string>segueVarVisibility</string>
+	<key>eventAwayParameter</key>
+	<string>indicatorShapeSize</string>
+	<key>graphVersusLevel</key>
+	<string>priorityParamContrast</string>
+	<key>instructionAtVisitor</key>
+	<string>routeInterpreterLocation</string>
+	<key>iterativeDelegateHue</key>
+	<string>agileManagerDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerVarShape</key>
+	<string>resilientTweenPadding</string>
+	<key>documentInPattern</key>
+	<string>iterativeSwiftSpacing</string>
+	<key>graphicCommandStyle</key>
+	<string>lostProviderFormat</string>
+	<key>mediaqueryShapeDelay</key>
+	<string>sustainableViewPadding</string>
+	<key>promiseOutsideMode</key>
+	<string>commonGemSpacing</string>
+	<key>staticRadiusBrightness</key>
+	<string>sortedModelHue</string>
+</dict>
+</plist>

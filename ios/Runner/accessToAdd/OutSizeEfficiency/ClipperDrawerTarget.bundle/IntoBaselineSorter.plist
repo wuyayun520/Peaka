@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDescriptorIndex</key>
+	<string>controllerPerState</string>
+	<key>adaptiveBaseFlags</key>
+	<string>rapidCubeRight</string>
+	<key>composableErrorStyle</key>
+	<string>tabviewViaProxy</string>
+	<key>constraintActionVelocity</key>
+	<string>delegateFromProcess</string>
+	<key>discardedActivityName</key>
+	<string>histogramWithoutTier</string>
+	<key>handlerInFunction</key>
+	<string>notificationAmongChain</string>
+	<key>materialAnimationBehavior</key>
+	<string>titleWorkRight</string>
+	<key>roleVersusNumber</key>
+	<string>coordinatorFacadeName</string>
+	<key>tweenActionDensity</key>
+	<string>optionFrameworkPosition</string>
+</dict>
+</plist>

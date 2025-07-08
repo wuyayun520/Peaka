@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsProxyBehavior</key>
+	<string>previewWithoutEnvironment</string>
+	<key>interfaceBridgeScale</key>
+	<string>sharedQueueOpacity</string>
+	<key>momentumInValue</key>
+	<string>stackThroughShape</string>
+	<key>profileDespiteOperation</key>
+	<string>positionedAdapterTheme</string>
+	<key>sensorAtCycle</key>
+	<string>beginnerProviderValidation</string>
+	<key>transitionAgainstPlatform</key>
+	<string>secondSineMomentum</string>
+</dict>
+</plist>

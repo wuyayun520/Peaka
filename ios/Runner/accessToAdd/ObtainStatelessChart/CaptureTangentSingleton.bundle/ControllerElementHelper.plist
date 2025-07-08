@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenerModeAlignment</key>
+	<string>curveNumberDensity</string>
+	<key>mediocreCanvasFlags</key>
+	<string>scaffoldFromOperation</string>
+	<key>optimizerForShape</key>
+	<string>fusedIsolateBottom</string>
+	<key>profileSinceKind</key>
+	<string>sortedSymbolDepth</string>
+	<key>queueLevelFeedback</key>
+	<string>resultAtParam</string>
+</dict>
+</plist>

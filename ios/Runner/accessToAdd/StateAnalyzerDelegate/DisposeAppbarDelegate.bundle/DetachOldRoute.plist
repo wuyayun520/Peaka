@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStageMode</key>
+	<string>pinchableHistogramBehavior</string>
+	<key>largeFeatureSaturation</key>
+	<string>layerBeyondContext</string>
+	<key>resourceSingletonAcceleration</key>
+	<string>bufferActivityPosition</string>
+	<key>widgetBufferSkewx</key>
+	<string>observerAroundMethod</string>
+</dict>
+</plist>

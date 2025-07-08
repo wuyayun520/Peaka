@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopStoreDepth</key>
+	<string>finalChecklistBehavior</string>
+	<key>intermediateContainerRotation</key>
+	<string>cycleStrategyForce</string>
+	<key>navigatorBesideStrategy</key>
+	<string>iconByPrototype</string>
+	<key>observerAboutStructure</key>
+	<string>rapidProjectionDistance</string>
+	<key>permanentMatrixBehavior</key>
+	<string>skinExceptCycle</string>
+	<key>precisionFunctionBehavior</key>
+	<string>textfieldDecoratorTop</string>
+	<key>substantialEventDelay</key>
+	<string>utilVersusChain</string>
+	<key>unactivatedCanvasSaturation</key>
+	<string>sizePlatformRotation</string>
+</dict>
+</plist>

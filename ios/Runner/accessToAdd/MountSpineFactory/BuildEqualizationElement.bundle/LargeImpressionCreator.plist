@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorSinceVisitor</key>
+	<string>opaqueUnaryCenter</string>
+	<key>disabledUsecaseFormat</key>
+	<string>effectBridgeRight</string>
+	<key>ephemeralNibHue</key>
+	<string>easyIsolateLeft</string>
+	<key>flexWithoutScope</key>
+	<string>previewAgainstFramework</string>
+	<key>greatResponseInteraction</key>
+	<string>durationAgainstPrototype</string>
+	<key>mediaqueryMethodBottom</key>
+	<string>textIncludePrototype</string>
+	<key>routeSincePlatform</key>
+	<string>mediocreCanvasLocation</string>
+	<key>tensorHashMode</key>
+	<string>hashViaEnvironment</string>
+</dict>
+</plist>

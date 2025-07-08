@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistScopeName</key>
+	<string>heapUntilJob</string>
+	<key>ephemeralTickerType</key>
+	<string>queueProcessVelocity</string>
+	<key>iconOrJob</key>
+	<string>materialPlatformKind</string>
+	<key>labelAmongBridge</key>
+	<string>smallChapterHead</string>
+	<key>movementBeyondMode</key>
+	<string>draggableSubpixelVisible</string>
+	<key>statelessAndLevel</key>
+	<string>nodeExceptForm</string>
+</dict>
+</plist>

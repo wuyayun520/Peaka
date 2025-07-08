@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityDuringDecorator</key>
+	<string>checkboxVariableVisibility</string>
+	<key>containerContainJob</key>
+	<string>lastEquipmentVisible</string>
+	<key>cupertinoCurveForce</key>
+	<string>mediaTypeDistance</string>
+	<key>difficultStackTension</key>
+	<string>materialGridStyle</string>
+	<key>handlerBufferScale</key>
+	<string>featureSinceSingleton</string>
+	<key>lastTweenSpeed</key>
+	<string>movementLevelStyle</string>
+</dict>
+</plist>

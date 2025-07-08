@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorShapeBehavior</key>
+	<string>retainedStepValidation</string>
+	<key>blocPerFramework</key>
+	<string>hardTickerSpacing</string>
+	<key>criticalAwaitName</key>
+	<string>uniformIntensityMargin</string>
+	<key>modelInsideParameter</key>
+	<string>rectStrategyInterval</string>
+	<key>nativeTextureRotation</key>
+	<string>popupPrototypeTail</string>
+	<key>notifierExceptComposite</key>
+	<string>viewFacadeBorder</string>
+	<key>pageviewBufferFeedback</key>
+	<string>queueAwayContext</string>
+	<key>streamVisitorTint</key>
+	<string>uniqueCollectionKind</string>
+</dict>
+</plist>

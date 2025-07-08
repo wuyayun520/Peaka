@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridPrototypeCoord</key>
+	<string>localizationModeVelocity</string>
+	<key>labelOutsideLayer</key>
+	<string>frameObserverTop</string>
+	<key>parallelModelFeedback</key>
+	<string>uniqueMatrixDirection</string>
+	<key>plateLikeMode</key>
+	<string>bufferFlyweightSaturation</string>
+	<key>protectedEventOrigin</key>
+	<string>singletonStageInset</string>
+	<key>requestAdapterFormat</key>
+	<string>exceptionInsidePlatform</string>
+	<key>resilientTimerFlags</key>
+	<string>storeOrParameter</string>
+	<key>resizableRouteHead</key>
+	<string>repositoryVersusJob</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertStructureSpeed</key>
+	<string>multiQueueTension</string>
+	<key>channelPatternDepth</key>
+	<string>lostTransformerOrientation</string>
+	<key>exceptionIncludeProcess</key>
+	<string>histogramAndFacade</string>
+	<key>finalKernelFrequency</key>
+	<string>parallelHashMomentum</string>
+	<key>mediaqueryProcessFormat</key>
+	<string>profileOutsideVariable</string>
+	<key>sensorPrototypeHue</key>
+	<string>directlyCompositionSaturation</string>
+	<key>serviceAmongParam</key>
+	<string>sharedStoryboardType</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderIncludeFramework</key>
+	<string>ignoredRepositoryCenter</string>
+	<key>cubitPerParameter</key>
+	<string>textfieldNearAction</string>
+	<key>heroContextInteraction</key>
+	<string>animatedMaterialShape</string>
+	<key>imperativeDecorationScale</key>
+	<string>techniquePatternStyle</string>
+	<key>routeOrInterpreter</key>
+	<string>desktopSessionAcceleration</string>
+	<key>segueVarOpacity</key>
+	<string>tensorNotificationCount</string>
+	<key>specifyGridDirection</key>
+	<string>declarativeSliderColor</string>
+	<key>textureStrategyAlignment</key>
+	<string>streamDespitePhase</string>
+</dict>
+</plist>

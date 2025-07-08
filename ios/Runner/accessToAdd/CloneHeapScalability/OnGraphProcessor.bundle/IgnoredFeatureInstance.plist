@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistForTask</key>
+	<string>sensorObserverBrightness</string>
+	<key>entityContextAlignment</key>
+	<string>batchBesideTier</string>
+	<key>inactiveObserverAppearance</key>
+	<string>mediocrePrecisionFormat</string>
+	<key>originalRowCenter</key>
+	<string>immutableEventFrequency</string>
+	<key>unactivatedGroupBorder</key>
+	<string>cupertinoMetadataRight</string>
+	<key>webNavigationRate</key>
+	<string>scrollWorkFeedback</string>
+</dict>
+</plist>

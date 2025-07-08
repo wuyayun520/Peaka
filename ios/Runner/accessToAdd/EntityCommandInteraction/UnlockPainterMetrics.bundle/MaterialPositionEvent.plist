@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionViaParameter</key>
+	<string>titleAgainstTask</string>
+	<key>iconFormOpacity</key>
+	<string>heapSinceFunction</string>
+	<key>ignoredMatrixTop</key>
+	<string>lastStateIndex</string>
+	<key>queryByActivity</key>
+	<string>lazyFlexOrientation</string>
+	<key>semanticCompleterDelay</key>
+	<string>mainRouterRotation</string>
+	<key>semanticFragmentVelocity</key>
+	<string>requestAgainstNumber</string>
+	<key>synchronousCompleterLeft</key>
+	<string>isolateVersusMediator</string>
+	<key>tableAsTier</key>
+	<string>catalystAtNumber</string>
+</dict>
+</plist>

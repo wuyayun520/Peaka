@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricDependencyInteraction</key>
+	<string>stepActivityRate</string>
+	<key>layoutFromTemple</key>
+	<string>callbackAndVariable</string>
+	<key>nativeFeatureType</key>
+	<string>basicCharacterVelocity</string>
+	<key>reusableRadiusOrigin</key>
+	<string>normalSegueDensity</string>
+	<key>segmentWithoutSingleton</key>
+	<string>secondColumnMode</string>
+	<key>zoneParamRate</key>
+	<string>canvasPlatformForce</string>
+</dict>
+</plist>

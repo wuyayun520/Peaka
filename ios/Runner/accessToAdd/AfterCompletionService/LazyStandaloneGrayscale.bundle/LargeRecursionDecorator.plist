@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobxObserverFormat</key>
+	<string>inactiveShaderVisibility</string>
+	<key>positionEnvironmentType</key>
+	<string>notifierThroughChain</string>
+	<key>requiredZoneTransparency</key>
+	<string>displayableBitrateAcceleration</string>
+	<key>robustGroupTransparency</key>
+	<string>newestAspectratioStatus</string>
+	<key>rowNearNumber</key>
+	<string>handlerAgainstPrototype</string>
+	<key>subpixelSystemContrast</key>
+	<string>accordionUtilRotation</string>
+	<key>symmetricLocalizationRate</key>
+	<string>directlyTaskCenter</string>
+	<key>transitionContainActivity</key>
+	<string>singletonProcessShape</string>
+</dict>
+</plist>

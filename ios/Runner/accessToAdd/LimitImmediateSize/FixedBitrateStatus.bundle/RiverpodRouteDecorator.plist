@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeVectorSpacing</key>
+	<string>singleChannelValidation</string>
+	<key>crudeGrayscaleStatus</key>
+	<string>toolCommandShade</string>
+	<key>denseUtilPosition</key>
+	<string>streamNumberCoord</string>
+	<key>imperativeInteractorVisible</key>
+	<string>segmentSinceEnvironment</string>
+	<key>independentObserverValidation</key>
+	<string>capsuleOrProcess</string>
+	<key>managerShapePadding</key>
+	<string>switchAndPattern</string>
+	<key>petMediatorDuration</key>
+	<string>intuitiveTimerSize</string>
+	<key>similarRiverpodTransparency</key>
+	<string>documentObserverTheme</string>
+</dict>
+</plist>

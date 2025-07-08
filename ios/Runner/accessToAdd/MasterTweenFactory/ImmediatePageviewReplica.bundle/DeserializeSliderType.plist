@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateProxyStyle</key>
+	<string>dynamicRectMode</string>
+	<key>constraintInPattern</key>
+	<string>smallSubpixelMargin</string>
+	<key>displayableNormShape</key>
+	<string>alertPrototypeAppearance</string>
+	<key>largeBuilderFrequency</key>
+	<string>remainderStageRight</string>
+	<key>resizableMobileSize</key>
+	<string>musicPrototypeTension</string>
+	<key>standaloneAwaitCoord</key>
+	<string>scaleMediatorVisibility</string>
+	<key>storageFromMemento</key>
+	<string>resourceLikeMemento</string>
+</dict>
+</plist>

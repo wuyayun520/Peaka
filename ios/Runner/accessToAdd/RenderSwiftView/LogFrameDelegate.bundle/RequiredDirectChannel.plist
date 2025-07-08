@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionAwayParam</key>
+	<string>sliderBeyondState</string>
+	<key>groupForKind</key>
+	<string>chartByParameter</string>
+	<key>integerOrVariable</key>
+	<string>awaitWithoutSingleton</string>
+	<key>numericalLocalizationBehavior</key>
+	<string>functionalGesturedetectorInset</string>
+	<key>statelessShaderRotation</key>
+	<string>boxshadowIncludeActivity</string>
+	<key>topicVariableInset</key>
+	<string>contractionDecoratorOffset</string>
+</dict>
+</plist>

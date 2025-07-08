@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncNodeLeft</key>
+	<string>interfaceFrameworkAcceleration</string>
+	<key>frameCompositeTransparency</key>
+	<string>controllerFromContext</string>
+	<key>graphicTaskCount</key>
+	<string>transitionWithoutStrategy</string>
+	<key>localDurationContrast</key>
+	<string>missedBorderShape</string>
+	<key>textContextSkewx</key>
+	<string>decorationLikeNumber</string>
+</dict>
+</plist>

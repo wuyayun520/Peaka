@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveCoordinatorMode</key>
+	<string>documentBesideContext</string>
+	<key>concurrentResolverDistance</key>
+	<string>storeContextSkewy</string>
+	<key>containerAsSystem</key>
+	<string>storyboardAmongSingleton</string>
+	<key>easyFutureBound</key>
+	<string>futureAdapterVisibility</string>
+</dict>
+</plist>

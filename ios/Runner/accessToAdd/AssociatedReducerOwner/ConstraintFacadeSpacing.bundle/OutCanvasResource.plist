@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionFacadeLocation</key>
+	<string>spriteOrMediator</string>
+	<key>chartVisitorBehavior</key>
+	<string>originalMasterState</string>
+	<key>crucialChartShade</key>
+	<string>tangentWithKind</string>
+	<key>lastButtonColor</key>
+	<string>histogramSystemDirection</string>
+	<key>pivotalConstraintStatus</key>
+	<string>standaloneEventName</string>
+	<key>playbackAtContext</key>
+	<string>blocMediatorColor</string>
+	<key>tableWithFacade</key>
+	<string>hashContainCycle</string>
+	<key>ternarySingletonPadding</key>
+	<string>sequentialIndicatorLeft</string>
+	<key>tickerEnvironmentState</key>
+	<string>bitrateWorkBottom</string>
+</dict>
+</plist>

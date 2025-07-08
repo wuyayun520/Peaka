@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSinceStage</key>
+	<string>animationIncludeContext</string>
+	<key>blocInterpreterFormat</key>
+	<string>nextGetxCoord</string>
+	<key>chapterInsideScope</key>
+	<string>dynamicSwiftBrightness</string>
+	<key>compositionalCommandPosition</key>
+	<string>integerBeyondPhase</string>
+	<key>coordinatorInterpreterEdge</key>
+	<string>responseContextDelay</string>
+	<key>curveNumberInteraction</key>
+	<string>channelOutsideInterpreter</string>
+	<key>delegateAsAction</key>
+	<string>callbackTaskName</string>
+	<key>persistentAwaitFormat</key>
+	<string>callbackFlyweightOpacity</string>
+	<key>subsequentConsumerInterval</key>
+	<string>sceneVariableCount</string>
+</dict>
+</plist>

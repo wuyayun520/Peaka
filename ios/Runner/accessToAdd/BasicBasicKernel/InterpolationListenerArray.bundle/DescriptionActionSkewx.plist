@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableStatelessBorder</key>
+	<string>transitionAndStructure</string>
+	<key>containerBridgeInteraction</key>
+	<string>statefulAssetVelocity</string>
+	<key>disabledPositionIndex</key>
+	<string>diversifiedTopicDepth</string>
+	<key>errorLayerBehavior</key>
+	<string>mutableViewOpacity</string>
+	<key>isolatePlatformType</key>
+	<string>semanticRequestPadding</string>
+	<key>referenceVariableVelocity</key>
+	<string>asynchronousCompleterResponse</string>
+	<key>sequentialMissionMargin</key>
+	<string>effectTypeIndex</string>
+</dict>
+</plist>

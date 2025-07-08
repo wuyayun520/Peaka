@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderDuringProxy</key>
+	<string>imperativeCanvasAcceleration</string>
+	<key>marginLayerOrigin</key>
+	<string>cubitDespiteParam</string>
+	<key>mobxExceptValue</key>
+	<string>singletonFlyweightSize</string>
+	<key>topicThroughVisitor</key>
+	<string>handlerAmongFacade</string>
+</dict>
+</plist>

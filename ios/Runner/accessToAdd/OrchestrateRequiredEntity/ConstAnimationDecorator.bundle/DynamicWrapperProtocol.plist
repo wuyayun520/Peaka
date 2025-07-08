@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartSinceMethod</key>
+	<string>channelsTempleShape</string>
+	<key>customObserverVisibility</key>
+	<string>advancedCompositionName</string>
+	<key>invisibleActivityInterval</key>
+	<string>transitionPhaseBottom</string>
+	<key>labelAboutKind</key>
+	<string>groupStageTransparency</string>
+	<key>rectMethodScale</key>
+	<string>newestAppbarForce</string>
+	<key>tableUntilLevel</key>
+	<string>layoutFlyweightInterval</string>
+</dict>
+</plist>

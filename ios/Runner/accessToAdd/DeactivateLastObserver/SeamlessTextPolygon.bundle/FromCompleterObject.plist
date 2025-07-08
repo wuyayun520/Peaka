@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyViaContext</key>
+	<string>cartesianContainerState</string>
+	<key>grainExceptKind</key>
+	<string>localLoopPadding</string>
+	<key>layoutSinceVariable</key>
+	<string>directlyParticleMomentum</string>
+	<key>resourceContainDecorator</key>
+	<string>catalystIncludeStage</string>
+	<key>routeWithoutParam</key>
+	<string>navigatorUntilActivity</string>
+</dict>
+</plist>

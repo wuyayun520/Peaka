@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexiblePageviewDistance</key>
+	<string>missedCompleterOpacity</string>
+	<key>intuitiveResourceVisibility</key>
+	<string>statelessFrameCount</string>
+	<key>keyMatrixSaturation</key>
+	<string>staticTangentShade</string>
+	<key>multiBlocFlags</key>
+	<string>fusedAlignmentTheme</string>
+	<key>retainedUtilName</key>
+	<string>allocatorNearFunction</string>
+	<key>sceneScopeVisible</key>
+	<string>sliderNearVisitor</string>
+	<key>sliderValueDelay</key>
+	<string>immediateParticleBehavior</string>
+	<key>stampParamTag</key>
+	<string>diffableEffectAppearance</string>
+	<key>statelessLayoutDirection</key>
+	<string>inheritedRequestVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationLevelEdge</key>
+	<string>resolverAgainstChain</string>
+	<key>cupertinoAlphaRight</key>
+	<string>crudeTimerInteraction</string>
+	<key>ignoredMovementInteraction</key>
+	<string>localizationTierDelay</string>
+	<key>interactorSystemColor</key>
+	<string>iconAgainstNumber</string>
+	<key>largeBinaryTail</key>
+	<string>actionObserverResponse</string>
+	<key>providerEnvironmentBound</key>
+	<string>vectorSinceProcess</string>
+	<key>referenceUntilComposite</key>
+	<string>workflowUntilParameter</string>
+	<key>smartVectorTag</key>
+	<string>usecaseScopeRotation</string>
+</dict>
+</plist>

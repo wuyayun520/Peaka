@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandVariableAcceleration</key>
+	<string>isolateFacadeBound</string>
+	<key>dynamicSymbolDuration</key>
+	<string>controllerPhaseRate</string>
+	<key>flexibleLayoutFrequency</key>
+	<string>methodScopeBehavior</string>
+	<key>inkwellKindScale</key>
+	<string>isolateInterpreterFrequency</string>
+	<key>particleUntilParam</key>
+	<string>blocPerShape</string>
+	<key>positionSincePlatform</key>
+	<string>sustainablePainterSize</string>
+	<key>streamFormBound</key>
+	<string>dedicatedInkwellDepth</string>
+</dict>
+</plist>

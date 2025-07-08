@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderInMethod</key>
+	<string>ignoredGridviewDelay</string>
+	<key>commandValueFeedback</key>
+	<string>cubitByFlyweight</string>
+	<key>controllerEnvironmentVisible</key>
+	<string>customizedTransitionPressure</string>
+	<key>decorationFlyweightType</key>
+	<string>featureTierTheme</string>
+	<key>difficultAllocatorTint</key>
+	<string>notificationObserverRotation</string>
+	<key>transitionValueAppearance</key>
+	<string>techniqueValueTop</string>
+	<key>tweenFromFacade</key>
+	<string>dependencyAdapterDirection</string>
+</dict>
+</plist>

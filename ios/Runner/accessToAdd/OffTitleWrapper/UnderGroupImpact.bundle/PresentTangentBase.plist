@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorDuringCommand</key>
+	<string>gatePlatformLeft</string>
+	<key>inactiveOffsetInterval</key>
+	<string>sinkMethodHue</string>
+	<key>semanticSceneDepth</key>
+	<string>dropdownbuttonScopeForce</string>
+	<key>singleCompleterRate</key>
+	<string>hashSinceFunction</string>
+</dict>
+</plist>

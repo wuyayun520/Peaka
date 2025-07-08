@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionMementoDepth</key>
+	<string>storyboardInsideCommand</string>
+	<key>layoutSinceStrategy</key>
+	<string>layerAwayShape</string>
+	<key>pinchablePageviewOpacity</key>
+	<string>customViewFlags</string>
+	<key>screenViaAction</key>
+	<string>localizationMediatorContrast</string>
+	<key>sensorExceptVariable</key>
+	<string>coordinatorAtInterpreter</string>
+	<key>transformerFacadeState</key>
+	<string>constraintKindBehavior</string>
+</dict>
+</plist>

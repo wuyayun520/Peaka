@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultResourceRotation</key>
+	<string>mobileLoopInterval</string>
+	<key>gridviewBesideAdapter</key>
+	<string>parallelPetTop</string>
+	<key>iconVisitorCount</key>
+	<string>layoutLevelIndex</string>
+	<key>logarithmChainCount</key>
+	<string>standaloneCardTheme</string>
+	<key>missedAwaitBound</key>
+	<string>blocWithWork</string>
+	<key>protocolMediatorPosition</key>
+	<string>roleOfOperation</string>
+	<key>scaleOfAction</key>
+	<string>controllerStateSize</string>
+	<key>skirtMementoValidation</key>
+	<string>anchorTempleAcceleration</string>
+</dict>
+</plist>

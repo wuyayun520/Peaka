@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorWithoutVisitor</key>
+	<string>smartPopupTop</string>
+	<key>awaitChainTint</key>
+	<string>textfieldLikeOperation</string>
+	<key>completerPerStage</key>
+	<string>exceptionInsideCommand</string>
+	<key>nextPetOpacity</key>
+	<string>widgetScopeDistance</string>
+	<key>rapidEffectCenter</key>
+	<string>multiplicationModeInset</string>
+	<key>responsiveTouchDistance</key>
+	<string>asyncPerState</string>
+	<key>segmentFromEnvironment</key>
+	<string>opaqueMasterBehavior</string>
+	<key>usedResourceBorder</key>
+	<string>containerMediatorShade</string>
+	<key>widgetOrPattern</key>
+	<string>cursorVarOrigin</string>
+</dict>
+</plist>

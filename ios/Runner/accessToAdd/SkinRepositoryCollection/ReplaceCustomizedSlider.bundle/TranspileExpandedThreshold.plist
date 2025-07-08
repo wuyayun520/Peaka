@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushAtFacade</key>
+	<string>declarativeFeatureBehavior</string>
+	<key>declarativeDelegateFrequency</key>
+	<string>completerContainEnvironment</string>
+	<key>inactiveAppbarResponse</key>
+	<string>riverpodMediatorScale</string>
+	<key>missedIsolateTension</key>
+	<string>callbackPrototypePressure</string>
+	<key>normParameterSpeed</key>
+	<string>builderFormShade</string>
+	<key>observerByStructure</key>
+	<string>cacheAndVariable</string>
+	<key>providerParameterVisible</key>
+	<string>modelPerOperation</string>
+	<key>skirtAlongTemple</key>
+	<string>futureThanSingleton</string>
+	<key>subscriptionAlongWork</key>
+	<string>persistentLayoutOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainParameterDistance</key>
+	<string>nextPlaybackSkewx</string>
+	<key>ignoredStreamStyle</key>
+	<string>routerSingletonMode</string>
+	<key>keyGridInteraction</key>
+	<string>allocatorIncludeMemento</string>
+	<key>primaryLocalizationResponse</key>
+	<string>baselineVersusBuffer</string>
+	<key>routeWithActivity</key>
+	<string>imageByKind</string>
+	<key>routerAroundTask</key>
+	<string>webDurationInterval</string>
+	<key>similarBuilderLocation</key>
+	<string>zoneLayerInterval</string>
+	<key>sinkSinceTemple</key>
+	<string>backwardCurveStatus</string>
+</dict>
+</plist>

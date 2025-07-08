@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableDrawerInteraction</key>
+	<string>loopLayerBound</string>
+	<key>greatCubitDuration</key>
+	<string>smallAwaitMode</string>
+	<key>presenterFormTint</key>
+	<string>particleDespiteFacade</string>
+	<key>prismaticTopicInterval</key>
+	<string>popupScopeSkewy</string>
+	<key>profilePerBuffer</key>
+	<string>compositionObserverDelay</string>
+</dict>
+</plist>

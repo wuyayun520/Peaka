@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousResponseVisibility</key>
+	<string>streamExceptLayer</string>
+	<key>custompaintSinceProxy</key>
+	<string>tickerExceptInterpreter</string>
+	<key>heroOrKind</key>
+	<string>keyReducerLocation</string>
+	<key>mapNearType</key>
+	<string>mapStructureFrequency</string>
+	<key>presenterWithFacade</key>
+	<string>sequentialHashCenter</string>
+	<key>reducerStructureStyle</key>
+	<string>topicTaskEdge</string>
+	<key>retainedCompletionOffset</key>
+	<string>beginnerSessionDepth</string>
+	<key>singletonFrameworkRate</key>
+	<string>subsequentFuturePadding</string>
+</dict>
+</plist>

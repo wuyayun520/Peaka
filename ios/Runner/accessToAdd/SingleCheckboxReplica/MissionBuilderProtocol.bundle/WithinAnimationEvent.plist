@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoConfigurationSaturation</key>
+	<string>callbackStageSize</string>
+	<key>cycleLikeComposite</key>
+	<string>captionForAction</string>
+	<key>keyTabviewVelocity</key>
+	<string>accessibleEffectInteraction</string>
+	<key>localizationFromAdapter</key>
+	<string>cardWithoutScope</string>
+	<key>particleTaskBehavior</key>
+	<string>projectionTempleTint</string>
+	<key>resultDecoratorHue</key>
+	<string>coordinatorFunctionTransparency</string>
+	<key>secondNavigatorShape</key>
+	<string>controllerVisitorTint</string>
+</dict>
+</plist>

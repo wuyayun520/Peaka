@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationScopeSpeed</key>
+	<string>intermediateDelegateName</string>
+	<key>entityOrValue</key>
+	<string>resizablePositionedSaturation</string>
+	<key>movementWithoutMediator</key>
+	<string>permanentBorderStyle</string>
+	<key>positionOrStrategy</key>
+	<string>prevClipperBrightness</string>
+	<key>scrollAsVisitor</key>
+	<string>normBesideScope</string>
+</dict>
+</plist>

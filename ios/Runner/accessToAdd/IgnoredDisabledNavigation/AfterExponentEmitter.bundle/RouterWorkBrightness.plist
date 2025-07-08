@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderMethodResponse</key>
+	<string>completerPlatformTransparency</string>
+	<key>independentTabbarFeedback</key>
+	<string>materialInjectionDirection</string>
+	<key>stateAndStrategy</key>
+	<string>priorEffectBrightness</string>
+	<key>staticProgressbarPadding</key>
+	<string>sizeIncludeCycle</string>
+	<key>streamInsideVar</key>
+	<string>controllerPlatformVisibility</string>
+</dict>
+</plist>

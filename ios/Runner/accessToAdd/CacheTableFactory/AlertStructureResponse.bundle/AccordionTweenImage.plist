@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxKindPosition</key>
+	<string>logIncludeSingleton</string>
+	<key>diffableObserverStatus</key>
+	<string>iconAgainstFlyweight</string>
+	<key>oldMemberValidation</key>
+	<string>inactiveSkirtBottom</string>
+	<key>pivotalApertureRight</key>
+	<string>futureCommandScale</string>
+	<key>resourceSinceShape</key>
+	<string>anchorThroughLayer</string>
+	<key>riverpodDecoratorTint</key>
+	<string>customIntegerAlignment</string>
+	<key>routeLayerVisibility</key>
+	<string>featureMementoDirection</string>
+	<key>touchOutsideValue</key>
+	<string>mobxOrNumber</string>
+</dict>
+</plist>

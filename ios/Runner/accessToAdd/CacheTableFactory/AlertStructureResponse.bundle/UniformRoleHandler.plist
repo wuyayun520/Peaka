@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCollectionIndex</key>
+	<string>resilientFactoryStatus</string>
+	<key>bufferThroughAdapter</key>
+	<string>graphicVisitorStatus</string>
+	<key>containerProcessVelocity</key>
+	<string>subpixelParameterFrequency</string>
+	<key>interactorStateShade</key>
+	<string>liteFutureDensity</string>
+	<key>invisibleDurationDirection</key>
+	<string>constraintPrototypeColor</string>
+	<key>protocolFacadeBottom</key>
+	<string>mapStateLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineThroughStrategy</key>
+	<string>customizedPriorityInterval</string>
+	<key>documentThroughBridge</key>
+	<string>featureBesideCycle</string>
+	<key>exceptionBridgeBehavior</key>
+	<string>sharedSpriteBottom</string>
+	<key>positionShapeDelay</key>
+	<string>gridStrategyStatus</string>
+	<key>prismaticPresenterContrast</key>
+	<string>modelStageInterval</string>
+	<key>shaderInDecorator</key>
+	<string>constExponentTint</string>
+</dict>
+</plist>

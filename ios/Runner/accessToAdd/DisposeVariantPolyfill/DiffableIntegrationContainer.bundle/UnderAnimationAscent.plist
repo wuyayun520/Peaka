@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystWorkOrientation</key>
+	<string>cartesianCurveMargin</string>
+	<key>currentExceptionOrigin</key>
+	<string>webSceneTag</string>
+	<key>displayableAnimatedcontainerState</key>
+	<string>parallelCycleMargin</string>
+	<key>localizationSinceObserver</key>
+	<string>statelessIntegerBorder</string>
+	<key>multiMissionInset</key>
+	<string>channelSystemLeft</string>
+</dict>
+</plist>

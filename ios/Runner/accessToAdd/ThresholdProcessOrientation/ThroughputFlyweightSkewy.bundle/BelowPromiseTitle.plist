@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedParticleFeedback</key>
+	<string>autoSensorOpacity</string>
+	<key>descriptorStateDistance</key>
+	<string>largeCubitEdge</string>
+	<key>geometricSliderVisible</key>
+	<string>commandExceptPhase</string>
+	<key>interpolationInsideNumber</key>
+	<string>equipmentUntilTask</string>
+	<key>priorityDuringFlyweight</key>
+	<string>originalSliderState</string>
+	<key>uniformDocumentPosition</key>
+	<string>rectObserverTint</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveServiceAlignment</key>
+	<string>enabledHandlerInteraction</string>
+	<key>rectExceptValue</key>
+	<string>loopUntilTask</string>
+	<key>statefulCatalystMode</key>
+	<string>batchOperationSize</string>
+	<key>subtleScaffoldVelocity</key>
+	<string>timerAlongType</string>
+</dict>
+</plist>

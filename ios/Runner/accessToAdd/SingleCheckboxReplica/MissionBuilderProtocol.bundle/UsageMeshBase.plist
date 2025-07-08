@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationProcessBehavior</key>
+	<string>iterativeEntityInteraction</string>
+	<key>documentShapeSkewx</key>
+	<string>listenerVarHue</string>
+	<key>featureAtComposite</key>
+	<string>normalSizeInset</string>
+	<key>providerLayerSpacing</key>
+	<string>alignmentCycleDuration</string>
+	<key>resourceStrategyTheme</key>
+	<string>gradientStrategyDepth</string>
+	<key>richtextCompositeMargin</key>
+	<string>interfaceUntilMethod</string>
+	<key>subsequentFactoryBrightness</key>
+	<string>aspectratioParameterMargin</string>
+	<key>swiftThroughFacade</key>
+	<string>stackFunctionAcceleration</string>
+	<key>tensorPositionDistance</key>
+	<string>geometricAssetFlags</string>
+</dict>
+</plist>

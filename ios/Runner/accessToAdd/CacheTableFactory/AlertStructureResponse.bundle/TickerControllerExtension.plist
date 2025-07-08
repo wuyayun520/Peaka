@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarPlatformDelay</key>
+	<string>layoutInMethod</string>
+	<key>associatedScaleColor</key>
+	<string>captionExceptEnvironment</string>
+	<key>chartInterpreterPosition</key>
+	<string>transformerLayerDepth</string>
+	<key>controllerSingletonSpeed</key>
+	<string>menuCommandRotation</string>
+	<key>deferredGrainInset</key>
+	<string>sustainablePlaybackLeft</string>
+	<key>prismaticAlphaStatus</key>
+	<string>widgetParamPadding</string>
+	<key>radioAroundComposite</key>
+	<string>spotVisitorDepth</string>
+	<key>sophisticatedExceptionFeedback</key>
+	<string>greatMediaValidation</string>
+</dict>
+</plist>

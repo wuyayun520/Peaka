@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedIntensitySpacing</key>
+	<string>grainAmongShape</string>
+	<key>baseAmongStrategy</key>
+	<string>curveVariableDistance</string>
+	<key>baseIncludeLayer</key>
+	<string>actionDuringCommand</string>
+	<key>bulletVarInterval</key>
+	<string>lazyClipperRate</string>
+	<key>equalizationLikeBuffer</key>
+	<string>viewAdapterScale</string>
+	<key>sensorDespiteState</key>
+	<string>positionedCycleDelay</string>
+	<key>sliderStateBound</key>
+	<string>reactivePageviewInset</string>
+</dict>
+</plist>

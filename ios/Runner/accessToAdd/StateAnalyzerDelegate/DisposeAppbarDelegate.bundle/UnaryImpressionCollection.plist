@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAndFramework</key>
+	<string>subscriptionTaskSize</string>
+	<key>delegateWithKind</key>
+	<string>bufferBeyondProcess</string>
+	<key>greatSlashFeedback</key>
+	<string>progressbarFunctionForce</string>
+	<key>materialAroundChain</key>
+	<string>reactiveRowBehavior</string>
+	<key>synchronousMethodHead</key>
+	<string>positionedLayerFlags</string>
+	<key>uniqueRiverpodFlags</key>
+	<string>referencePerParameter</string>
+</dict>
+</plist>

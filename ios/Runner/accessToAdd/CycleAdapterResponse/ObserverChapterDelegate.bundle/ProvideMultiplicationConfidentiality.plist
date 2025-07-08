@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPrototypeAcceleration</key>
+	<string>associatedServiceValidation</string>
+	<key>awaitFormKind</key>
+	<string>usageDuringForm</string>
+	<key>modulusParameterVisible</key>
+	<string>channelsExceptEnvironment</string>
+	<key>overlayAgainstStyle</key>
+	<string>constraintInsideState</string>
+	<key>persistentDialogsSaturation</key>
+	<string>unsortedReferenceDistance</string>
+</dict>
+</plist>

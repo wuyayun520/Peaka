@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionFrameFrequency</key>
+	<string>typicalGridShade</string>
+	<key>allocatorStrategyContrast</key>
+	<string>taskAroundNumber</string>
+	<key>cupertinoFrameSkewx</key>
+	<string>rowPerVar</string>
+	<key>opaqueModelTransparency</key>
+	<string>exceptionSinceTask</string>
+	<key>themeVarPressure</key>
+	<string>mainMediaCoord</string>
+	<key>touchVarHue</key>
+	<string>firstRowShape</string>
+</dict>
+</plist>

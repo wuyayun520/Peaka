@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentVersusCycle</key>
+	<string>dynamicAspectTheme</string>
+	<key>decorationOrTier</key>
+	<string>listenerStateLocation</string>
+	<key>equipmentViaObserver</key>
+	<string>dependencyActivityRotation</string>
+	<key>radiusAdapterDelay</key>
+	<string>allocatorStageDuration</string>
+	<key>switchOrStrategy</key>
+	<string>dependencyCompositeEdge</string>
+	<key>webStackStyle</key>
+	<string>hierarchicalSlashForce</string>
+	<key>widgetContainPlatform</key>
+	<string>nodeSinceSystem</string>
+</dict>
+</plist>

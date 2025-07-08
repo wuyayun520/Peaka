@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferVarInset</key>
+	<string>mainSkirtBorder</string>
+	<key>configurationPlatformAcceleration</key>
+	<string>labelIncludeMemento</string>
+	<key>eventShapeAppearance</key>
+	<string>liteTextureSkewx</string>
+	<key>fusedCollectionDensity</key>
+	<string>techniqueAlongComposite</string>
+</dict>
+</plist>

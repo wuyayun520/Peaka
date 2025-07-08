@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryVarInteraction</key>
+	<string>listenerBufferBound</string>
+	<key>currentRouteBrightness</key>
+	<string>gradientBridgeSpeed</string>
+	<key>cursorOutsideActivity</key>
+	<string>graphicIncludeCommand</string>
+	<key>dependencyViaFlyweight</key>
+	<string>collectionMediatorSaturation</string>
+	<key>directAnimationResponse</key>
+	<string>constLayerType</string>
+	<key>oldDecorationMomentum</key>
+	<string>resolverThanAction</string>
+	<key>parallelResourceSkewy</key>
+	<string>sequentialWidgetTop</string>
+	<key>repositoryVisitorDelay</key>
+	<string>certificateProcessResponse</string>
+	<key>standaloneInjectionSkewx</key>
+	<string>heroByParam</string>
+</dict>
+</plist>

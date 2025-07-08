@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoModelRotation</key>
+	<string>cacheViaShape</string>
+	<key>immutableDrawerVisibility</key>
+	<string>disabledConstraintRight</string>
+	<key>lazyResolverInteraction</key>
+	<string>mainGroupStyle</string>
+	<key>nativePromiseFormat</key>
+	<string>smartColumnValidation</string>
+	<key>nodeKindContrast</key>
+	<string>visibleBlocInteraction</string>
+	<key>stateVarDirection</key>
+	<string>multiSceneTension</string>
+	<key>vectorTypeCoord</key>
+	<string>projectionAtTier</string>
+</dict>
+</plist>

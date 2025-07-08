@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleKernelRotation</key>
+	<string>matrixMediatorRight</string>
+	<key>blocMementoInteraction</key>
+	<string>mediaqueryIncludeStyle</string>
+	<key>channelAboutStrategy</key>
+	<string>reducerTaskAppearance</string>
+	<key>collectionAmongParameter</key>
+	<string>alphaProcessTail</string>
+	<key>eventLevelLocation</key>
+	<string>lossThroughForm</string>
+	<key>liteEffectContrast</key>
+	<string>navigationOutsidePlatform</string>
+	<key>signatureScopeDensity</key>
+	<string>materialBoxVisibility</string>
+	<key>skinStyleForce</key>
+	<string>spineForStructure</string>
+	<key>utilTierLeft</key>
+	<string>documentViaActivity</string>
+</dict>
+</plist>

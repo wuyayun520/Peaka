@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedIsolateAppearance</key>
+	<string>sinkStructureOpacity</string>
+	<key>composableGesturedetectorSaturation</key>
+	<string>sliderProcessSaturation</string>
+	<key>instructionAlongMode</key>
+	<string>labelAlongTier</string>
+	<key>monsterStageTop</key>
+	<string>pinchableManagerAcceleration</string>
+	<key>primaryQueueRate</key>
+	<string>significantTextRight</string>
+	<key>robustHandlerTint</key>
+	<string>sophisticatedTransformerScale</string>
+	<key>statelessSensorInset</key>
+	<string>topicUntilMediator</string>
+	<key>vectorFrameworkFeedback</key>
+	<string>appbarAsTask</string>
+	<key>zoneExceptStyle</key>
+	<string>accessibleAssetResponse</string>
+</dict>
+</plist>

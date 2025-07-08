@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorShapeCenter</key>
+	<string>indicatorAgainstContext</string>
+	<key>listenerProxyAppearance</key>
+	<string>commandWithoutFramework</string>
+	<key>resultNumberInterval</key>
+	<string>localGridState</string>
+	<key>spriteAdapterForce</key>
+	<string>localizationParamMomentum</string>
+</dict>
+</plist>

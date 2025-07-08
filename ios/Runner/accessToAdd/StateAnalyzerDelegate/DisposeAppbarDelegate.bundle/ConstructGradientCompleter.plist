@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintBesideInterpreter</key>
+	<string>gesturedetectorIncludeFlyweight</string>
+	<key>dedicatedCatalystVisible</key>
+	<string>associatedKernelSpeed</string>
+	<key>exponentJobScale</key>
+	<string>fixedListviewValidation</string>
+	<key>fragmentThroughMode</key>
+	<string>futurePlatformTint</string>
+	<key>slashNearFacade</key>
+	<string>consumerActivitySaturation</string>
+</dict>
+</plist>

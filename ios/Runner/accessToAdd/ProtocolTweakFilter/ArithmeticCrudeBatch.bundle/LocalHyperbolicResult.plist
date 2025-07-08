@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxActionRotation</key>
+	<string>transformerCommandOrientation</string>
+	<key>compositionSinceVar</key>
+	<string>explicitCubitOpacity</string>
+	<key>containerStagePressure</key>
+	<string>baseStyleSpacing</string>
+	<key>effectUntilDecorator</key>
+	<string>utilStateOffset</string>
+	<key>enabledPreviewDuration</key>
+	<string>diffableReductionForce</string>
+	<key>ephemeralLocalizationDelay</key>
+	<string>primarySizeHue</string>
+	<key>gridviewExceptChain</key>
+	<string>firstPlateShade</string>
+	<key>layoutPhaseTheme</key>
+	<string>iterativeFragmentPressure</string>
+	<key>localizationActionSkewx</key>
+	<string>compositionalHandlerSaturation</string>
+	<key>sliderByFunction</key>
+	<string>immutableGroupTag</string>
+</dict>
+</plist>

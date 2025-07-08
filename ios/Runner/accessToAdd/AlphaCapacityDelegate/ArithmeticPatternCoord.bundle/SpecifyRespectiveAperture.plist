@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorTierRate</key>
+	<string>builderOfPrototype</string>
+	<key>eagerDependencyFlags</key>
+	<string>storageAndStrategy</string>
+	<key>granularBitrateRotation</key>
+	<string>durationFlyweightFrequency</string>
+	<key>hierarchicalResourceStyle</key>
+	<string>mediumObserverForce</string>
+	<key>offsetPatternBorder</key>
+	<string>taskInProxy</string>
+	<key>sliderDecoratorVisible</key>
+	<string>layerUntilPattern</string>
+	<key>transitionAmongMemento</key>
+	<string>labelByFunction</string>
+</dict>
+</plist>

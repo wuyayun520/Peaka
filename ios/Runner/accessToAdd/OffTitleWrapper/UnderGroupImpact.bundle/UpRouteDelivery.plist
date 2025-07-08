@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateWithoutMethod</key>
+	<string>sizeDuringLevel</string>
+	<key>loopOfPlatform</key>
+	<string>factoryThroughCycle</string>
+	<key>promiseAmongCycle</key>
+	<string>constraintStateHue</string>
+	<key>radioAroundPlatform</key>
+	<string>toolEnvironmentSize</string>
+	<key>skinWithoutMode</key>
+	<string>canvasStrategyInset</string>
+	<key>sliderAlongVariable</key>
+	<string>euclideanMasterState</string>
+</dict>
+</plist>

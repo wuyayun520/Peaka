@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentByCommand</key>
+	<string>disabledSinkInset</string>
+	<key>eagerConfigurationTop</key>
+	<string>utilAroundVariable</string>
+	<key>managerBridgeBound</key>
+	<string>appbarStyleOpacity</string>
+	<key>publicSlashDistance</key>
+	<string>decorationPerFacade</string>
+	<key>queueTypeMargin</key>
+	<string>currentEntitySize</string>
+	<key>remainderCompositeLeft</key>
+	<string>pinchablePetMargin</string>
+	<key>serviceBridgeLocation</key>
+	<string>staticFutureForce</string>
+	<key>streamAtSystem</key>
+	<string>publicActionCount</string>
+	<key>taskLikeValue</key>
+	<string>uniqueEntropyValidation</string>
+</dict>
+</plist>

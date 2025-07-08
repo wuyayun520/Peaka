@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directChartRight</key>
+	<string>responsiveStorageSkewy</string>
+	<key>masterShapeTop</key>
+	<string>mediocreEqualizationSpacing</string>
+	<key>resourceExceptKind</key>
+	<string>interpolationByBridge</string>
+	<key>smallBoxshadowVisible</key>
+	<string>crudePetAppearance</string>
+</dict>
+</plist>

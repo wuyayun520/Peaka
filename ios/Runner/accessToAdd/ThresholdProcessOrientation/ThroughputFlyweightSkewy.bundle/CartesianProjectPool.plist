@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarOutsideLevel</key>
+	<string>constDialogsOpacity</string>
+	<key>cubitTypeRotation</key>
+	<string>capsuleViaKind</string>
+	<key>cursorScopeFlags</key>
+	<string>transitionStrategyMomentum</string>
+	<key>factoryScopeTint</key>
+	<string>decorationSystemSkewx</string>
+	<key>greatBrushValidation</key>
+	<string>sustainableTextInteraction</string>
+	<key>mobileOrBuffer</key>
+	<string>pinchableExtensionOrientation</string>
+	<key>observerCommandOrigin</key>
+	<string>interfaceBeyondProcess</string>
+	<key>opaqueAwaitSkewy</key>
+	<string>interpolationTempleType</string>
+	<key>singletonPhaseAcceleration</key>
+	<string>hardInjectionForce</string>
+	<key>staticConstraintFormat</key>
+	<string>prevSliderSpeed</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncPlatformDistance</key>
+	<string>requestBeyondLayer</string>
+	<key>labelActivityCenter</key>
+	<string>navigatorFlyweightDirection</string>
+	<key>particleStyleDuration</key>
+	<string>decorationParameterMargin</string>
+	<key>prismaticScaleOffset</key>
+	<string>pivotalButtonSkewx</string>
+	<key>singletonExceptContext</key>
+	<string>animatedColumnTint</string>
+	<key>synchronousConstraintSpacing</key>
+	<string>resilientSubscriptionTag</string>
+</dict>
+</plist>

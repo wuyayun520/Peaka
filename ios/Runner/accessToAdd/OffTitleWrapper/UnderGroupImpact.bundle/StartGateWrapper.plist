@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocParamDistance</key>
+	<string>curveActionSpeed</string>
+	<key>cursorForLayer</key>
+	<string>menuVersusTask</string>
+	<key>ephemeralStorageOpacity</key>
+	<string>lossCommandSpeed</string>
+	<key>graphFrameworkCount</key>
+	<string>lastObserverDuration</string>
+	<key>streamSincePattern</key>
+	<string>cellInterpreterMode</string>
+	<key>tappableConvolutionOffset</key>
+	<string>methodWorkVisible</string>
+	<key>themeAmongVar</key>
+	<string>eagerMethodMode</string>
+	<key>usageLayerRate</key>
+	<string>firstRadiusOpacity</string>
+	<key>variantPhaseCount</key>
+	<string>skinOfVisitor</string>
+</dict>
+</plist>

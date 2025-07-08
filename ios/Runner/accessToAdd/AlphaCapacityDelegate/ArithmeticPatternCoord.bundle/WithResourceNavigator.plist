@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAwaySingleton</key>
+	<string>permanentAllocatorOffset</string>
+	<key>fusedPlaybackShade</key>
+	<string>originalFlexOrigin</string>
+	<key>projectOrPrototype</key>
+	<string>resolverExceptShape</string>
+	<key>resilientPriorityRight</key>
+	<string>builderInLevel</string>
+	<key>sizeAdapterLocation</key>
+	<string>invisibleLayerBound</string>
+	<key>symmetricSubscriptionTransparency</key>
+	<string>grainBesideCycle</string>
+	<key>transitionBufferBottom</key>
+	<string>cupertinoFromSingleton</string>
+	<key>usecaseForBuffer</key>
+	<string>tableThroughPrototype</string>
+</dict>
+</plist>

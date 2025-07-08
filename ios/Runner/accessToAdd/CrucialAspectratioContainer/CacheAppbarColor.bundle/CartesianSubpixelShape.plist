@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalResolverEdge</key>
+	<string>materialDuringComposite</string>
+	<key>dialogsFunctionSkewy</key>
+	<string>basicEntropyBottom</string>
+	<key>draggableExpandedTransparency</key>
+	<string>observerVersusForm</string>
+	<key>dynamicSpecifierRate</key>
+	<string>actionContainForm</string>
+	<key>localizationParamEdge</key>
+	<string>fixedTextfieldDelay</string>
+	<key>referenceWithFlyweight</key>
+	<string>screenStageBottom</string>
+	<key>storeFlyweightSaturation</key>
+	<string>viewPhasePosition</string>
+</dict>
+</plist>

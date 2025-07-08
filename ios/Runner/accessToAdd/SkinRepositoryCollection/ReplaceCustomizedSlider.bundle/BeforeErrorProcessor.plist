@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioStageTint</key>
+	<string>normScopeHue</string>
+	<key>diffableProviderRotation</key>
+	<string>semanticsWithAction</string>
+	<key>listviewDespiteStyle</key>
+	<string>scaleIncludeStage</string>
+	<key>mainEffectContrast</key>
+	<string>ignoredRowSkewy</string>
+	<key>materialPreviewHue</key>
+	<string>animationModeInterval</string>
+	<key>materialStrategyShape</key>
+	<string>tensorZoneCenter</string>
+	<key>retainedEffectKind</key>
+	<string>buttonLikeContext</string>
+	<key>workflowDespiteAction</key>
+	<string>completionPerMethod</string>
+</dict>
+</plist>

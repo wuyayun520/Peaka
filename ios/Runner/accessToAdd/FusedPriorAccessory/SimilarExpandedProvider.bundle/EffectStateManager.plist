@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiplicationVarLeft</key>
+	<string>localizationAndVisitor</string>
+	<key>numericalOverlaySkewy</key>
+	<string>overlayFromPhase</string>
+	<key>repositoryThroughCommand</key>
+	<string>containerFlyweightPadding</string>
+	<key>singletonNearFacade</key>
+	<string>blocMethodShade</string>
+	<key>stampInScope</key>
+	<string>roleNearProcess</string>
+</dict>
+</plist>

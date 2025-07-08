@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramFacadeOpacity</key>
+	<string>equipmentVersusChain</string>
+	<key>lostGramFormat</key>
+	<string>featureAndVisitor</string>
+	<key>mobileEventName</key>
+	<string>accordionExceptionVisible</string>
+</dict>
+</plist>

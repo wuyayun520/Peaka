@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionScopeDensity</key>
+	<string>reducerWithAdapter</string>
+	<key>adaptiveConstraintTheme</key>
+	<string>storyboardStateSkewx</string>
+	<key>appbarAgainstMediator</key>
+	<string>tensorIndicatorColor</string>
+	<key>contractionVisitorColor</key>
+	<string>swiftStructureContrast</string>
+</dict>
+</plist>

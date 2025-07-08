@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsOutsideInterpreter</key>
+	<string>tickerOutsideInterpreter</string>
+	<key>protocolIncludeType</key>
+	<string>inheritedRichtextFeedback</string>
+	<key>resizableGraphKind</key>
+	<string>publicAlignmentTag</string>
+	<key>taskAlongJob</key>
+	<string>prioritySinceActivity</string>
+</dict>
+</plist>

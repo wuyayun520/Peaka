@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorFunctionKind</key>
+	<string>swiftOperationShade</string>
+	<key>desktopResponseVisible</key>
+	<string>spriteBufferValidation</string>
+	<key>directStatefulRotation</key>
+	<string>rectOutsidePattern</string>
+	<key>iconDespiteVar</key>
+	<string>asynchronousSliderColor</string>
+	<key>listviewFromAdapter</key>
+	<string>staticGramOpacity</string>
+	<key>skirtAdapterValidation</key>
+	<string>layoutBufferLocation</string>
+	<key>widgetInsideShape</key>
+	<string>secondMenuFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleContainStyle</key>
+	<string>tickerVisitorFeedback</string>
+	<key>containerVersusMode</key>
+	<string>cartesianBlocLocation</string>
+	<key>disabledChallengeForce</key>
+	<string>sizePerScope</string>
+	<key>ignoredBrushRight</key>
+	<string>threadNumberName</string>
+	<key>synchronousFragmentResponse</key>
+	<string>scaleSystemDistance</string>
+	<key>tappableSpineTheme</key>
+	<string>routerBesideCommand</string>
+</dict>
+</plist>

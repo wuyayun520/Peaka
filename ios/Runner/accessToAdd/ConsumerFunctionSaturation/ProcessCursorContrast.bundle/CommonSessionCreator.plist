@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandContextFeedback</key>
+	<string>particleContainForm</string>
+	<key>loopAdapterSaturation</key>
+	<string>currentAsyncBrightness</string>
+	<key>mediocreNavigationName</key>
+	<string>semanticResourceSkewy</string>
+	<key>permanentDrawerTransparency</key>
+	<string>geometricAlphaOrigin</string>
+	<key>protectedStoreStyle</key>
+	<string>stateStageMargin</string>
+</dict>
+</plist>

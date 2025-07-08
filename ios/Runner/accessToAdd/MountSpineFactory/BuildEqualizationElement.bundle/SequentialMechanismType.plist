@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarLayerFrequency</key>
+	<string>positionFlyweightSaturation</string>
+	<key>builderFrameworkBehavior</key>
+	<string>segmentFormSize</string>
+	<key>constraintInterpreterOffset</key>
+	<string>groupIncludePattern</string>
+	<key>exceptionVersusFramework</key>
+	<string>localPopupAlignment</string>
+	<key>featureAsCycle</key>
+	<string>transformerThanComposite</string>
+	<key>particleVarStatus</key>
+	<string>controllerAboutShape</string>
+	<key>riverpodAwaySingleton</key>
+	<string>secondAsyncAlignment</string>
+	<key>semanticsSinceShape</key>
+	<string>inkwellProxyDuration</string>
+</dict>
+</plist>

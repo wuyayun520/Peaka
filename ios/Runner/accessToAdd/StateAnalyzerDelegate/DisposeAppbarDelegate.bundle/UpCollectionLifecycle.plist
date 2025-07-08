@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableDelegateOffset</key>
+	<string>painterModeInset</string>
+	<key>invisibleViewSpeed</key>
+	<string>scaffoldJobPadding</string>
+	<key>radiusOfSystem</key>
+	<string>configurationViaValue</string>
+	<key>resilientAnchorBound</key>
+	<string>compositionalFactoryOffset</string>
+	<key>richtextVersusCycle</key>
+	<string>gridBesideType</string>
+	<key>webMetadataState</key>
+	<string>layoutAndFacade</string>
+</dict>
+</plist>

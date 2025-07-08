@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPerStage</key>
+	<string>actionWorkName</string>
+	<key>bufferLikeFramework</key>
+	<string>screenParamAcceleration</string>
+	<key>deferredModalDensity</key>
+	<string>resultWithAction</string>
+	<key>desktopTabbarSize</key>
+	<string>asynchronousLabelStyle</string>
+	<key>enabledCapsuleFlags</key>
+	<string>delegatePatternInteraction</string>
+	<key>equalizationStageVisibility</key>
+	<string>effectTierBottom</string>
+	<key>resolverBufferTension</key>
+	<string>curveParamSaturation</string>
+	<key>synchronousInteractorSpeed</key>
+	<string>configurationByComposite</string>
+</dict>
+</plist>

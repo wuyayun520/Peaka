@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentLevelFeedback</key>
+	<string>cardJobDuration</string>
+	<key>convolutionCycleBehavior</key>
+	<string>segueForLayer</string>
+	<key>dropdownbuttonTempleScale</key>
+	<string>smartAnchorPressure</string>
+	<key>equipmentAgainstLayer</key>
+	<string>resourceAlongContext</string>
+	<key>nodeStageStatus</key>
+	<string>originalCallbackOrientation</string>
+	<key>observerVariableTail</key>
+	<string>priorityBridgePosition</string>
+	<key>uniformLayoutSkewx</key>
+	<string>previewCycleBound</string>
+	<key>viewPhaseInteraction</key>
+	<string>resourceThanState</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocThroughForm</key>
+	<string>spriteFlyweightRotation</string>
+	<key>deferredChannelInset</key>
+	<string>animationStructureState</string>
+	<key>imperativeGetxBound</key>
+	<string>richtextActionTransparency</string>
+	<key>missionPatternAcceleration</key>
+	<string>builderObserverOrigin</string>
+	<key>paddingContextKind</key>
+	<string>chapterEnvironmentTint</string>
+	<key>seamlessNavigatorBehavior</key>
+	<string>reusableMaterialSpacing</string>
+	<key>secondLabelTag</key>
+	<string>checkboxSinceActivity</string>
+	<key>secondOffsetContrast</key>
+	<string>buttonCycleDensity</string>
+	<key>stateAndPlatform</key>
+	<string>mobxAlongMode</string>
+</dict>
+</plist>

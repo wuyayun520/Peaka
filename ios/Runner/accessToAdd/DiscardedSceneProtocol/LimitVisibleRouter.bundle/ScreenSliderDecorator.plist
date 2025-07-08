@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitScopePosition</key>
+	<string>multiplicationTierContrast</string>
+	<key>builderTypeStyle</key>
+	<string>titleAroundScope</string>
+	<key>finalBlocAlignment</key>
+	<string>resolverWithComposite</string>
+	<key>layoutThroughVisitor</key>
+	<string>subpixelAsStructure</string>
+	<key>sessionAtEnvironment</key>
+	<string>monsterContextScale</string>
+</dict>
+</plist>

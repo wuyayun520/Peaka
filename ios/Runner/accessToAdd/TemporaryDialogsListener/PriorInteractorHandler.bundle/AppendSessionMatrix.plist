@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAgainstCommand</key>
+	<string>descriptorBufferShade</string>
+	<key>custompaintBySingleton</key>
+	<string>brushScopeLeft</string>
+	<key>disparateGraphicEdge</key>
+	<string>gridByMediator</string>
+	<key>ignoredEffectType</key>
+	<string>canvasFacadeSkewx</string>
+	<key>otherNodeRight</key>
+	<string>navigationObserverDelay</string>
+	<key>stackInterpreterColor</key>
+	<string>rowInterpreterFeedback</string>
+</dict>
+</plist>

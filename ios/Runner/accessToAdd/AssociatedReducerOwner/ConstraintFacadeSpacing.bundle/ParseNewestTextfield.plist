@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicColumnFormat</key>
+	<string>canvasAlongFlyweight</string>
+	<key>certificateExceptInterpreter</key>
+	<string>constraintAtSingleton</string>
+	<key>certificateFrameworkAlignment</key>
+	<string>nextFutureTension</string>
+	<key>diffableRiverpodValidation</key>
+	<string>rowSinceTask</string>
+	<key>optionAndMediator</key>
+	<string>boxForMediator</string>
+	<key>pivotalFrameShade</key>
+	<string>injectionDecoratorPressure</string>
+	<key>routerLikeProcess</key>
+	<string>isolateValuePosition</string>
+	<key>sustainableConstraintBottom</key>
+	<string>imageAroundCycle</string>
+</dict>
+</plist>

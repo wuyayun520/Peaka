@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxForComposite</key>
+	<string>viewChainBehavior</string>
+	<key>cubitTempleFeedback</key>
+	<string>pointOrStyle</string>
+	<key>descriptorLayerVisible</key>
+	<string>elasticScreenDirection</string>
+	<key>durationStyleBound</key>
+	<string>delegateOrForm</string>
+	<key>momentumWithTask</key>
+	<string>imperativeCubeType</string>
+	<key>navigationExceptPlatform</key>
+	<string>slashLikeAction</string>
+	<key>roleVisitorInteraction</key>
+	<string>directlyCustompaintInset</string>
+	<key>semanticLabelState</key>
+	<string>frameObserverLeft</string>
+</dict>
+</plist>

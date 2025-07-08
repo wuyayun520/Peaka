@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperViaStrategy</key>
+	<string>desktopConfigurationResponse</string>
+	<key>containerExceptOperation</key>
+	<string>secondGemOffset</string>
+	<key>easyCoordinatorOrigin</key>
+	<string>inactiveViewHue</string>
+	<key>sceneWithoutAdapter</key>
+	<string>semanticButtonDistance</string>
+	<key>smallParticleSkewy</key>
+	<string>inheritedChapterDuration</string>
+	<key>switchInterpreterHead</key>
+	<string>backwardEffectVisible</string>
+</dict>
+</plist>

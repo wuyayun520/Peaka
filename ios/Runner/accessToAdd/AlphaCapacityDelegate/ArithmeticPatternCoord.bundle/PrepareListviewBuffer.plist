@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedReducerContrast</key>
+	<string>providerPerComposite</string>
+	<key>entropyAlongFramework</key>
+	<string>ephemeralMenuTail</string>
+	<key>instructionTierTint</key>
+	<string>nativeTextureIndex</string>
+	<key>navigationStructureVisibility</key>
+	<string>displayableParticleInset</string>
+	<key>rectDecoratorTop</key>
+	<string>actionWithTemple</string>
+	<key>tabviewAdapterBottom</key>
+	<string>managerSystemRight</string>
+	<key>tickerCompositeContrast</key>
+	<string>callbackAsJob</string>
+	<key>transitionWithoutDecorator</key>
+	<string>draggableOptimizerStyle</string>
+</dict>
+</plist>

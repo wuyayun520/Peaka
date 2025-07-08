@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowFacadeBehavior</key>
+	<string>resizableSubpixelInset</string>
+	<key>localizationChainBrightness</key>
+	<string>segmentScopeVisibility</string>
+	<key>methodFromCycle</key>
+	<string>nodeAboutParameter</string>
+	<key>responseMediatorForce</key>
+	<string>materialFlexDistance</string>
+	<key>sliderDecoratorOffset</key>
+	<string>rapidPaddingInteraction</string>
+	<key>statelessQueueIndex</key>
+	<string>responseStageScale</string>
+	<key>usecasePhaseInset</key>
+	<string>providerWithPrototype</string>
+	<key>usedLabelDensity</key>
+	<string>eventParameterCount</string>
+	<key>viewInType</key>
+	<string>handlerVariableOrigin</string>
+</dict>
+</plist>

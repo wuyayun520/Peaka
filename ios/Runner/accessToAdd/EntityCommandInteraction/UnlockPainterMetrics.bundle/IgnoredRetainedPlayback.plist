@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableTimerLeft</key>
+	<string>blocAtMemento</string>
+	<key>independentBaseCenter</key>
+	<string>commandMementoMargin</string>
+	<key>notificationLevelSpeed</key>
+	<string>observerAlongContext</string>
+	<key>textureForWork</key>
+	<string>labelBesideParam</string>
+</dict>
+</plist>

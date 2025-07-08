@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocFromStyle</key>
+	<string>immutableParticleStyle</string>
+	<key>constraintFunctionTint</key>
+	<string>singletonBufferOpacity</string>
+	<key>displayableHashFeedback</key>
+	<string>mutableThemeBehavior</string>
+	<key>errorSinceChain</key>
+	<string>localIconValidation</string>
+	<key>gridviewDespiteStrategy</key>
+	<string>iterativeMenuDistance</string>
+	<key>imageParamOrientation</key>
+	<string>giftCommandName</string>
+	<key>notifierStateIndex</key>
+	<string>ternaryStageCount</string>
+	<key>reducerOfStructure</key>
+	<string>gridOrMode</string>
+	<key>sineAwayTier</key>
+	<string>futureStageStatus</string>
+	<key>topicOrLayer</key>
+	<string>usedScaffoldSpeed</string>
+</dict>
+</plist>

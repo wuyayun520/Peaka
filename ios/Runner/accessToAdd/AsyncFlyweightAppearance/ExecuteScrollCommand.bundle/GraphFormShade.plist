@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityOutsideFunction</key>
+	<string>ephemeralControllerDelay</string>
+	<key>buttonPlatformStatus</key>
+	<string>bitrateBeyondPlatform</string>
+	<key>checklistUntilFlyweight</key>
+	<string>captionBeyondContext</string>
+	<key>delegateActionSpacing</key>
+	<string>threadCommandHead</string>
+	<key>geometricLocalizationColor</key>
+	<string>widgetFacadeVisibility</string>
+	<key>heroAndWork</key>
+	<string>asynchronousSignatureMode</string>
+	<key>multiplicationNumberValidation</key>
+	<string>injectionPlatformBound</string>
+	<key>profileContainObserver</key>
+	<string>unactivatedTopicTag</string>
+	<key>queueProcessAlignment</key>
+	<string>intensityStyleLocation</string>
+	<key>riverpodDuringPattern</key>
+	<string>threadForMediator</string>
+</dict>
+</plist>

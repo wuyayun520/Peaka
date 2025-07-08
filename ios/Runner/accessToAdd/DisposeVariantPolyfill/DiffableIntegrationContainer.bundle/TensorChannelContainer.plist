@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorSystemVisibility</key>
+	<string>sustainableEffectColor</string>
+	<key>customCubeCount</key>
+	<string>threadInTier</string>
+	<key>displayableGramSaturation</key>
+	<string>spriteBufferColor</string>
+	<key>gridviewTaskForce</key>
+	<string>transitionShapeAlignment</string>
+	<key>notificationOfProcess</key>
+	<string>injectionVariableInset</string>
+	<key>primaryThemeSkewy</key>
+	<string>particleLikeSingleton</string>
+	<key>publicHandlerShape</key>
+	<string>parallelSizeValidation</string>
+	<key>reactiveResponseVisible</key>
+	<string>uniqueTextfieldSize</string>
+	<key>tabbarStageSaturation</key>
+	<string>diversifiedGrainMode</string>
+</dict>
+</plist>

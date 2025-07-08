@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameDespiteSystem</key>
+	<string>spriteIncludePattern</string>
+	<key>gradientStrategyMomentum</key>
+	<string>sizeBeyondProcess</string>
+	<key>momentumTypeLeft</key>
+	<string>serviceDespiteLevel</string>
+	<key>unactivatedDialogsSaturation</key>
+	<string>handlerThanStyle</string>
+</dict>
+</plist>

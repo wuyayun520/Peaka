@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerOptionDistance</key>
+	<string>subsequentQueryScale</string>
+	<key>reducerWithFlyweight</key>
+	<string>associatedCapacitiesIndex</string>
+</dict>
+</plist>

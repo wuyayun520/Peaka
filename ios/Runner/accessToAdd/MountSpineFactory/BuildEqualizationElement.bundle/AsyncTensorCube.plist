@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletShapeRate</key>
+	<string>smartLoopLeft</string>
+	<key>columnPhaseOffset</key>
+	<string>sinkKindInterval</string>
+	<key>completerPhaseLeft</key>
+	<string>scaffoldSingletonDistance</string>
+	<key>handlerStrategyTag</key>
+	<string>titleAboutChain</string>
+	<key>mediumBrushMargin</key>
+	<string>nodeThroughFramework</string>
+	<key>scrollableRequestSkewx</key>
+	<string>streamBesideStrategy</string>
+	<key>vectorStrategyTint</key>
+	<string>composablePreviewName</string>
+</dict>
+</plist>

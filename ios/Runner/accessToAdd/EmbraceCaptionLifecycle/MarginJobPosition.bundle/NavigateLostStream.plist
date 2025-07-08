@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>painterInsidePrototype</key>
+	<string>delegateViaEnvironment</string>
+	<key>seamlessNavigatorSkewy</key>
+	<string>servicePhaseSpeed</string>
+	<key>sliderOutsideCycle</key>
+	<string>dialogsOrChain</string>
+	<key>streamInsideProxy</key>
+	<string>mutableActionName</string>
+</dict>
+</plist>

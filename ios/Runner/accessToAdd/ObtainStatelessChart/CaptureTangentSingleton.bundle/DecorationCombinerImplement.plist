@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeLoopVisible</key>
+	<string>exceptionPerProcess</string>
+	<key>graphWithCommand</key>
+	<string>remainderCycleColor</string>
+	<key>grayscaleStyleColor</key>
+	<string>mediumBoxMode</string>
+	<key>lostBufferVisible</key>
+	<string>respectiveBoxContrast</string>
+	<key>mediaStagePressure</key>
+	<string>taskAboutMethod</string>
+	<key>newestRequestPosition</key>
+	<string>retainedPresenterTheme</string>
+	<key>optionDuringFacade</key>
+	<string>draggableOperationPressure</string>
+	<key>skinActionMomentum</key>
+	<string>completionFacadeFrequency</string>
+</dict>
+</plist>

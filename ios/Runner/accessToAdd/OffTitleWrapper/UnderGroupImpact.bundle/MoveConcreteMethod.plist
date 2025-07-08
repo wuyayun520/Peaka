@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMapDistance</key>
+	<string>variantAgainstAction</string>
+	<key>controllerAgainstStructure</key>
+	<string>canvasLayerFeedback</string>
+	<key>coordinatorPlatformRotation</key>
+	<string>gesturePrototypeOpacity</string>
+	<key>disparateCatalystOrientation</key>
+	<string>toolBesideKind</string>
+	<key>getxCycleDelay</key>
+	<string>projectAgainstDecorator</string>
+	<key>metadataTierBrightness</key>
+	<string>standaloneUsecaseLeft</string>
+	<key>serviceAgainstType</key>
+	<string>asynchronousFlexMomentum</string>
+	<key>significantBinaryStatus</key>
+	<string>statelessBesideScope</string>
+</dict>
+</plist>

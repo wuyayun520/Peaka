@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardRadiusStyle</key>
+	<string>petAdapterCount</string>
+	<key>dedicatedGraphSkewy</key>
+	<string>blocActivityLocation</string>
+	<key>deferredBlocInset</key>
+	<string>primaryCompleterShade</string>
+	<key>futureTaskSpacing</key>
+	<string>cartesianScaleCoord</string>
+	<key>greatCatalystCenter</key>
+	<string>priorityInsideTier</string>
+	<key>mobxWorkOrigin</key>
+	<string>resourceAgainstStrategy</string>
+	<key>responsiveBatchFlags</key>
+	<string>bufferOfPlatform</string>
+	<key>subsequentSizedboxContrast</key>
+	<string>subscriptionSystemStyle</string>
+	<key>typicalFragmentTop</key>
+	<string>routeAndPhase</string>
+</dict>
+</plist>

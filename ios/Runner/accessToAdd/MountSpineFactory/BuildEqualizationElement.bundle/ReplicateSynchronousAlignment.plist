@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintContextFormat</key>
+	<string>functionalGrainLocation</string>
+	<key>featureTypeInterval</key>
+	<string>observerVariableSaturation</string>
+	<key>gemPrototypeTransparency</key>
+	<string>stampOutsideAction</string>
+	<key>offsetIncludeSingleton</key>
+	<string>protocolContainContext</string>
+	<key>popupPlatformOrigin</key>
+	<string>viewOutsideProxy</string>
+	<key>textureInsideFlyweight</key>
+	<string>heroCycleInterval</string>
+	<key>timerWithoutMediator</key>
+	<string>titleAroundVar</string>
+	<key>utilAlongPhase</key>
+	<string>lazyExpandedKind</string>
+</dict>
+</plist>

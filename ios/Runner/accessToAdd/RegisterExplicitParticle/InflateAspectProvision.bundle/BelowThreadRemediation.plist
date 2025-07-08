@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncValueValidation</key>
+	<string>immutableCubitAcceleration</string>
+	<key>customSkirtPressure</key>
+	<string>asynchronousCubitResponse</string>
+	<key>futureScopeSpacing</key>
+	<string>utilCompositeTransparency</string>
+	<key>inactiveLocalizationInterval</key>
+	<string>slashCycleSkewx</string>
+	<key>normOutsideMethod</key>
+	<string>delegateFormMomentum</string>
+	<key>publicBrushLocation</key>
+	<string>singleAssetMargin</string>
+	<key>singleConstraintHead</key>
+	<string>timerByChain</string>
+</dict>
+</plist>

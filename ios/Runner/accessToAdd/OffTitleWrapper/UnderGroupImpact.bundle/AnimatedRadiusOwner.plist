@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarDecoratorFormat</key>
+	<string>contractionStructureBound</string>
+	<key>catalystDuringProcess</key>
+	<string>pageviewFlyweightInset</string>
+	<key>indicatorChainOffset</key>
+	<string>uniformPromiseCoord</string>
+	<key>staticPageviewStatus</key>
+	<string>completerAndProcess</string>
+	<key>textVisitorResponse</key>
+	<string>synchronousMarginLocation</string>
+	<key>viewBridgeContrast</key>
+	<string>effectPlatformTail</string>
+</dict>
+</plist>

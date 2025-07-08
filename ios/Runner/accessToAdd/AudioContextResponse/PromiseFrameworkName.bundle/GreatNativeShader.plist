@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackDuringParam</key>
+	<string>titleOutsideTier</string>
+	<key>cycleLikeParam</key>
+	<string>currentChapterDirection</string>
+	<key>enabledZoneFlags</key>
+	<string>cosineStrategyVisible</string>
+	<key>labelCommandContrast</key>
+	<string>operationPlatformDensity</string>
+	<key>respectiveParticleStyle</key>
+	<string>skirtEnvironmentMode</string>
+	<key>sequentialCurveStyle</key>
+	<string>matrixViaDecorator</string>
+	<key>statelessBoxValidation</key>
+	<string>entropyOutsideTemple</string>
+	<key>textMethodAcceleration</key>
+	<string>memberFacadeBehavior</string>
+	<key>timerTierDepth</key>
+	<string>gemInsideActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaExceptProxy</key>
+	<string>sharedResultEdge</string>
+	<key>gridStageTail</key>
+	<string>anchorTempleFeedback</string>
+	<key>lazyGramOpacity</key>
+	<string>vectorActionHue</string>
+	<key>momentumPhaseCount</key>
+	<string>tickerChainSpacing</string>
+	<key>persistentBoxshadowSaturation</key>
+	<string>cupertinoInterpreterRight</string>
+	<key>serviceAndParameter</key>
+	<string>storageTypeFrequency</string>
+	<key>tensorTitleBehavior</key>
+	<string>secondChannelDirection</string>
+</dict>
+</plist>

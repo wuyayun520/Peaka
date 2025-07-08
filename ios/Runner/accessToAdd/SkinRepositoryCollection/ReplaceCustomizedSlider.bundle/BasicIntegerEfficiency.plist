@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorFlyweightBorder</key>
+	<string>observerOperationAppearance</string>
+	<key>layerSingletonInteraction</key>
+	<string>staticThemeHue</string>
+	<key>missedDialogsTail</key>
+	<string>mediocreCoordinatorDuration</string>
+	<key>modelAwayStyle</key>
+	<string>repositoryAsAction</string>
+	<key>rowOperationTint</key>
+	<string>discardedIndicatorRight</string>
+	<key>spriteNumberContrast</key>
+	<string>tabviewFlyweightSkewy</string>
+	<key>storageAwayActivity</key>
+	<string>currentProgressbarDensity</string>
+</dict>
+</plist>

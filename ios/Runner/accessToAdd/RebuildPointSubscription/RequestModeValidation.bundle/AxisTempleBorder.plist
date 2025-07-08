@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentDecorationResponse</key>
+	<string>notificationWithProcess</string>
+	<key>navigatorCycleAppearance</key>
+	<string>nativeSlashState</string>
+	<key>normLevelFlags</key>
+	<string>widgetPatternFlags</string>
+	<key>profileLikeStage</key>
+	<string>hashMediatorAlignment</string>
+	<key>providerAtVariable</key>
+	<string>mediaInterpreterDepth</string>
+	<key>radioLayerLeft</key>
+	<string>referencePerActivity</string>
+	<key>rapidWorkflowDensity</key>
+	<string>nativeTaskShade</string>
+	<key>retainedRowVelocity</key>
+	<string>aspectVersusProcess</string>
+	<key>sinkUntilPhase</key>
+	<string>variantWithMemento</string>
+	<key>smallEqualizationRate</key>
+	<string>textureIncludePattern</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedNotificationStatus</key>
+	<string>easyMatrixRotation</string>
+	<key>animationInActivity</key>
+	<string>backwardTitleInterval</string>
+	<key>collectionFromBridge</key>
+	<string>elasticLoopOpacity</string>
+	<key>dropdownbuttonValueFeedback</key>
+	<string>sizePlatformCenter</string>
+	<key>groupCycleSpeed</key>
+	<string>resolverBufferStyle</string>
+	<key>immediateMethodTheme</key>
+	<string>dialogsFunctionPadding</string>
+	<key>invisibleModulusRight</key>
+	<string>routeWithoutJob</string>
+	<key>mainClipperVisible</key>
+	<string>binaryVersusJob</string>
+	<key>movementObserverRate</key>
+	<string>activatedInkwellPosition</string>
+	<key>popupBufferRotation</key>
+	<string>easyStreamTransparency</string>
+</dict>
+</plist>

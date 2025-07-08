@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteAllocatorOffset</key>
+	<string>progressbarExceptPhase</string>
+	<key>deferredFrameHue</key>
+	<string>cupertinoAxisCoord</string>
+	<key>elasticEntityTint</key>
+	<string>stateIncludeComposite</string>
+	<key>sizedboxTierOrigin</key>
+	<string>channelsStrategyColor</string>
+	<key>streamTaskFeedback</key>
+	<string>handlerCommandTransparency</string>
+</dict>
+</plist>

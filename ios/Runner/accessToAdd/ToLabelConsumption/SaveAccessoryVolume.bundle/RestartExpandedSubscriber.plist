@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constGrainSaturation</key>
+	<string>otherHashForce</string>
+	<key>geometricPreviewMode</key>
+	<string>originalControllerResponse</string>
+	<key>methodAndNumber</key>
+	<string>lossFrameworkVisibility</string>
+	<key>multiPlaybackBehavior</key>
+	<string>ignoredContractionInterval</string>
+	<key>observerFlyweightTag</key>
+	<string>gridSingletonTag</string>
+</dict>
+</plist>

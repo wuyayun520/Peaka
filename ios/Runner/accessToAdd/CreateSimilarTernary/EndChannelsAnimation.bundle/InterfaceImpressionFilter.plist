@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncVarFeedback</key>
+	<string>singleExceptionContrast</string>
+	<key>boxOfState</key>
+	<string>lazyChapterCoord</string>
+	<key>constViewTransparency</key>
+	<string>threadVersusNumber</string>
+	<key>frameAmongScope</key>
+	<string>taskActionHead</string>
+	<key>logarithmExceptStrategy</key>
+	<string>crucialGridviewDensity</string>
+	<key>statelessIncludeStrategy</key>
+	<string>storeOrType</string>
+</dict>
+</plist>

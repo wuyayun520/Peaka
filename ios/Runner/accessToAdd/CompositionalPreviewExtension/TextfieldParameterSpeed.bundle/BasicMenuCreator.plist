@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStrategyType</key>
+	<string>resourceAmongStage</string>
+	<key>compositionalGrainBound</key>
+	<string>methodScopeVisible</string>
+	<key>desktopTaskInset</key>
+	<string>textureFrameworkDepth</string>
+	<key>hardDependencyDepth</key>
+	<string>bulletInsideType</string>
+	<key>iconIncludeShape</key>
+	<string>imagePhaseAcceleration</string>
+	<key>immediateIconOrientation</key>
+	<string>materialIsolateOrientation</string>
+	<key>mediocreMomentumType</key>
+	<string>protectedAllocatorInset</string>
+	<key>missedPreviewVisible</key>
+	<string>listenerAgainstForm</string>
+	<key>navigatorContextOpacity</key>
+	<string>utilTaskOrigin</string>
+</dict>
+</plist>

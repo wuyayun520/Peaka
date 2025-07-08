@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaCompositeVisibility</key>
+	<string>parallelMediaquerySpacing</string>
+	<key>dependencyByVariable</key>
+	<string>resourceShapeStatus</string>
+	<key>equalizationAsAction</key>
+	<string>inheritedObserverVelocity</string>
+	<key>explicitSingletonOrigin</key>
+	<string>elasticTaskAppearance</string>
+	<key>numericalDimensionBehavior</key>
+	<string>grayscaleViaFlyweight</string>
+	<key>promiseStageTint</key>
+	<string>allocatorBesideStructure</string>
+	<key>queueCommandShade</key>
+	<string>compositionalCommandKind</string>
+	<key>rapidIntegerBrightness</key>
+	<string>immutableCoordinatorBrightness</string>
+</dict>
+</plist>

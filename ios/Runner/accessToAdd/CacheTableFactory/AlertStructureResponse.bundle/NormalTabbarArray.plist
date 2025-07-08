@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalPositionStyle</key>
+	<string>layerAgainstOperation</string>
+	<key>custompaintAlongFramework</key>
+	<string>controllerThroughVisitor</string>
+	<key>globalGetxTop</key>
+	<string>interactorNearSingleton</string>
+	<key>robustCharacterScale</key>
+	<string>backwardRemainderShade</string>
+	<key>signatureVersusStage</key>
+	<string>radioAgainstAdapter</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAllocatorInteraction</key>
+	<string>axisSingletonTop</string>
+	<key>fixedDependencyBrightness</key>
+	<string>permanentEventDistance</string>
+	<key>operationMediatorBound</key>
+	<string>decorationInterpreterSkewy</string>
+	<key>scaleCompositeShade</key>
+	<string>associatedDelegateLeft</string>
+</dict>
+</plist>

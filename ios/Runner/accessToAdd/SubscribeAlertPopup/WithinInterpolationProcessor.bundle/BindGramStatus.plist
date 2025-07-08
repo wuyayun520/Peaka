@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerProviderOrigin</key>
+	<string>presenterAtAction</string>
+	<key>respectiveGridInset</key>
+	<string>interactiveTextShade</string>
+	<key>sessionAwayParameter</key>
+	<string>gesturedetectorInMemento</string>
+	<key>usecaseLikeDecorator</key>
+	<string>tickerBeyondLevel</string>
+</dict>
+</plist>

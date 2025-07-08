@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCompletionVisible</key>
+	<string>catalystObserverPadding</string>
+	<key>constraintAroundFunction</key>
+	<string>customManagerSaturation</string>
+	<key>cubitProxySkewx</key>
+	<string>webNibAppearance</string>
+	<key>enabledSinkFeedback</key>
+	<string>flexibleSizeDepth</string>
+	<key>invisibleLabelAppearance</key>
+	<string>visibleServiceTheme</string>
+	<key>otherDelegateAppearance</key>
+	<string>substantialContainerScale</string>
+	<key>signOrComposite</key>
+	<string>primaryScrollType</string>
+</dict>
+</plist>

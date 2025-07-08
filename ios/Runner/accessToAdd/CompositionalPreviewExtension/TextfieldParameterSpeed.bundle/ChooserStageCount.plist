@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationTaskColor</key>
+	<string>animationValueRate</string>
+	<key>euclideanSampleResponse</key>
+	<string>profileCycleBrightness</string>
+	<key>greatCoordinatorPadding</key>
+	<string>crudeSizedboxInteraction</string>
+	<key>indicatorIncludeStyle</key>
+	<string>symbolOrParam</string>
+	<key>mobxLayerCenter</key>
+	<string>queueModeAcceleration</string>
+	<key>screenShapeKind</key>
+	<string>liteDependencyName</string>
+	<key>singletonMementoSpeed</key>
+	<string>constraintSinceFunction</string>
+</dict>
+</plist>

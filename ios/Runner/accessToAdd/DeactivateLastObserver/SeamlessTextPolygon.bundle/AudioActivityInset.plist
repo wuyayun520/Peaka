@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheObserverOrientation</key>
+	<string>controllerAwayNumber</string>
+	<key>cellInsideActivity</key>
+	<string>visibleSubpixelMode</string>
+	<key>explicitTimerInterval</key>
+	<string>durationIncludeStructure</string>
+	<key>fusedShaderLeft</key>
+	<string>ignoredStatelessVisibility</string>
+	<key>largeReducerRate</key>
+	<string>reusableButtonEdge</string>
+	<key>plateContextFrequency</key>
+	<string>multiMatrixAcceleration</string>
+	<key>queryEnvironmentCenter</key>
+	<string>richtextStageAcceleration</string>
+	<key>sequentialEventRate</key>
+	<string>singletonAlongStructure</string>
+</dict>
+</plist>

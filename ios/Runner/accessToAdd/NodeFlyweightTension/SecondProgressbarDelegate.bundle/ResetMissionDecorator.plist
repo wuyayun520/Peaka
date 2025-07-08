@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiFutureMomentum</key>
+	<string>viewOfObserver</string>
+	<key>optimizerAgainstComposite</key>
+	<string>adaptiveHistogramContrast</string>
+	<key>repositoryAndSingleton</key>
+	<string>firstViewTop</string>
+	<key>textNearProxy</key>
+	<string>intensityTempleShape</string>
+	<key>uniformWidgetSpeed</key>
+	<string>cubePerStyle</string>
+</dict>
+</plist>

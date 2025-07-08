@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialConstraintTheme</key>
+	<string>offsetMethodLeft</string>
+	<key>greatBulletValidation</key>
+	<string>particleContextColor</string>
+	<key>resizableFeatureBorder</key>
+	<string>routerObserverAlignment</string>
+	<key>routerDespiteTask</key>
+	<string>robustTransitionHue</string>
+	<key>sizedboxDecoratorMomentum</key>
+	<string>normStageFormat</string>
+</dict>
+</plist>

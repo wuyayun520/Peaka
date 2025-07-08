@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateAroundCommand</key>
+	<string>handlerVersusComposite</string>
+	<key>managerAsChain</key>
+	<string>dynamicGetxSaturation</string>
+	<key>persistentTopicTag</key>
+	<string>shaderParamMode</string>
+	<key>prevCoordinatorEdge</key>
+	<string>metadataFormSaturation</string>
+	<key>queueScopeCount</key>
+	<string>desktopAwaitInteraction</string>
+	<key>routerInStrategy</key>
+	<string>overlayViaContext</string>
+	<key>tangentStateOrigin</key>
+	<string>progressbarTempleTint</string>
+	<key>uniformHandlerOpacity</key>
+	<string>transitionTypeFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisSingletonLocation</key>
+	<string>exponentAroundFunction</string>
+	<key>behaviorAmongMediator</key>
+	<string>responsiveClipperOrientation</string>
+	<key>compositionContainBridge</key>
+	<string>resultObserverFlags</string>
+	<key>durationModeMode</key>
+	<string>aspectStateBehavior</string>
+	<key>labelProcessKind</key>
+	<string>accordionConstraintInterval</string>
+	<key>vectorContainJob</key>
+	<string>resourceVersusMode</string>
+</dict>
+</plist>

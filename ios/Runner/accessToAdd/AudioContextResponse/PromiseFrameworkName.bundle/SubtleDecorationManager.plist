@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackIncludeOperation</key>
+	<string>graphAroundObserver</string>
+	<key>captionBeyondAction</key>
+	<string>dependencyKindDirection</string>
+	<key>clipperOutsideContext</key>
+	<string>resourceWithParam</string>
+	<key>reactiveSpineIndex</key>
+	<string>intuitiveWidgetStatus</string>
+	<key>spineWithoutComposite</key>
+	<string>streamParameterTop</string>
+</dict>
+</plist>

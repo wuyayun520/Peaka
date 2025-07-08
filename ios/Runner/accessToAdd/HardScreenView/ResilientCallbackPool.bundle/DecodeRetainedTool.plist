@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOutsideBridge</key>
+	<string>boxshadowStructureFeedback</string>
+	<key>constraintFacadeTransparency</key>
+	<string>sharedTickerVisibility</string>
+	<key>criticalPromiseAppearance</key>
+	<string>brushTierVelocity</string>
+	<key>largeMobxFlags</key>
+	<string>catalystAndVariable</string>
+	<key>rectAwayChain</key>
+	<string>difficultBlocEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaOperationBorder</key>
+	<string>statelessVersusPhase</string>
+	<key>declarativeFactoryKind</key>
+	<string>normPerSystem</string>
+	<key>prismaticGestureTransparency</key>
+	<string>hierarchicalSegmentOrientation</string>
+	<key>robustRouteState</key>
+	<string>temporaryMatrixKind</string>
+</dict>
+</plist>

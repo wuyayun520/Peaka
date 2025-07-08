@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonRiverpodTint</key>
+	<string>criticalTopicTail</string>
+	<key>switchPhaseInterval</key>
+	<string>displayableRouteInterval</string>
+	<key>transitionStyleRight</key>
+	<string>logEnvironmentVisible</string>
+</dict>
+</plist>

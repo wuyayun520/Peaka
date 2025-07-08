@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticProjectCenter</key>
+	<string>storyboardOutsideMode</string>
+	<key>featureAgainstParam</key>
+	<string>discardedPlateDelay</string>
+	<key>inheritedChannelTint</key>
+	<string>handlerVersusMode</string>
+	<key>mutableSingletonSpacing</key>
+	<string>usecaseForSingleton</string>
+	<key>newestAssetTransparency</key>
+	<string>chartShapeIndex</string>
+	<key>reactiveTangentRotation</key>
+	<string>activeSpineType</string>
+	<key>resilientTaskAcceleration</key>
+	<string>plateActionSize</string>
+	<key>ternaryAsChain</key>
+	<string>priorGroupBorder</string>
+	<key>textureProcessIndex</key>
+	<string>normCompositeCount</string>
+</dict>
+</plist>

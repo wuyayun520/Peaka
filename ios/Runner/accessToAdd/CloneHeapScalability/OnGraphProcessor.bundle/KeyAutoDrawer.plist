@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationOutsideTask</key>
+	<string>accessoryShapeSize</string>
+	<key>delegateProcessTag</key>
+	<string>semanticStoreTag</string>
+	<key>handlerValueDepth</key>
+	<string>screenActionColor</string>
+	<key>matrixValueSpacing</key>
+	<string>sharedCanvasOrigin</string>
+	<key>offsetPhaseStatus</key>
+	<string>functionalFeatureTint</string>
+	<key>platePlatformTheme</key>
+	<string>mutableDropdownbuttonBound</string>
+	<key>similarTaskSpacing</key>
+	<string>modelForMode</string>
+	<key>skinAsEnvironment</key>
+	<string>animatedcontainerWorkHue</string>
+	<key>textValueInset</key>
+	<string>heroOrStage</string>
+</dict>
+</plist>

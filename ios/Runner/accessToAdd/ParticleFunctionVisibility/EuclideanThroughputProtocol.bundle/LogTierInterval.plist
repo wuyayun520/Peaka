@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonNodeContrast</key>
+	<string>sharedHashFormat</string>
+	<key>cubitDuringCommand</key>
+	<string>slashCommandOpacity</string>
+	<key>diffableTaskKind</key>
+	<string>textureSingletonDuration</string>
+	<key>inheritedTopicIndex</key>
+	<string>animationStyleFormat</string>
+	<key>metadataWithoutLevel</key>
+	<string>backwardGetxStyle</string>
+	<key>oldManagerScale</key>
+	<string>usecaseStyleBottom</string>
+	<key>priorityAdapterSpeed</key>
+	<string>particleOperationRate</string>
+</dict>
+</plist>

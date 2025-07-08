@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentCatalystFrequency</key>
+	<string>columnEnvironmentBound</string>
+	<key>grainAtVar</key>
+	<string>prioritySinceInterpreter</string>
+	<key>persistentShaderSpeed</key>
+	<string>completerAroundFunction</string>
+	<key>scenePerVar</key>
+	<string>statelessBitrateForce</string>
+	<key>temporaryCharacterMargin</key>
+	<string>routerAsCommand</string>
+</dict>
+</plist>

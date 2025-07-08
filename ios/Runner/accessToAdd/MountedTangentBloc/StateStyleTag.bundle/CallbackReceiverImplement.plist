@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMapDensity</key>
+	<string>dialogsTempleShade</string>
+	<key>composableConstraintBehavior</key>
+	<string>materialTypeVisible</string>
+	<key>dedicatedGraphHead</key>
+	<string>animatedcontainerStateLeft</string>
+	<key>entityPlatformSpeed</key>
+	<string>desktopGrainOrigin</string>
+	<key>labelOfMemento</key>
+	<string>tweenOrTask</string>
+	<key>secondProjectInterval</key>
+	<string>providerOrStage</string>
+	<key>singleTopicPadding</key>
+	<string>decorationPhaseValidation</string>
+	<key>textBridgeDirection</key>
+	<string>zoneFrameworkTransparency</string>
+	<key>toolDecoratorRight</key>
+	<string>invisibleProviderMargin</string>
+</dict>
+</plist>

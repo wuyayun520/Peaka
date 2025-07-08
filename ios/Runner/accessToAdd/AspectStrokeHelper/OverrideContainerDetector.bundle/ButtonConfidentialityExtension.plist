@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncListenerSaturation</key>
+	<string>checklistVariableHue</string>
+	<key>constTickerFeedback</key>
+	<string>stepThanCycle</string>
+	<key>flexibleAlignmentPosition</key>
+	<string>bulletFacadeSkewy</string>
+	<key>grayscaleLikeState</key>
+	<string>controllerAmongKind</string>
+	<key>listviewSinceFramework</key>
+	<string>invisibleDecorationBorder</string>
+	<key>pointFormLocation</key>
+	<string>hierarchicalCapsuleKind</string>
+	<key>positionedParamType</key>
+	<string>immediateTextOpacity</string>
+	<key>spriteValuePosition</key>
+	<string>usecaseStateTail</string>
+	<key>statefulContextRotation</key>
+	<string>beginnerSensorDelay</string>
+</dict>
+</plist>

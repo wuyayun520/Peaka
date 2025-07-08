@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSingletonContrast</key>
+	<string>interactiveAwaitShade</string>
+	<key>deferredHandlerInteraction</key>
+	<string>asyncFacadeSaturation</string>
+	<key>flexActionResponse</key>
+	<string>binaryStyleRight</string>
+	<key>grayscalePrototypeDelay</key>
+	<string>tensorRowPressure</string>
+	<key>reductionStateRotation</key>
+	<string>intuitiveBasePressure</string>
+	<key>requestAsPrototype</key>
+	<string>unsortedInstructionSize</string>
+	<key>statefulConfigurationDistance</key>
+	<string>constraintBufferSaturation</string>
+	<key>switchAwayFacade</key>
+	<string>cubeObserverName</string>
+	<key>utilDuringCommand</key>
+	<string>storageAlongSystem</string>
+</dict>
+</plist>

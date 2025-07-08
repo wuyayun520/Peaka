@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletActionInteraction</key>
+	<string>directlyMusicTail</string>
+	<key>methodCycleMode</key>
+	<string>tabviewBeyondMediator</string>
+	<key>textFacadeCenter</key>
+	<string>statelessVisitorRotation</string>
+	<key>transitionByAction</key>
+	<string>scaffoldObserverRate</string>
+</dict>
+</plist>

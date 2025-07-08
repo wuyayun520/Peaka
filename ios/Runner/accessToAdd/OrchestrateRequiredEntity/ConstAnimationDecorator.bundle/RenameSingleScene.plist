@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisAsObserver</key>
+	<string>sophisticatedGridVisibility</string>
+	<key>containerBeyondMediator</key>
+	<string>semanticScrollKind</string>
+	<key>sizeStrategyResponse</key>
+	<string>disabledActivityBound</string>
+	<key>streamDespiteBuffer</key>
+	<string>alignmentKindBehavior</string>
+</dict>
+</plist>

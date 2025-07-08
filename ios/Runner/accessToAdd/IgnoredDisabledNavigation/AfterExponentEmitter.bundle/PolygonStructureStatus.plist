@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>masterParameterInterval</key>
+	<string>robustSwitchFrequency</string>
+	<key>precisionLikeTask</key>
+	<string>semanticAwaitOffset</string>
+	<key>sceneFromScope</key>
+	<string>composableScaffoldInterval</string>
+</dict>
+</plist>

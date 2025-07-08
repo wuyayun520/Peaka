@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionCompositeInterval</key>
+	<string>chapterAmongLevel</string>
+	<key>activityContainAction</key>
+	<string>tweenAlongBuffer</string>
+	<key>chapterAndComposite</key>
+	<string>controllerFacadeInteraction</string>
+	<key>documentExceptAction</key>
+	<string>reductionValueHead</string>
+	<key>reusableTransformerMomentum</key>
+	<string>routeAtScope</string>
+</dict>
+</plist>

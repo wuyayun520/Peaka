@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterBeyondInterpreter</key>
+	<string>eventAroundPlatform</string>
+	<key>constraintTypeEdge</key>
+	<string>uniformButtonHue</string>
+	<key>cubitInFacade</key>
+	<string>modalCommandEdge</string>
+	<key>curveJobType</key>
+	<string>asyncStageCoord</string>
+	<key>independentCubitContrast</key>
+	<string>pageviewShapeMargin</string>
+	<key>kernelFacadeVelocity</key>
+	<string>secondGrainAlignment</string>
+	<key>resolverOfPattern</key>
+	<string>lazyResponseCount</string>
+	<key>specifierCompositeDensity</key>
+	<string>sampleOrBuffer</string>
+</dict>
+</plist>

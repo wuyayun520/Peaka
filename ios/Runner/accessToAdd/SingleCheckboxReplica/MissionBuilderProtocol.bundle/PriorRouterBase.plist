@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopBlocTransparency</key>
+	<string>streamAsBuffer</string>
+	<key>fixedTextfieldContrast</key>
+	<string>unactivatedEffectSkewy</string>
+	<key>iconSystemPosition</key>
+	<string>scrollablePopupAppearance</string>
+	<key>labelInterpreterKind</key>
+	<string>compositionBeyondActivity</string>
+	<key>significantControllerBehavior</key>
+	<string>controllerThroughObserver</string>
+	<key>streamMediatorFeedback</key>
+	<string>variantStateDepth</string>
+	<key>taskOutsideContext</key>
+	<string>projectionTierFeedback</string>
+	<key>topicVariableRotation</key>
+	<string>permanentWidgetVisible</string>
+	<key>widgetChainSkewx</key>
+	<string>protocolSinceProxy</string>
+</dict>
+</plist>

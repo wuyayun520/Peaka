@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationForTask</key>
+	<string>custompaintPhaseMomentum</string>
+	<key>eagerCubeSkewx</key>
+	<string>resilientMomentumRotation</string>
+	<key>repositoryMementoSkewy</key>
+	<string>normalUsecaseRate</string>
+	<key>usecaseTempleSpacing</key>
+	<string>containerAgainstPlatform</string>
+</dict>
+</plist>

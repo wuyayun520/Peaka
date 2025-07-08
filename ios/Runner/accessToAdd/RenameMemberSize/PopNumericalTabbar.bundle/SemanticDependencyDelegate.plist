@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerPatternShape</key>
+	<string>cubeStyleDepth</string>
+	<key>completionForComposite</key>
+	<string>independentAppbarBehavior</string>
+	<key>controllerParameterTail</key>
+	<string>effectMediatorCoord</string>
+	<key>firstPreviewOffset</key>
+	<string>numericalDescriptionBound</string>
+	<key>keyLocalizationVisibility</key>
+	<string>customizedPetMode</string>
+	<key>petContainParam</key>
+	<string>lazyBehaviorFeedback</string>
+</dict>
+</plist>

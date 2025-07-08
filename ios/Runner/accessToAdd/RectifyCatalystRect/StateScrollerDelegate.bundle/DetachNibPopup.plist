@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarTierFrequency</key>
+	<string>uniformHashSkewx</string>
+	<key>completerDecoratorFeedback</key>
+	<string>cartesianChartResponse</string>
+	<key>constraintOrInterpreter</key>
+	<string>requiredMovementStatus</string>
+	<key>titleAdapterHue</key>
+	<string>flexibleCheckboxDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletTierRate</key>
+	<string>resourceOperationCount</string>
+	<key>buttonIncludeMode</key>
+	<string>entityJobRight</string>
+	<key>finalObserverDirection</key>
+	<string>functionalStoreMode</string>
+	<key>immediateProgressbarState</key>
+	<string>sceneTaskSkewy</string>
+	<key>localizationVarTransparency</key>
+	<string>reducerOperationDepth</string>
+	<key>navigatorVersusFramework</key>
+	<string>tableMethodRotation</string>
+	<key>optionNumberRight</key>
+	<string>serviceFunctionBehavior</string>
+	<key>reductionThroughEnvironment</key>
+	<string>layoutVarForce</string>
+</dict>
+</plist>

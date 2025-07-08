@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicGateMode</key>
+	<string>modelContextLeft</string>
+	<key>channelPerCommand</key>
+	<string>sceneFunctionFeedback</string>
+	<key>delegateByNumber</key>
+	<string>independentFrameOrigin</string>
+	<key>difficultStorageInteraction</key>
+	<string>presenterOperationFeedback</string>
+	<key>globalExceptionBehavior</key>
+	<string>cosineAroundProcess</string>
+	<key>grayscaleAdapterEdge</key>
+	<string>storyboardWithoutState</string>
+	<key>persistentModalTransparency</key>
+	<string>convolutionBridgeRight</string>
+</dict>
+</plist>

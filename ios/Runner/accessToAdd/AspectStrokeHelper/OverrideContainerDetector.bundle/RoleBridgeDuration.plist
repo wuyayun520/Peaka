@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoViewBehavior</key>
+	<string>errorDuringProxy</string>
+	<key>methodInPlatform</key>
+	<string>shaderAndStyle</string>
+	<key>missionAdapterState</key>
+	<string>dedicatedRiverpodRate</string>
+	<key>navigatorWithSingleton</key>
+	<string>exceptionLayerFrequency</string>
+	<key>sceneScopeOrientation</key>
+	<string>keyBaseMomentum</string>
+	<key>sceneWithStructure</key>
+	<string>heapStrategyCenter</string>
+	<key>taskSinceMediator</key>
+	<string>projectionAndVisitor</string>
+	<key>themeSystemHue</key>
+	<string>cubitSingletonSpacing</string>
+</dict>
+</plist>

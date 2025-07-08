@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackStrategyScale</key>
+	<string>textureFromMethod</string>
+	<key>granularCoordinatorScale</key>
+	<string>sizedboxStructureBound</string>
+	<key>isolateVersusFramework</key>
+	<string>constraintInterpreterTransparency</string>
+	<key>labelAwayPattern</key>
+	<string>inheritedTouchDirection</string>
+	<key>mutableResponseColor</key>
+	<string>threadAgainstAction</string>
+	<key>textAboutForm</key>
+	<string>asyncStorageVelocity</string>
+	<key>textfieldOutsidePattern</key>
+	<string>buttonDespiteJob</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectParamFlags</key>
+	<string>modelLevelRight</string>
+	<key>layoutScopeEdge</key>
+	<string>euclideanResponseContrast</string>
+	<key>lossEnvironmentLocation</key>
+	<string>managerChainOrientation</string>
+	<key>resourceFormResponse</key>
+	<string>requestObserverOrigin</string>
+	<key>rowSinceSingleton</key>
+	<string>semanticDecorationVelocity</string>
+</dict>
+</plist>

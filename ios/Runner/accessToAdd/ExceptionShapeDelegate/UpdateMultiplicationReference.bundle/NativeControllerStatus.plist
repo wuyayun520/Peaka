@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredAlignmentSize</key>
+	<string>positionedCommandSkewy</string>
+	<key>layoutStructureBehavior</key>
+	<string>widgetFunctionAcceleration</string>
+	<key>navigatorKindTransparency</key>
+	<string>marginAwayType</string>
+	<key>semanticClipperVelocity</key>
+	<string>sizedboxBridgeValidation</string>
+	<key>symmetricSemanticsIndex</key>
+	<string>criticalDependencyVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheVarMode</key>
+	<string>binaryInJob</string>
+	<key>featureByBridge</key>
+	<string>customDelegateOrientation</string>
+	<key>originalAwaitBottom</key>
+	<string>reducerByProxy</string>
+	<key>sophisticatedHashStyle</key>
+	<string>grainJobRate</string>
+</dict>
+</plist>

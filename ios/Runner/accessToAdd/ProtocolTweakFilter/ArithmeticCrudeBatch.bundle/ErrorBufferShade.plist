@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureMediatorContrast</key>
+	<string>containerVersusState</string>
+	<key>grainMementoMode</key>
+	<string>uniqueServiceInset</string>
+	<key>inkwellActionPressure</key>
+	<string>gridSincePrototype</string>
+	<key>intensityVersusStyle</key>
+	<string>custompaintTaskValidation</string>
+	<key>navigatorParameterBrightness</key>
+	<string>futureFromType</string>
+</dict>
+</plist>

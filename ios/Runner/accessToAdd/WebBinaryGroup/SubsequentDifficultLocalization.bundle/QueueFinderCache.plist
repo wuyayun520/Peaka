@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackOutsideStrategy</key>
+	<string>sliderMediatorFeedback</string>
+	<key>descriptionCycleAcceleration</key>
+	<string>binaryActionAlignment</string>
+	<key>gridviewExceptWork</key>
+	<string>queueLayerScale</string>
+	<key>intuitiveMediaqueryDistance</key>
+	<string>factoryOperationVisible</string>
+	<key>repositoryContainStyle</key>
+	<string>columnTypeLocation</string>
+	<key>sortedBlocDirection</key>
+	<string>eventFunctionCount</string>
+	<key>viewInNumber</key>
+	<string>prevResourceEdge</string>
+</dict>
+</plist>

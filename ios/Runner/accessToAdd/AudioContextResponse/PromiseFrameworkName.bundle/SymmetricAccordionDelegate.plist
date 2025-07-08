@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutWithoutFlyweight</key>
+	<string>cupertinoWithValue</string>
+	<key>mainBehaviorMargin</key>
+	<string>custompaintInsideFlyweight</string>
+	<key>originalFutureBehavior</key>
+	<string>certificateMethodVisibility</string>
+	<key>providerProxyTransparency</key>
+	<string>constWorkflowRate</string>
+	<key>textfieldSinceTask</key>
+	<string>alphaNumberSpacing</string>
+	<key>transitionTempleInset</key>
+	<string>storeProxyMomentum</string>
+</dict>
+</plist>

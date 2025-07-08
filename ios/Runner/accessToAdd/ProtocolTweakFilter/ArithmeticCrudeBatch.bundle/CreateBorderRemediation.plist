@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonProjectColor</key>
+	<string>coordinatorAboutState</string>
+	<key>movementLevelRight</key>
+	<string>cubitBufferRight</string>
+	<key>newestCallbackTint</key>
+	<string>heapWithoutVar</string>
+	<key>particleOutsideForm</key>
+	<string>signStyleAlignment</string>
+</dict>
+</plist>

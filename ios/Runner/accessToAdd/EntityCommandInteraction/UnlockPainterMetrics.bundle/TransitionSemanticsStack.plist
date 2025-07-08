@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectAtScope</key>
+	<string>referenceAgainstParameter</string>
+	<key>gramAboutComposite</key>
+	<string>subpixelNearStrategy</string>
+	<key>previewFacadeShape</key>
+	<string>builderInterpreterScale</string>
+	<key>radioStyleState</key>
+	<string>drawerThroughInterpreter</string>
+	<key>texturePatternShape</key>
+	<string>storeFunctionPressure</string>
+</dict>
+</plist>

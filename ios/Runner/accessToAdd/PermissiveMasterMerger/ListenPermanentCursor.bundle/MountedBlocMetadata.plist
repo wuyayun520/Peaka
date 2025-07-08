@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCanvasTension</key>
+	<string>curvePerWork</string>
+	<key>characterOutsideKind</key>
+	<string>modalPrototypeMode</string>
+	<key>factoryPatternTransparency</key>
+	<string>lazyApertureInterval</string>
+	<key>integerTypeSpeed</key>
+	<string>storeEnvironmentShade</string>
+	<key>numericalCacheBrightness</key>
+	<string>retainedAxisEdge</string>
+</dict>
+</plist>

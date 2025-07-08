@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocShapeOrientation</key>
+	<string>disparateEquipmentBehavior</string>
+	<key>callbackAboutContext</key>
+	<string>basicAssetInteraction</string>
+	<key>channelsDespiteVar</key>
+	<string>pinchablePainterTint</string>
+	<key>cursorVarFormat</key>
+	<string>largeSymbolTheme</string>
+	<key>eagerInteractorFormat</key>
+	<string>operationAndTask</string>
+	<key>exceptionWithoutMethod</key>
+	<string>catalystSinceBuffer</string>
+	<key>hardSliderTail</key>
+	<string>statelessZoneScale</string>
+	<key>particleFunctionOrientation</key>
+	<string>tabbarEnvironmentScale</string>
+	<key>playbackBridgeMode</key>
+	<string>sliderAmongPrototype</string>
+	<key>unsortedSceneRate</key>
+	<string>axisContainInterpreter</string>
+</dict>
+</plist>

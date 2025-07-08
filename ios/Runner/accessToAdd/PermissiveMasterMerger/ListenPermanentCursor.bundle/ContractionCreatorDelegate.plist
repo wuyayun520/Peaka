@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorPatternSaturation</key>
+	<string>radiusStructurePadding</string>
+	<key>capacitiesProxyBottom</key>
+	<string>captionWorkInset</string>
+	<key>cardContainAdapter</key>
+	<string>controllerProxyDistance</string>
+	<key>catalystActivityDistance</key>
+	<string>discardedDescriptionOrigin</string>
+	<key>kernelInActivity</key>
+	<string>sampleInInterpreter</string>
+	<key>rectEnvironmentCoord</key>
+	<string>titleJobMode</string>
+	<key>storyboardObserverRate</key>
+	<string>coordinatorAboutChain</string>
+</dict>
+</plist>

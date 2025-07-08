@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushPlatformVisibility</key>
+	<string>capsuleContainLevel</string>
+	<key>chartAgainstPrototype</key>
+	<string>statelessStructureDirection</string>
+	<key>containerForBuffer</key>
+	<string>offsetChainPadding</string>
+	<key>groupOrMethod</key>
+	<string>constParticleCoord</string>
+	<key>pageviewContextIndex</key>
+	<string>scrollableExpandedSaturation</string>
+	<key>painterIncludeState</key>
+	<string>customMaterialTension</string>
+</dict>
+</plist>

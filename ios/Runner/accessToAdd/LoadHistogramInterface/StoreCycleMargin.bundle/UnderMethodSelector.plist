@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardPositionMode</key>
+	<string>cubitFacadeAcceleration</string>
+	<key>declarativeFragmentCoord</key>
+	<string>movementAwayBridge</string>
+	<key>listviewThanStrategy</key>
+	<string>chapterFromFunction</string>
+	<key>positionAsVisitor</key>
+	<string>textureAsEnvironment</string>
+	<key>positionedLayerSkewy</key>
+	<string>memberDecoratorInset</string>
+	<key>previewPrototypeHue</key>
+	<string>transformerStrategyForce</string>
+	<key>signatureShapeFeedback</key>
+	<string>serviceOperationOpacity</string>
+	<key>substantialMetadataInset</key>
+	<string>localizationWithoutState</string>
+</dict>
+</plist>

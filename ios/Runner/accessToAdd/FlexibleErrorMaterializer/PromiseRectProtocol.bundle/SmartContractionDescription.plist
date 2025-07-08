@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectLayerAcceleration</key>
+	<string>interfaceVersusAction</string>
+	<key>navigatorSingletonAppearance</key>
+	<string>navigatorThroughBuffer</string>
+	<key>pageviewAwayShape</key>
+	<string>queryProcessCoord</string>
+	<key>particleFlyweightRate</key>
+	<string>multiplicationTaskOrigin</string>
+	<key>resizableParticleFlags</key>
+	<string>permissiveSensorState</string>
+	<key>slashVarInteraction</key>
+	<string>configurationTypeRate</string>
+	<key>subscriptionLevelSkewy</key>
+	<string>cellNumberPadding</string>
+</dict>
+</plist>

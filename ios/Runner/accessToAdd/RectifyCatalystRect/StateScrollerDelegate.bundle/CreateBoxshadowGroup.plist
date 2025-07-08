@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertForEnvironment</key>
+	<string>awaitAsChain</string>
+	<key>asyncActionPosition</key>
+	<string>popupViaMemento</string>
+	<key>equalizationCommandMode</key>
+	<string>lastParticleOpacity</string>
+	<key>progressbarPerPhase</key>
+	<string>sessionPatternStyle</string>
+	<key>serviceLikeCommand</key>
+	<string>monsterAgainstTier</string>
+</dict>
+</plist>

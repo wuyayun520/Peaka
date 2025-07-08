@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintSinceComposite</key>
+	<string>decorationAroundStrategy</string>
+	<key>factoryOutsideProxy</key>
+	<string>equalizationBridgeStyle</string>
+	<key>invisibleCupertinoTheme</key>
+	<string>aspectSingletonLocation</string>
+	<key>layoutSingletonInset</key>
+	<string>routerFacadeColor</string>
+	<key>normalStorageBorder</key>
+	<string>baseForScope</string>
+	<key>providerAboutProcess</key>
+	<string>smartSliderSpeed</string>
+	<key>sizeExceptLevel</key>
+	<string>adaptiveStorageFlags</string>
+	<key>themeInOperation</key>
+	<string>nextDropdownbuttonDelay</string>
+	<key>webAppbarInteraction</key>
+	<string>immediateBuilderTag</string>
+</dict>
+</plist>

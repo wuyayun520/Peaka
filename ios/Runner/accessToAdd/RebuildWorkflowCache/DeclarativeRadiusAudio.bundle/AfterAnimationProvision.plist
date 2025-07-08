@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheThroughProxy</key>
+	<string>disabledGraphHead</string>
+	<key>interactiveResolverDensity</key>
+	<string>completionAsType</string>
+	<key>scaleThroughJob</key>
+	<string>intensityUntilMethod</string>
+	<key>taskJobVisibility</key>
+	<string>exceptionSingletonShape</string>
+</dict>
+</plist>

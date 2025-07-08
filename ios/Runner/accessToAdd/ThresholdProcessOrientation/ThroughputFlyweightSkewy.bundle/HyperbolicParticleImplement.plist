@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectForFacade</key>
+	<string>localizationPrototypeStyle</string>
+	<key>injectionByContext</key>
+	<string>intensityCommandAppearance</string>
+	<key>providerViaBridge</key>
+	<string>intensityBesideComposite</string>
+	<key>sampleDuringFlyweight</key>
+	<string>permissiveBoxshadowShape</string>
+</dict>
+</plist>

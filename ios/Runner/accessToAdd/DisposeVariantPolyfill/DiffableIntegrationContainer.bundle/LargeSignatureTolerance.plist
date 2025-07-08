@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxLayerTail</key>
+	<string>singletonDuringShape</string>
+	<key>commandIncludeFramework</key>
+	<string>normalCollectionTheme</string>
+	<key>fragmentAsBridge</key>
+	<string>themeInterpreterSkewx</string>
+	<key>grainStrategyValidation</key>
+	<string>chartFlyweightBound</string>
+	<key>musicAwayParam</key>
+	<string>frameStyleLocation</string>
+	<key>numericalServiceCenter</key>
+	<string>groupInterpreterSkewy</string>
+	<key>permissiveLayoutBottom</key>
+	<string>rectPlatformAcceleration</string>
+	<key>similarSpineRate</key>
+	<string>ignoredDurationStyle</string>
+	<key>sinkAtStructure</key>
+	<string>webCacheVelocity</string>
+	<key>stateWithoutParameter</key>
+	<string>asyncCycleSpeed</string>
+</dict>
+</plist>

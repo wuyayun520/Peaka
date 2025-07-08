@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitStateTail</key>
+	<string>inkwellMementoFrequency</string>
+	<key>captionOutsideMemento</key>
+	<string>segueOrLayer</string>
+	<key>coordinatorAdapterDirection</key>
+	<string>utilAlongForm</string>
+	<key>gestureOrProxy</key>
+	<string>reusableSignTheme</string>
+</dict>
+</plist>

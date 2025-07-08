@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectNearObserver</key>
+	<string>resultFromChain</string>
+	<key>graphicActivityMargin</key>
+	<string>playbackOperationVisible</string>
+	<key>momentumLikeDecorator</key>
+	<string>scaleDecoratorVelocity</string>
+	<key>notificationStateOffset</key>
+	<string>curveObserverSize</string>
+	<key>optimizerVersusVisitor</key>
+	<string>mediaAgainstMode</string>
+	<key>providerCompositeStatus</key>
+	<string>touchNearProcess</string>
+</dict>
+</plist>

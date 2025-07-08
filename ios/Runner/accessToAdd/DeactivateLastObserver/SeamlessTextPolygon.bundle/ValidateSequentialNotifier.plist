@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFacadeVisible</key>
+	<string>dropdownbuttonScopeDelay</string>
+	<key>declarativeSpineRight</key>
+	<string>menuAboutFlyweight</string>
+	<key>getxAsMode</key>
+	<string>compositionalTweenTag</string>
+	<key>hardMenuSkewx</key>
+	<string>contractionVisitorTag</string>
+	<key>nativeRichtextFeedback</key>
+	<string>prevProviderBottom</string>
+	<key>reductionMethodVisible</key>
+	<string>routeWorkInset</string>
+	<key>resizableSwitchLeft</key>
+	<string>responsiveAllocatorSpacing</string>
+	<key>segmentKindDensity</key>
+	<string>flexibleLabelOrigin</string>
+	<key>synchronousSizeMargin</key>
+	<string>currentKernelColor</string>
+</dict>
+</plist>

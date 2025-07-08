@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredAccessoryPosition</key>
+	<string>gatePerJob</string>
+	<key>dynamicTablePressure</key>
+	<string>layoutStateSaturation</string>
+	<key>futureWithEnvironment</key>
+	<string>typicalCollectionFlags</string>
+	<key>logarithmFromAdapter</key>
+	<string>desktopGroupFormat</string>
+	<key>menuModeBrightness</key>
+	<string>constraintLayerCoord</string>
+	<key>modelPerFramework</key>
+	<string>responsiveLayoutRight</string>
+	<key>originalModelShape</key>
+	<string>allocatorStageAcceleration</string>
+	<key>subsequentTextfieldSpacing</key>
+	<string>statefulTableStyle</string>
+</dict>
+</plist>

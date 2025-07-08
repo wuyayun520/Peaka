@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerOperationTransparency</key>
+	<string>baseStrategyScale</string>
+	<key>cursorBufferDistance</key>
+	<string>webTabbarRotation</string>
+	<key>curveMethodEdge</key>
+	<string>remainderThanStyle</string>
+	<key>functionalButtonOrigin</key>
+	<string>unsortedSizeSkewx</string>
+	<key>nativeEntityInterval</key>
+	<string>observerByStage</string>
+	<key>navigationInterpreterKind</key>
+	<string>concurrentWidgetVelocity</string>
+	<key>playbackFacadeTail</key>
+	<string>previewViaProxy</string>
+	<key>remainderInCycle</key>
+	<string>builderLayerLeft</string>
+	<key>synchronousServiceBorder</key>
+	<string>nodeWorkCount</string>
+</dict>
+</plist>

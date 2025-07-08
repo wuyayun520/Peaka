@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablePriorityDirection</key>
+	<string>effectPrototypeColor</string>
+	<key>contractionBeyondCycle</key>
+	<string>actionOutsideStructure</string>
+	<key>deferredPlaybackSize</key>
+	<string>agileEntityCount</string>
+	<key>immediateBuilderHue</key>
+	<string>beginnerInteractorBrightness</string>
+	<key>menuIncludeMediator</key>
+	<string>disparateCubeIndex</string>
+	<key>mutableAllocatorInterval</key>
+	<string>reactiveToolDirection</string>
+	<key>responseMediatorHue</key>
+	<string>contractionOrMethod</string>
+</dict>
+</plist>

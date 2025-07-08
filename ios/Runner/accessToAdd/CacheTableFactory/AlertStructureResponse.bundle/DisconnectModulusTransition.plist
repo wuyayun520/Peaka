@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loopAlongFlyweight</key>
+	<string>backwardClipperTint</string>
+	<key>metadataAgainstOperation</key>
+	<string>delegateForAdapter</string>
+	<key>permissiveScaffoldAcceleration</key>
+	<string>usageAmongCycle</string>
+	<key>reactiveBulletOpacity</key>
+	<string>directPlaybackTint</string>
+	<key>reducerLayerTint</key>
+	<string>aspectratioParameterPadding</string>
+	<key>usedSineColor</key>
+	<string>interpolationBeyondLayer</string>
+</dict>
+</plist>

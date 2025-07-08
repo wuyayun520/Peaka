@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gramInterpreterAlignment</key>
+	<string>framePlatformAcceleration</string>
+	<key>priorityInsideCommand</key>
+	<string>ignoredLayoutFrequency</string>
+	<key>statefulBesideFramework</key>
+	<string>pinchableListenerHead</string>
+	<key>uniformDependencyInteraction</key>
+	<string>navigatorDecoratorRate</string>
+</dict>
+</plist>

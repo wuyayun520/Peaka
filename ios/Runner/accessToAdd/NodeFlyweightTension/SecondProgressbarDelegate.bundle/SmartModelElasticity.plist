@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackEnvironmentStyle</key>
+	<string>priorCaptionDelay</string>
+	<key>characterContainMode</key>
+	<string>buttonMediatorTop</string>
+	<key>compositionScopePadding</key>
+	<string>coordinatorStyleBrightness</string>
+	<key>concreteTransitionDuration</key>
+	<string>routeOutsideFunction</string>
+	<key>enabledCaptionTint</key>
+	<string>marginBeyondComposite</string>
+	<key>enabledFrameHue</key>
+	<string>appbarMediatorPosition</string>
+	<key>flexVisitorLocation</key>
+	<string>functionalTransitionFrequency</string>
+	<key>positionedJobVelocity</key>
+	<string>resolverIncludeComposite</string>
+	<key>smartRectRotation</key>
+	<string>ignoredMapKind</string>
+</dict>
+</plist>

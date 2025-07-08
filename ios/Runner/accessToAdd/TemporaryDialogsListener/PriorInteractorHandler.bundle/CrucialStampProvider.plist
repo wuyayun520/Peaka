@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorWithStrategy</key>
+	<string>retainedPlaybackPosition</string>
+	<key>animationNearMediator</key>
+	<string>futureActionDistance</string>
+	<key>cycleOrPlatform</key>
+	<string>materialClipperBound</string>
+	<key>disparateSpecifierInterval</key>
+	<string>hardObserverInset</string>
+	<key>eagerColumnSkewx</key>
+	<string>entropyVersusObserver</string>
+	<key>marginKindType</key>
+	<string>dependencyOperationSpeed</string>
+	<key>movementMediatorFeedback</key>
+	<string>autoTweenBottom</string>
+	<key>prismaticStepColor</key>
+	<string>operationValueStyle</string>
+	<key>queryBeyondParameter</key>
+	<string>taskInsideMethod</string>
+</dict>
+</plist>

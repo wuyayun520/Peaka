@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerWithVisitor</key>
+	<string>axisActivityLeft</string>
+	<key>effectByContext</key>
+	<string>accessoryAmongPhase</string>
+	<key>injectionAgainstMediator</key>
+	<string>slashEnvironmentRight</string>
+	<key>optionVersusMemento</key>
+	<string>certificateInProxy</string>
+	<key>priorControllerBorder</key>
+	<string>concurrentUtilDepth</string>
+	<key>queueActionName</key>
+	<string>alignmentPlatformScale</string>
+	<key>routeInterpreterShape</key>
+	<string>spriteWorkPadding</string>
+	<key>spritePatternSpeed</key>
+	<string>isolateAlongScope</string>
+</dict>
+</plist>

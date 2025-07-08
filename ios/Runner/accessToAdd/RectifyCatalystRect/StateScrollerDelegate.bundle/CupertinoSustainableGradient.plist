@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediumAsyncTop</key>
+	<string>heapWithProcess</string>
+	<key>modelProxyLocation</key>
+	<string>resolverCycleRight</string>
+	<key>painterBesideContext</key>
+	<string>draggableProjectBottom</string>
+	<key>protectedTransitionSkewy</key>
+	<string>dynamicActivitySpacing</string>
+	<key>responseAlongShape</key>
+	<string>diffableControllerTop</string>
+	<key>scaleFunctionForce</key>
+	<string>gateAwayCycle</string>
+	<key>stackAsAction</key>
+	<string>binaryDecoratorRate</string>
+</dict>
+</plist>

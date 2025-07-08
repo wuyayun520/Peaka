@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDescriptionStyle</key>
+	<string>hyperbolicSpritePressure</string>
+	<key>assetModeFormat</key>
+	<string>nibBufferForce</string>
+	<key>delegateLayerTheme</key>
+	<string>widgetPatternTail</string>
+	<key>playbackAgainstFramework</key>
+	<string>controllerBesideFacade</string>
+	<key>spriteModeOffset</key>
+	<string>dropdownbuttonStateRotation</string>
+	<key>visibleIsolateColor</key>
+	<string>unactivatedConfigurationEdge</string>
+</dict>
+</plist>

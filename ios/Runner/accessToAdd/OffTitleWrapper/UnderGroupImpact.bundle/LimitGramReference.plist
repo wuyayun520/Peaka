@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeVariantLeft</key>
+	<string>canvasPlatformFeedback</string>
+	<key>decorationKindColor</key>
+	<string>cursorStrategyContrast</string>
+	<key>entropyShapeRotation</key>
+	<string>handlerPlatformSpacing</string>
+	<key>gridAdapterInterval</key>
+	<string>sineStageOrientation</string>
+	<key>liteObserverLocation</key>
+	<string>resolverBesideLevel</string>
+	<key>sortedAnimationContrast</key>
+	<string>mapVarSkewy</string>
+</dict>
+</plist>

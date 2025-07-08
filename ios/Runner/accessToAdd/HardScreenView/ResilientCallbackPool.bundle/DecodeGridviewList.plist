@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnAroundPhase</key>
+	<string>currentOverlayType</string>
+	<key>layoutValueTint</key>
+	<string>effectCommandVelocity</string>
+	<key>robustCubitValidation</key>
+	<string>popupExceptTask</string>
+	<key>scaffoldStrategyBorder</key>
+	<string>routeProcessFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticColumnBehavior</key>
+	<string>similarSpecifierStyle</string>
+	<key>boxValueType</key>
+	<string>stackPerFlyweight</string>
+	<key>flexWorkTail</key>
+	<string>titleBeyondPlatform</string>
+	<key>gesturedetectorSingletonRotation</key>
+	<string>imperativeBehaviorSpeed</string>
+	<key>resolverPerShape</key>
+	<string>denseProjectionDistance</string>
+	<key>routeAtType</key>
+	<string>tweenAwayPhase</string>
+	<key>sceneVisitorVisible</key>
+	<string>columnTempleMomentum</string>
+	<key>widgetKindScale</key>
+	<string>reactiveScrollTag</string>
+</dict>
+</plist>

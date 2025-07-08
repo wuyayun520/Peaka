@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTableDirection</key>
+	<string>entityCycleTheme</string>
+	<key>heroAboutBuffer</key>
+	<string>nodeCommandFormat</string>
+	<key>mutableTextValidation</key>
+	<string>sessionAroundObserver</string>
+	<key>pinchableReducerFrequency</key>
+	<string>ephemeralMobileMargin</string>
+	<key>responseStructureFlags</key>
+	<string>activeNotifierScale</string>
+	<key>resultAwaySingleton</key>
+	<string>operationIncludePrototype</string>
+	<key>singletonOutsideLevel</key>
+	<string>layoutIncludeShape</string>
+</dict>
+</plist>

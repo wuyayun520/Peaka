@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectShapeTop</key>
+	<string>asynchronousAlertStyle</string>
+	<key>dedicatedDelegateBottom</key>
+	<string>usedReductionTheme</string>
+	<key>fixedGridTheme</key>
+	<string>custompaintWithoutVar</string>
+	<key>nibCommandOrigin</key>
+	<string>dropdownbuttonByDecorator</string>
+	<key>positionStyleSkewy</key>
+	<string>metadataMethodOffset</string>
+	<key>queryObserverVisible</key>
+	<string>skirtExceptComposite</string>
+	<key>sensorDespiteFramework</key>
+	<string>explicitChannelCenter</string>
+</dict>
+</plist>

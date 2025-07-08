@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerMenuFlags</key>
+	<string>accordionOptionFrequency</string>
+	<key>coordinatorFromLayer</key>
+	<string>timerValueState</string>
+	<key>gestureWithoutStructure</key>
+	<string>matrixStateVisible</string>
+	<key>intensityModeTop</key>
+	<string>momentumActivityResponse</string>
+	<key>painterProcessRight</key>
+	<string>draggableStatelessTop</string>
+	<key>requiredCertificateValidation</key>
+	<string>bitrateAmongBuffer</string>
+	<key>resilientPrecisionPadding</key>
+	<string>signViaTask</string>
+	<key>semanticBuilderLeft</key>
+	<string>scrollOrNumber</string>
+</dict>
+</plist>

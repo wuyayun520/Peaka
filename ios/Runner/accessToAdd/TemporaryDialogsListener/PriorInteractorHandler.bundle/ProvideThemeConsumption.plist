@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesParameterMargin</key>
+	<string>hierarchicalConsumerAcceleration</string>
+	<key>contractionBeyondValue</key>
+	<string>indicatorBesideLevel</string>
+	<key>crudeViewContrast</key>
+	<string>sensorFromPattern</string>
+	<key>durationInPrototype</key>
+	<string>channelsAroundFacade</string>
+	<key>normalRadiusKind</key>
+	<string>localizationFacadeMode</string>
+	<key>permanentTextValidation</key>
+	<string>grainWithPhase</string>
+	<key>progressbarFlyweightBottom</key>
+	<string>topicOfPlatform</string>
+	<key>reusableTableTransparency</key>
+	<string>textLikeChain</string>
+	<key>statelessInAdapter</key>
+	<string>transformerVarStatus</string>
+	<key>statelessTextfieldTop</key>
+	<string>intensityBufferLocation</string>
+</dict>
+</plist>

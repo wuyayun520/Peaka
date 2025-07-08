@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexParameterInset</key>
+	<string>largeToolInset</string>
+	<key>permissiveWidgetValidation</key>
+	<string>constMenuFrequency</string>
+	<key>scalePhaseSize</key>
+	<string>hardMethodCoord</string>
+	<key>uniqueTabbarVelocity</key>
+	<string>builderFrameworkBorder</string>
+	<key>widgetJobScale</key>
+	<string>collectionUntilShape</string>
+</dict>
+</plist>

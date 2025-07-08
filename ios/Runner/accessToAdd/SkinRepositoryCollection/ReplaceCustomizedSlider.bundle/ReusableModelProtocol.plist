@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureValueSkewy</key>
+	<string>transitionWithParameter</string>
+	<key>localMovementSaturation</key>
+	<string>batchSingletonCoord</string>
+	<key>rectAgainstBuffer</key>
+	<string>popupChainDelay</string>
+	<key>specifyBufferDuration</key>
+	<string>activeSlashPadding</string>
+	<key>specifyPreviewName</key>
+	<string>allocatorActionFeedback</string>
+	<key>unaryContainMemento</key>
+	<string>lostSubscriptionAlignment</string>
+</dict>
+</plist>

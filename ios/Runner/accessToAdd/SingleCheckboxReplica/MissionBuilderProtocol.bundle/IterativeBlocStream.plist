@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonShapeVelocity</key>
+	<string>eventSinceType</string>
+	<key>buttonTierFeedback</key>
+	<string>behaviorBesideType</string>
+	<key>inkwellBesideShape</key>
+	<string>responseIncludeBuffer</string>
+	<key>notificationNumberLocation</key>
+	<string>unsortedSineSaturation</string>
+	<key>resultVisitorInset</key>
+	<string>liteCurveOrientation</string>
+</dict>
+</plist>

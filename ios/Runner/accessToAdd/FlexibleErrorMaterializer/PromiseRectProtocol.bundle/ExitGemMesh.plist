@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeResponseName</key>
+	<string>mobilePageviewOrientation</string>
+	<key>configurationLevelRotation</key>
+	<string>sequentialDimensionDirection</string>
+	<key>effectTempleScale</key>
+	<string>intuitiveDocumentBehavior</string>
+	<key>kernelInterpreterFormat</key>
+	<string>interpolationStateVisibility</string>
+	<key>managerFacadePosition</key>
+	<string>transitionBySystem</string>
+	<key>repositoryDespiteBuffer</key>
+	<string>sineFunctionFrequency</string>
+	<key>sceneValueSpeed</key>
+	<string>consumerPhaseTension</string>
+	<key>sinkStageVisible</key>
+	<string>currentCosineTop</string>
+	<key>stepOutsideVariable</key>
+	<string>staticDependencyShape</string>
+	<key>streamCompositeInterval</key>
+	<string>sineOfState</string>
+</dict>
+</plist>

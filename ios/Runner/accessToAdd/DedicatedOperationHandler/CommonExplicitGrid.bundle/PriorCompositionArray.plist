@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureChainEdge</key>
+	<string>notificationPhasePosition</string>
+	<key>gridAwayVariable</key>
+	<string>indicatorAsVariable</string>
+	<key>protocolMethodMode</key>
+	<string>entropyThroughChain</string>
+	<key>repositoryUntilCycle</key>
+	<string>groupNearVar</string>
+	<key>topicContainTask</key>
+	<string>crudeSceneTop</string>
+</dict>
+</plist>

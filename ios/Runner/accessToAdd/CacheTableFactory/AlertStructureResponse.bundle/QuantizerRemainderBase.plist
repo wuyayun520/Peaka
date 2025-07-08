@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableChannelAlignment</key>
+	<string>musicBridgeOrigin</string>
+	<key>compositionVariableFrequency</key>
+	<string>commonSingletonDepth</string>
+	<key>cubeViaBuffer</key>
+	<string>independentBitrateVelocity</string>
+	<key>dedicatedNodeScale</key>
+	<string>optionContainPhase</string>
+	<key>eventVariableBound</key>
+	<string>canvasStageType</string>
+	<key>factoryAdapterResponse</key>
+	<string>timerStrategyCoord</string>
+	<key>loopContextCenter</key>
+	<string>asyncThanMode</string>
+	<key>mapTypeOpacity</key>
+	<string>dedicatedObserverHue</string>
+	<key>sliderOutsideTask</key>
+	<string>equipmentParameterRight</string>
+</dict>
+</plist>

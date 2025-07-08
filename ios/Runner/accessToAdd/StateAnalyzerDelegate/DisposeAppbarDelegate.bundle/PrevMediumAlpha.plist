@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easySizeInteraction</key>
+	<string>resultPatternLeft</string>
+	<key>hierarchicalCaptionSpeed</key>
+	<string>progressbarFormPosition</string>
+	<key>intuitiveModelLeft</key>
+	<string>dropdownbuttonPerMediator</string>
+	<key>previewStageValidation</key>
+	<string>projectBridgePadding</string>
+	<key>responsiveToolValidation</key>
+	<string>mediaAsCycle</string>
+	<key>tensorSensorResponse</key>
+	<string>missionActivityRate</string>
+</dict>
+</plist>

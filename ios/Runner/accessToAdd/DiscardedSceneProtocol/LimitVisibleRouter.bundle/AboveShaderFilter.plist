@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDependencyInteraction</key>
+	<string>futureObserverOpacity</string>
+	<key>indicatorPerMediator</key>
+	<string>tweenAtFlyweight</string>
+	<key>isolateAdapterOpacity</key>
+	<string>zoneOutsideLevel</string>
+	<key>isolateDespiteTier</key>
+	<string>keyTransitionFeedback</string>
+	<key>metadataOperationAlignment</key>
+	<string>directActivityIndex</string>
+	<key>smallResourceInteraction</key>
+	<string>activatedDurationPosition</string>
+</dict>
+</plist>

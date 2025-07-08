@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionBesidePlatform</key>
+	<string>stackWithFunction</string>
+	<key>exceptionJobInterval</key>
+	<string>taskInsideAction</string>
+	<key>lastFactoryTag</key>
+	<string>protectedAllocatorDuration</string>
+	<key>mediaVisitorOrientation</key>
+	<string>newestGraphicMargin</string>
+	<key>similarInjectionResponse</key>
+	<string>statefulStreamEdge</string>
+	<key>viewParameterPressure</key>
+	<string>indicatorPlatformContrast</string>
+</dict>
+</plist>

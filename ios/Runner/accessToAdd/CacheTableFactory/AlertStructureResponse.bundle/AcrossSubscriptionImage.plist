@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryCycleShape</key>
+	<string>composableModalStyle</string>
+	<key>providerForTier</key>
+	<string>nextRadiusTheme</string>
+	<key>responsiveMarginInset</key>
+	<string>globalStorageType</string>
+	<key>routeAgainstAction</key>
+	<string>cursorFlyweightIndex</string>
+</dict>
+</plist>

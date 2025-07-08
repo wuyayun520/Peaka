@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedHandlerResponse</key>
+	<string>handlerEnvironmentOrientation</string>
+	<key>appbarDespiteContext</key>
+	<string>actionBufferInterval</string>
+	<key>asyncResponseCoord</key>
+	<string>independentIconForce</string>
+	<key>customCubitDelay</key>
+	<string>queueJobBound</string>
+	<key>unsortedPopupFormat</key>
+	<string>discardedSizeInset</string>
+</dict>
+</plist>

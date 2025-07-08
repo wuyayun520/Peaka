@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowWithFunction</key>
+	<string>curveContextSkewx</string>
+	<key>effectVersusStructure</key>
+	<string>resilientNormSkewy</string>
+	<key>intensityOutsideMode</key>
+	<string>eventVersusInterpreter</string>
+	<key>localizationInsideStyle</key>
+	<string>signIncludeFunction</string>
+	<key>scrollInsidePrototype</key>
+	<string>requestProcessLocation</string>
+	<key>substantialNibFormat</key>
+	<string>nodeUntilMethod</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonContextAcceleration</key>
+	<string>compositionalSegmentBottom</string>
+	<key>coordinatorOperationFlags</key>
+	<string>dimensionPlatformFlags</string>
+	<key>coordinatorStrategyBehavior</key>
+	<string>usageByParam</string>
+	<key>euclideanRouteFrequency</key>
+	<string>nodeDecoratorFormat</string>
+	<key>granularRadioBehavior</key>
+	<string>denseNavigatorTheme</string>
+	<key>instructionOrAction</key>
+	<string>navigatorAroundTier</string>
+	<key>liteWidgetRight</key>
+	<string>oldMasterDirection</string>
+	<key>modalIncludeType</key>
+	<string>stampLevelOpacity</string>
+	<key>queryStructureTag</key>
+	<string>routeLikePlatform</string>
+</dict>
+</plist>

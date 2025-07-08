@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticWithoutFacade</key>
+	<string>cellModeSaturation</string>
+	<key>extensionPerComposite</key>
+	<string>retainedInterfaceSaturation</string>
+	<key>navigationAsActivity</key>
+	<string>fusedConstraintInterval</string>
+	<key>sceneInterpreterDepth</key>
+	<string>mediaAboutInterpreter</string>
+</dict>
+</plist>

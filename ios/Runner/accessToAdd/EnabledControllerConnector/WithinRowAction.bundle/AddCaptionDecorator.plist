@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityChainMode</key>
+	<string>retainedRouterHue</string>
+	<key>dependencyInsideMethod</key>
+	<string>newestBuilderFeedback</string>
+	<key>responseFrameworkCount</key>
+	<string>sizedboxOrSystem</string>
+	<key>taskStageLocation</key>
+	<string>heapTierFrequency</string>
+</dict>
+</plist>

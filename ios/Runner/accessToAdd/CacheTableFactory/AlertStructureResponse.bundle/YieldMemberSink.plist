@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentScaleTail</key>
+	<string>accessoryExceptCycle</string>
+	<key>fusedTabviewShape</key>
+	<string>effectStyleBottom</string>
+	<key>permissiveEffectDirection</key>
+	<string>standaloneProgressbarSpeed</string>
+	<key>queueLikePattern</key>
+	<string>dependencyAmongLevel</string>
+	<key>spineVariableLeft</key>
+	<string>subtleMediaqueryRight</string>
+	<key>subsequentControllerTransparency</key>
+	<string>inactiveEntropyMode</string>
+</dict>
+</plist>

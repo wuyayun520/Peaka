@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoEntropyDuration</key>
+	<string>typicalDrawerInterval</string>
+	<key>cycleBufferAppearance</key>
+	<string>observerDecoratorColor</string>
+	<key>layerAsTask</key>
+	<string>flexibleToolVisibility</string>
+	<key>robustGradientAppearance</key>
+	<string>descriptorDuringScope</string>
+	<key>statelessAdapterDistance</key>
+	<string>unsortedTickerIndex</string>
+	<key>topicOfFramework</key>
+	<string>rowOfBridge</string>
+	<key>tweenOrActivity</key>
+	<string>hardUtilSaturation</string>
+</dict>
+</plist>

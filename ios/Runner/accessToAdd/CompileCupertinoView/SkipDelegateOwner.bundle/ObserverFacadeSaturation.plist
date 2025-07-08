@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>stackUntilSystem</key>
+	<string>activeTransitionRotation</string>
+	<key>stampTempleContrast</key>
+	<string>graphDecoratorPosition</string>
+	<key>standaloneNotificationSkewx</key>
+	<string>lossViaShape</string>
+	<key>threadChainRight</key>
+	<string>diffableRowRate</string>
+	<key>threadContextAppearance</key>
+	<string>modelMethodOrientation</string>
+	<key>tickerExceptAdapter</key>
+	<string>notificationSinceStage</string>
+	<key>unsortedPaddingColor</key>
+	<string>taskInterpreterName</string>
+</dict>
+</plist>

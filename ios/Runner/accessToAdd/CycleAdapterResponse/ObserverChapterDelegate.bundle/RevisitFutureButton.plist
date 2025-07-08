@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDescriptionVisible</key>
+	<string>requestChainCenter</string>
+	<key>playbackAmongStage</key>
+	<string>tabbarDuringBridge</string>
+	<key>singleOffsetName</key>
+	<string>subsequentStoreTop</string>
+	<key>skinPlatformOrientation</key>
+	<string>elasticAspectHead</string>
+</dict>
+</plist>

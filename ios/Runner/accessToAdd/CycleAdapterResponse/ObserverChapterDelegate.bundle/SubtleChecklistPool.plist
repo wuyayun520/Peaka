@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeRoleVelocity</key>
+	<string>bufferPerSystem</string>
+	<key>hardBehaviorCoord</key>
+	<string>transformerNearStructure</string>
+	<key>immediateInjectionOffset</key>
+	<string>arithmeticVarVisible</string>
+	<key>listenerVisitorLocation</key>
+	<string>delegateByDecorator</string>
+	<key>opaqueGradientTransparency</key>
+	<string>customizedStoreBorder</string>
+	<key>seamlessResourceTag</key>
+	<string>compositionCycleShape</string>
+	<key>sustainableEqualizationEdge</key>
+	<string>resizableMediaResponse</string>
+</dict>
+</plist>

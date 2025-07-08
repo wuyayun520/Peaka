@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationVersusBridge</key>
+	<string>standaloneActionAppearance</string>
+	<key>delicateModelBehavior</key>
+	<string>resolverLevelCenter</string>
+	<key>descriptionAmongVariable</key>
+	<string>interactorSystemCenter</string>
+	<key>ephemeralButtonDensity</key>
+	<string>positionInMediator</string>
+	<key>labelAndJob</key>
+	<string>statelessMetadataCoord</string>
+	<key>methodVersusPlatform</key>
+	<string>stateOutsideVariable</string>
+	<key>positionedCycleDuration</key>
+	<string>enabledLocalizationTransparency</string>
+	<key>reducerSystemVisibility</key>
+	<string>controllerThroughBridge</string>
+	<key>tweenInsideBridge</key>
+	<string>groupDespiteStrategy</string>
+</dict>
+</plist>

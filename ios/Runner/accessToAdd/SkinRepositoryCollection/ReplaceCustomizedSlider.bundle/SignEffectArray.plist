@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentModeVisibility</key>
+	<string>nextNavigationBound</string>
+	<key>futureVersusForm</key>
+	<string>methodSingletonSize</string>
+	<key>musicMediatorMargin</key>
+	<string>staticGrainLeft</string>
+	<key>navigationMementoType</key>
+	<string>usecaseAndSystem</string>
+	<key>notificationTierTail</key>
+	<string>concurrentInjectionColor</string>
+	<key>queuePerOperation</key>
+	<string>resourceOutsideFlyweight</string>
+</dict>
+</plist>

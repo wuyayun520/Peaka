@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCharacterMargin</key>
+	<string>groupUntilActivity</string>
+	<key>graphicOperationDelay</key>
+	<string>spriteAtComposite</string>
+	<key>handlerCycleSpacing</key>
+	<string>checklistFromForm</string>
+	<key>optimizerInterpreterTheme</key>
+	<string>euclideanSizedboxRate</string>
+	<key>pageviewSingletonForce</key>
+	<string>tappableResourceInterval</string>
+	<key>reactiveIconInset</key>
+	<string>commandMementoDensity</string>
+	<key>usedCustompaintShape</key>
+	<string>ephemeralNormAcceleration</string>
+</dict>
+</plist>

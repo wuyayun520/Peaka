@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAboutOperation</key>
+	<string>cardTierDensity</string>
+	<key>masterFromEnvironment</key>
+	<string>tickerStagePadding</string>
+	<key>textVisitorContrast</key>
+	<string>constTaskDepth</string>
+</dict>
+</plist>

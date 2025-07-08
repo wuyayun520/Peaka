@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyBaselineDirection</key>
+	<string>batchNumberFrequency</string>
+	<key>grainPerStage</key>
+	<string>adaptiveDecorationShape</string>
+	<key>iconNearStrategy</key>
+	<string>roleUntilSingleton</string>
+	<key>intermediateConstraintInterval</key>
+	<string>awaitFunctionAlignment</string>
+	<key>methodNearValue</key>
+	<string>unsortedCompletionOffset</string>
+	<key>sampleStateBorder</key>
+	<string>riverpodLikeMode</string>
+</dict>
+</plist>

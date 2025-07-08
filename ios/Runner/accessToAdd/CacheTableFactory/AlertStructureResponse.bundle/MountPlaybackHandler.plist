@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedWorkflowTension</key>
+	<string>gridKindAppearance</string>
+	<key>fragmentBesideParameter</key>
+	<string>independentInterpolationPressure</string>
+	<key>loopFromTask</key>
+	<string>futurePerVar</string>
+	<key>sinkTaskStyle</key>
+	<string>spriteParamDepth</string>
+	<key>tensorDescriptionAlignment</key>
+	<string>cupertinoTransitionShape</string>
+</dict>
+</plist>

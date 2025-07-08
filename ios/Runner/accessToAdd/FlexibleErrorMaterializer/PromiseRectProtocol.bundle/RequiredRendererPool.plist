@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitCompositeState</key>
+	<string>customizedOperationFeedback</string>
+	<key>entityAroundAdapter</key>
+	<string>eventProxyDuration</string>
+	<key>gramVisitorInset</key>
+	<string>apertureActionTop</string>
+	<key>immediateDocumentTop</key>
+	<string>retainedDelegateInset</string>
+	<key>lostButtonValidation</key>
+	<string>singleSegmentCenter</string>
+	<key>missionStateAlignment</key>
+	<string>alertThroughCommand</string>
+	<key>parallelAsyncShape</key>
+	<string>resizableZoneBottom</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localizationOperationBrightness</key>
+	<string>slashWithoutContext</string>
+	<key>priorObserverState</key>
+	<string>presenterThroughStage</string>
+	<key>viewDespiteProcess</key>
+	<string>nativeTouchStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentGridRight</key>
+	<string>cubitThroughStructure</string>
+	<key>managerIncludeBridge</key>
+	<string>materialNodeTransparency</string>
+	<key>queryPhaseState</key>
+	<string>awaitFromState</string>
+	<key>stateBridgeAppearance</key>
+	<string>buttonFunctionResponse</string>
+	<key>stepDecoratorTag</key>
+	<string>injectionVersusSingleton</string>
+	<key>tensorGramLocation</key>
+	<string>stampSingletonStatus</string>
+</dict>
+</plist>

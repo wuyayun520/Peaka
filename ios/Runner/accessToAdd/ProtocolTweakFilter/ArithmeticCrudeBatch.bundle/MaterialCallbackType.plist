@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateScopeTail</key>
+	<string>cycleInterpreterInset</string>
+	<key>commonRowVisibility</key>
+	<string>actionOutsideActivity</string>
+	<key>decorationKindFlags</key>
+	<string>accessibleStoryboardOrientation</string>
+	<key>groupDuringBuffer</key>
+	<string>titlePhaseBottom</string>
+	<key>iconUntilLayer</key>
+	<string>mobileFrameworkCenter</string>
+	<key>intuitiveSpinePadding</key>
+	<string>requestNumberHead</string>
+	<key>primaryFeaturePosition</key>
+	<string>crucialRouteHue</string>
+	<key>singleViewPressure</key>
+	<string>sessionNearAdapter</string>
+</dict>
+</plist>

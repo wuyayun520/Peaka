@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionInFlyweight</key>
+	<string>beginnerDurationSpacing</string>
+	<key>columnBesideEnvironment</key>
+	<string>managerAsDecorator</string>
+	<key>customizedNodeType</key>
+	<string>grayscaleParamSpeed</string>
+	<key>publicQueryFeedback</key>
+	<string>providerStructureSaturation</string>
+	<key>requestWorkShape</key>
+	<string>ternaryStateStyle</string>
+</dict>
+</plist>

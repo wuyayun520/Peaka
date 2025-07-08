@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryProxyHead</key>
+	<string>sensorVersusForm</string>
+	<key>accordionBehaviorBottom</key>
+	<string>anchorPlatformDelay</string>
+	<key>cubitOutsideEnvironment</key>
+	<string>containerShapeResponse</string>
+	<key>greatTextPressure</key>
+	<string>protectedAppbarTint</string>
+	<key>lostCatalystSkewx</key>
+	<string>listenerSinceValue</string>
+	<key>scrollableControllerTheme</key>
+	<string>directlyEquipmentScale</string>
+	<key>switchInterpreterTransparency</key>
+	<string>mediaqueryTypeDistance</string>
+	<key>symbolFromParameter</key>
+	<string>liteLoopShape</string>
+</dict>
+</plist>

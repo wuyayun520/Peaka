@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitTaskShade</key>
+	<string>sensorLikeWork</string>
+	<key>operationIncludePrototype</key>
+	<string>mobileCycleInteraction</string>
+	<key>requiredGetxState</key>
+	<string>stackContextFlags</string>
+	<key>secondCapsuleTheme</key>
+	<string>opaqueCommandMode</string>
+	<key>sophisticatedInteractorSpeed</key>
+	<string>sophisticatedEventDuration</string>
+	<key>stateJobFrequency</key>
+	<string>reusableSliderScale</string>
+</dict>
+</plist>

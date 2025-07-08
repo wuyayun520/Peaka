@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectAtBridge</key>
+	<string>indicatorJobContrast</string>
+	<key>assetThroughValue</key>
+	<string>customizedChannelSize</string>
+	<key>associatedStreamDensity</key>
+	<string>originalReducerOffset</string>
+	<key>cellVarOrientation</key>
+	<string>sinkScopeBrightness</string>
+	<key>intermediateRouteOrientation</key>
+	<string>normalBufferEdge</string>
+	<key>menuProxyBound</key>
+	<string>convolutionContextIndex</string>
+	<key>queueUntilType</key>
+	<string>tangentStyleDepth</string>
+	<key>screenEnvironmentName</key>
+	<string>autoBlocSaturation</string>
+	<key>subscriptionAgainstShape</key>
+	<string>utilVersusPlatform</string>
+</dict>
+</plist>

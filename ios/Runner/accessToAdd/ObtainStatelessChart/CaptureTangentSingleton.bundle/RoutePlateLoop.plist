@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioPlatformVisibility</key>
+	<string>routeOperationRate</string>
+	<key>constCollectionSaturation</key>
+	<string>alertOrJob</string>
+	<key>protectedAssetMode</key>
+	<string>publicBuilderKind</string>
+	<key>usecaseFromSystem</key>
+	<string>activeWidgetTheme</string>
+	<key>zonePhaseTransparency</key>
+	<string>curveInsidePlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentHistogramDepth</key>
+	<string>grayscaleAwayJob</string>
+	<key>criticalGraphVisibility</key>
+	<string>interfaceStageFlags</string>
+	<key>crucialSensorDelay</key>
+	<string>liteStampEdge</string>
+	<key>eventPerContext</key>
+	<string>kernelLayerVelocity</string>
+	<key>hashCycleFrequency</key>
+	<string>globalFrameCount</string>
+	<key>modalLayerInteraction</key>
+	<string>symmetricSineVelocity</string>
+	<key>positionStrategyBound</key>
+	<string>crudeDimensionRotation</string>
+	<key>storeAtMemento</key>
+	<string>cursorPatternDirection</string>
+</dict>
+</plist>

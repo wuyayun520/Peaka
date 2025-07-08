@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesIncludeOperation</key>
+	<string>draggableUnaryAlignment</string>
+	<key>checklistVariableEdge</key>
+	<string>mobileRepositoryBorder</string>
+	<key>dialogsContextPadding</key>
+	<string>ephemeralPreviewFeedback</string>
+	<key>nodeVariableBound</key>
+	<string>cubeBesideSingleton</string>
+	<key>promiseStateDepth</key>
+	<string>localizationExceptScope</string>
+	<key>sequentialTaskColor</key>
+	<string>tweenVarEdge</string>
+	<key>titleEnvironmentForce</key>
+	<string>intermediateTimerTheme</string>
+</dict>
+</plist>

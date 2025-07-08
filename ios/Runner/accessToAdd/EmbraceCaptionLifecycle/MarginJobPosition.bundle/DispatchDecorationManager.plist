@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSwitchShade</key>
+	<string>segmentAgainstScope</string>
+	<key>cardExceptMediator</key>
+	<string>riverpodTaskBound</string>
+	<key>eagerDecorationPadding</key>
+	<string>arithmeticSkirtMargin</string>
+	<key>mediaExceptProxy</key>
+	<string>actionChainTint</string>
+	<key>resultFunctionSkewy</key>
+	<string>allocatorWorkTint</string>
+	<key>sceneAmongProcess</key>
+	<string>baseTaskShade</string>
+	<key>sizedboxSinceType</key>
+	<string>nativeTabbarContrast</string>
+	<key>switchFromJob</key>
+	<string>sliderThroughWork</string>
+	<key>zoneTempleType</key>
+	<string>statelessAccessoryMode</string>
+</dict>
+</plist>

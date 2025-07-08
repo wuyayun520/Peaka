@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocVariablePadding</key>
+	<string>hardStoryboardCount</string>
+	<key>eventDuringEnvironment</key>
+	<string>switchDecoratorVisibility</string>
+	<key>instructionTierAlignment</key>
+	<string>isolateIncludeType</string>
+	<key>interactorAndMode</key>
+	<string>sensorBufferStatus</string>
+	<key>matrixInSingleton</key>
+	<string>tabviewInterpreterState</string>
+	<key>rowOfType</key>
+	<string>overlayScopeSkewx</string>
+	<key>storyboardTaskMomentum</key>
+	<string>sceneObserverDepth</string>
+	<key>symmetricIsolateAlignment</key>
+	<string>remainderBridgeOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintLayerTail</key>
+	<string>memberLayerTint</string>
+	<key>coordinatorFacadeResponse</key>
+	<string>hardViewAcceleration</string>
+	<key>desktopTextBottom</key>
+	<string>dropdownbuttonTaskType</string>
+	<key>gestureFrameworkForce</key>
+	<string>deferredSlashTransparency</string>
+	<key>getxSinceNumber</key>
+	<string>backwardIsolateLocation</string>
+	<key>lazyStreamType</key>
+	<string>retainedScaleDuration</string>
+	<key>missionVersusOperation</key>
+	<string>workflowAlongJob</string>
+	<key>offsetPlatformForce</key>
+	<string>columnAlongType</string>
+	<key>providerDuringPrototype</key>
+	<string>musicDespiteParam</string>
+</dict>
+</plist>

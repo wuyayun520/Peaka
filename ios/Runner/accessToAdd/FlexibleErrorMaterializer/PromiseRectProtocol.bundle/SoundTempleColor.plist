@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionProviderFlags</key>
+	<string>integerUntilSingleton</string>
+	<key>globalControllerInteraction</key>
+	<string>sequentialEventSpeed</string>
+	<key>intuitiveTangentPadding</key>
+	<string>immediateStoryboardTop</string>
+	<key>largeModalOpacity</key>
+	<string>symmetricTickerDirection</string>
+	<key>rowThroughTemple</key>
+	<string>fragmentFunctionBehavior</string>
+	<key>semanticCatalystTag</key>
+	<string>operationWithoutOperation</string>
+	<key>transformerNumberBehavior</key>
+	<string>resultVisitorSpeed</string>
+</dict>
+</plist>

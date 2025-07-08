@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletContainDecorator</key>
+	<string>hardProviderColor</string>
+	<key>containerBesidePattern</key>
+	<string>chartAndNumber</string>
+	<key>denseErrorInset</key>
+	<string>mobxAdapterAcceleration</string>
+	<key>geometricSymbolScale</key>
+	<string>imperativeControllerRotation</string>
+	<key>imageContainComposite</key>
+	<string>notificationAlongFramework</string>
+	<key>labelViaProcess</key>
+	<string>allocatorForPhase</string>
+	<key>usedPaddingKind</key>
+	<string>multiRequestAlignment</string>
+</dict>
+</plist>

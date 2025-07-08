@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitFrameworkMargin</key>
+	<string>singletonInsideComposite</string>
+	<key>basicStoryboardInteraction</key>
+	<string>mobileHistogramColor</string>
+	<key>missedInjectionState</key>
+	<string>nextCapacitiesType</string>
+	<key>projectMethodLocation</key>
+	<string>mediaqueryBufferTint</string>
+	<key>tappableHistogramPressure</key>
+	<string>synchronousAxisDelay</string>
+</dict>
+</plist>

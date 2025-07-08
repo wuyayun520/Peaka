@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPrototypeInterval</key>
+	<string>advancedBehaviorStyle</string>
+	<key>canvasForFacade</key>
+	<string>configurationAndActivity</string>
+	<key>curveStageInteraction</key>
+	<string>injectionFlyweightDirection</string>
+	<key>firstSliderRotation</key>
+	<string>discardedFeatureSize</string>
+	<key>interactorAlongOperation</key>
+	<string>uniqueSinkDensity</string>
+	<key>resourceAndKind</key>
+	<string>reactiveCallbackTransparency</string>
+	<key>sortedLogTint</key>
+	<string>smallSceneVisible</string>
+	<key>synchronousBlocShade</key>
+	<string>dependencyNearState</string>
+</dict>
+</plist>

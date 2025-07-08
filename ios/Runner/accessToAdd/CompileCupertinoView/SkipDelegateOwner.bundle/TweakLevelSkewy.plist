@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintModeSkewx</key>
+	<string>isolateVersusMode</string>
+	<key>durationChainSize</key>
+	<string>flexStrategyDelay</string>
+	<key>effectMethodShape</key>
+	<string>easySineDistance</string>
+	<key>resolverBeyondValue</key>
+	<string>enabledTimerHue</string>
+	<key>statefulAmongMediator</key>
+	<string>globalProtocolPosition</string>
+</dict>
+</plist>

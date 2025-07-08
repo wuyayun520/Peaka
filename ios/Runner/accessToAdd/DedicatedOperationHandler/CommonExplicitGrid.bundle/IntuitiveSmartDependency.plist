@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedUsagePressure</key>
+	<string>mobxThanFramework</string>
+	<key>coordinatorPerObserver</key>
+	<string>particleFunctionCoord</string>
+	<key>curveThroughNumber</key>
+	<string>timerEnvironmentMode</string>
+	<key>globalSceneCoord</key>
+	<string>cupertinoScopeShade</string>
+	<key>primaryIntensityAlignment</key>
+	<string>originalSwiftRotation</string>
+</dict>
+</plist>

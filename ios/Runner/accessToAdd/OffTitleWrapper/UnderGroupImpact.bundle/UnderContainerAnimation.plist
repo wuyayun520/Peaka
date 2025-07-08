@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderInterpreterDelay</key>
+	<string>modalThroughStage</string>
+	<key>graphAndVar</key>
+	<string>entityIncludeBuffer</string>
+	<key>iconFrameworkAppearance</key>
+	<string>activeReductionBorder</string>
+	<key>layoutShapeShape</key>
+	<string>checklistSystemMode</string>
+	<key>semanticsBeyondProcess</key>
+	<string>completerViaPlatform</string>
+</dict>
+</plist>

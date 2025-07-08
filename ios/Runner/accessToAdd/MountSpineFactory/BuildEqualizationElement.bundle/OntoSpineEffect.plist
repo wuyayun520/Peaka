@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAdapterResponse</key>
+	<string>granularPainterOpacity</string>
+	<key>interactorForMethod</key>
+	<string>toolInsideNumber</string>
+	<key>intermediateDimensionSkewy</key>
+	<string>sceneStrategyMode</string>
+	<key>layoutWithStage</key>
+	<string>axisForTier</string>
+	<key>mobileTickerInterval</key>
+	<string>taskFormOrientation</string>
+	<key>segueActionTheme</key>
+	<string>sinkBeyondMode</string>
+	<key>themeOrLevel</key>
+	<string>greatInterfaceSpacing</string>
+</dict>
+</plist>

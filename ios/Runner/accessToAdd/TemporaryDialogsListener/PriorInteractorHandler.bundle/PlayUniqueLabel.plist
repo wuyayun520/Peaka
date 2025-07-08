@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalTextureSpeed</key>
+	<string>observerFunctionBottom</string>
+	<key>diversifiedExpandedTransparency</key>
+	<string>optionLevelCenter</string>
+	<key>inactiveQueryRotation</key>
+	<string>futureFunctionVisibility</string>
+	<key>mediumModelLocation</key>
+	<string>desktopMediaqueryContrast</string>
+	<key>permanentHeapSkewy</key>
+	<string>appbarInsideFacade</string>
+	<key>segueInsideVisitor</key>
+	<string>asyncDespiteObserver</string>
+	<key>storyboardAtContext</key>
+	<string>inactiveCatalystTag</string>
+</dict>
+</plist>

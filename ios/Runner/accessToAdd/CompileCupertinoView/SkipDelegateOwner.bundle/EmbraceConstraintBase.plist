@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedReducerAlignment</key>
+	<string>permissiveErrorBrightness</string>
+	<key>bitrateContextSize</key>
+	<string>parallelEquipmentCount</string>
+	<key>brushStyleFrequency</key>
+	<string>compositionVersusWork</string>
+	<key>cardAtValue</key>
+	<string>histogramByState</string>
+	<key>delegateTierOrientation</key>
+	<string>swiftAsStyle</string>
+	<key>mediaUntilFlyweight</key>
+	<string>responsiveRowMode</string>
+	<key>semanticMonsterMargin</key>
+	<string>cursorTempleOrigin</string>
+</dict>
+</plist>

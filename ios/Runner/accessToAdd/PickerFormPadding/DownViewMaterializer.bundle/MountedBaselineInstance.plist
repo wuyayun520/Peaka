@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonSingletonColor</key>
+	<string>keyUtilSkewy</string>
+	<key>ignoredGateAcceleration</key>
+	<string>materialListenerVisibility</string>
+	<key>inactiveMediaqueryStatus</key>
+	<string>queryOperationTheme</string>
+	<key>interfaceDuringComposite</key>
+	<string>staticBuilderMargin</string>
+	<key>pageviewUntilVar</key>
+	<string>gemFunctionLocation</string>
+	<key>previewAgainstMemento</key>
+	<string>intuitiveNodeFlags</string>
+	<key>statefulTextVisible</key>
+	<string>projectionBufferScale</string>
+</dict>
+</plist>

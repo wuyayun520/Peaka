@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryInsideValue</key>
+	<string>consultativeConstraintAppearance</string>
+	<key>accordionPositionBorder</key>
+	<string>statelessReductionStyle</string>
+	<key>graphBufferVisibility</key>
+	<string>priorityInsideSingleton</string>
+	<key>gridFromFunction</key>
+	<string>priorityWithSingleton</string>
+	<key>missionAlongFlyweight</key>
+	<string>permanentCubeAppearance</string>
+	<key>mutableRouteFormat</key>
+	<string>asynchronousGradientAppearance</string>
+	<key>sampleInsideBridge</key>
+	<string>handlerByMode</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRichtextMode</key>
+	<string>enabledHeroTransparency</string>
+	<key>asyncStageInterval</key>
+	<string>activeInstructionResponse</string>
+	<key>autoLocalizationTint</key>
+	<string>newestChallengeColor</string>
+	<key>normOfFunction</key>
+	<string>utilSinceValue</string>
+	<key>similarDrawerOffset</key>
+	<string>groupTaskShape</string>
+	<key>taskAgainstFacade</key>
+	<string>entropyLevelRate</string>
+	<key>textfieldTaskRate</key>
+	<string>gridContainAction</string>
+</dict>
+</plist>

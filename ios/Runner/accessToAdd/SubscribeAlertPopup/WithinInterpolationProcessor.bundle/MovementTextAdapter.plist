@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeStreamDensity</key>
+	<string>boxEnvironmentResponse</string>
+	<key>aspectDuringTask</key>
+	<string>serviceBufferSkewy</string>
+	<key>brushUntilParam</key>
+	<string>boxSingletonSpeed</string>
+	<key>cursorSinceParameter</key>
+	<string>bufferWorkDelay</string>
+	<key>liteCoordinatorFlags</key>
+	<string>invisibleTopicHue</string>
+	<key>modalChainSize</key>
+	<string>lossWithValue</string>
+	<key>pinchableFrameDuration</key>
+	<string>normalOperationSpeed</string>
+	<key>storeAroundVariable</key>
+	<string>paddingAdapterSkewy</string>
+	<key>transitionLikeKind</key>
+	<string>labelCommandOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleExceptType</key>
+	<string>tensorStatelessContrast</string>
+	<key>gridviewTypeHead</key>
+	<string>sortedBlocInteraction</string>
+	<key>sceneOrState</key>
+	<string>asyncAwayNumber</string>
+	<key>singleRowOrientation</key>
+	<string>normLayerDirection</string>
+	<key>statefulInterfaceTag</key>
+	<string>functionalDependencyState</string>
+</dict>
+</plist>

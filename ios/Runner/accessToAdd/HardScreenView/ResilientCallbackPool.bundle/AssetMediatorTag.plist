@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerLikeCommand</key>
+	<string>baseInNumber</string>
+	<key>equalizationInterpreterVelocity</key>
+	<string>intensityLevelFormat</string>
+	<key>heapLikeBuffer</key>
+	<string>accessibleButtonSize</string>
+	<key>movementAtPhase</key>
+	<string>borderFormFlags</string>
+	<key>resourceDecoratorDuration</key>
+	<string>containerUntilStage</string>
+	<key>taskSinceLayer</key>
+	<string>currentConstraintOrientation</string>
+</dict>
+</plist>

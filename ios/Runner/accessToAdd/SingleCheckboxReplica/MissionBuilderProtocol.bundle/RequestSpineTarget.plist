@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderPatternInterval</key>
+	<string>delegateChainDuration</string>
+	<key>navigatorObserverType</key>
+	<string>zoneThroughMediator</string>
+	<key>priorityLikeWork</key>
+	<string>tensorGemInterval</string>
+	<key>providerBufferSaturation</key>
+	<string>builderModeSkewy</string>
+	<key>sceneModeDirection</key>
+	<string>materialByNumber</string>
+	<key>statefulThanDecorator</key>
+	<string>firstStoreFrequency</string>
+	<key>tickerActionValidation</key>
+	<string>concurrentFutureDensity</string>
+</dict>
+</plist>

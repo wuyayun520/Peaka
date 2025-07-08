@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupCycleFlags</key>
+	<string>immediateResourceScale</string>
+	<key>radiusByState</key>
+	<string>finalTableContrast</string>
+	<key>resolverAlongMediator</key>
+	<string>easyOffsetBehavior</string>
+	<key>resourceAgainstCycle</key>
+	<string>priorityVarState</string>
+	<key>scrollObserverLocation</key>
+	<string>dropdownbuttonPhaseResponse</string>
+	<key>sharedTextureOpacity</key>
+	<string>interfaceMediatorBottom</string>
+	<key>smartGrayscaleBorder</key>
+	<string>draggableAxisSaturation</string>
+</dict>
+</plist>

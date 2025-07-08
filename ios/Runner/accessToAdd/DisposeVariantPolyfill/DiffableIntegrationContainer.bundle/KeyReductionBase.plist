@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kernelThanKind</key>
+	<string>utilObserverTail</string>
+	<key>labelJobLeft</key>
+	<string>transitionViaFlyweight</string>
+	<key>navigatorModeFeedback</key>
+	<string>borderFacadeContrast</string>
+	<key>statefulSinkContrast</key>
+	<string>descriptionFlyweightOffset</string>
+	<key>textPerStage</key>
+	<string>collectionParamState</string>
+	<key>vectorSinceFunction</key>
+	<string>channelAboutMode</string>
+</dict>
+</plist>

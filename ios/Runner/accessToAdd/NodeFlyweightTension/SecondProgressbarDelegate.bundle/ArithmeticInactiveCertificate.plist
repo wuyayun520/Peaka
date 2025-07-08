@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialDecoratorAcceleration</key>
+	<string>hardGetxOrigin</string>
+	<key>multiConfigurationStatus</key>
+	<string>singleGradientKind</string>
+	<key>resilientOptionDelay</key>
+	<string>activatedGrainVisibility</string>
+	<key>standaloneSkinCount</key>
+	<string>nodeValueBrightness</string>
+</dict>
+</plist>
